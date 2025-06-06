@@ -1,0 +1,16 @@
+[
+  {"lang": "en-GB", "text": "Hello everyone, this is a test to see if your browser supports speech synthesis"},
+  {"lang": "en-US", "text": "Hello everyone, this is a test to see if your browser supports speech synthesis"},
+  {"lang": "uk-UA", "text": "Всім Привіт, це перевірка чи підтримує ваш браузер синтез мови"},
+  {"lang": "ru-RU", "text": "Всем Привет, это проверка поддерживает ли ваш браузер синтез речи"},
+  {
+    "lang": "fr-FR",
+    "text": "Bonjour à tous, ceci est un test pour voir si votre navigateur prend en charge la synthèse vocale"
+  },
+  {
+    "lang": "de-DE",
+    "text": "Hallo zusammen, dies ist ein Test, um zu sehen, ob Ihr Browser Sprachsynthese unterstützt"
+  },
+  {"lang": "pl-PL", "text": "Cześć wszystkim, to test sprawdzający, czy Wasza przeglądarka obsługuje syntezę mowy"}
+
+]

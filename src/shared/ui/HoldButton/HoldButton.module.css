@@ -1,0 +1,13 @@
+.btn{
+    /*border: 1px solid var(--border-color);*/
+    background-color: var(--accent-color);
+    color: var(--primary-color);
+}
+
+.hover{
+    background-color: var(--hover-color);
+}
+
+.btn:disabled{
+    opacity: 0.5;
+}

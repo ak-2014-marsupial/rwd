@@ -1,0 +1,19 @@
+.app_light_theme {
+    --background-color: #F4F8FB;
+    --card-background-color:#D4B996;
+    --text-color: #172126;
+    --primary-color: #F47A00;
+    --secondary-color: #ADEFD1;
+    --heading-color: #455a60;
+    --border-color: #dddddd;
+    --border-color-dark: #cccccc;
+    --link-color: #6200ea;
+    --accent-color: #546e7a;
+    --dropdown-color:#37474f;
+    --hover-color:#795548;
+    --success-color: #4caf50;
+    --info-color: #1D4CAA;
+    --error-color: #f44336;
+    --warning-color: #ff9800;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}

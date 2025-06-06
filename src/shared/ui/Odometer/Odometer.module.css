@@ -1,0 +1,21 @@
+.odometer {
+    display: flex;
+    overflow: hidden;
+    height: 1.5rem;
+    /*color: var(--text-color);*/
+    margin: 0.2rem;
+}
+
+.stepper {
+    position: relative;
+    display: inline-block;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+}
+
+.stepper span {
+    display: block;
+    height: 1.5rem;
+}

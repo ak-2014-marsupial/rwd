@@ -1,0 +1,36 @@
+.display_manager {
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+    background-color:inherit;
+}
+
+.animated_div {
+    overflow: hidden;
+    transition: width 2s ease, opacity 2s ease-in-out;
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    height: 7rem;
+    margin: 0 auto;
+    justify-content: space-between;
+    position: relative;
+}
+
+.closed {
+    width: 0;
+    opacity: 0;
+    background-color: var(--background-color);
+}
+
+.open {
+    opacity: 1;
+    width: 90%;
+}
+
+.btn_pulse {
+    position: absolute;
+    top: 25%;
+    left: 43%;
+}

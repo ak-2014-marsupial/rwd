@@ -1,0 +1,26 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+}
+
+.logo svg {
+    /*вендорные префиксы*/
+    -webkit-transform: rotate(0deg); /* Для Chrome и Safari */
+    -moz-transform: rotate(0deg); /* Для Firefox */
+    -ms-transform: rotate(0deg); /* Для Internet Explorer */
+    /*transform: rotate(0deg);         !* Стандартное свойство *!*/
+    transform-origin: center center;
+    transition: var(--transition-speed);
+    cursor: pointer;
+    background-color: inherit;
+}
+
+.rotate svg {
+    -webkit-transform: rotate(-180deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-180deg);
+    /*transform: rotate(-180deg);*/
+}

@@ -1,0 +1,95 @@
+@import "globalVariables.css";
+@import "themes/dark.css";
+@import "themes/light.css";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+
+html {
+  /* For Firefox */
+  /*overflow-y: scroll;*/
+  scrollbar-color: #F47A00 #455a60 ;
+  scrollbar-width: thin;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main_container {
+  background-color: var(--background-color);
+  margin: 0 auto;
+  position: relative;
+}
+
+.container {
+  margin: 0 auto;
+  position: relative;
+  max-width: var(--max-width);
+}
+.outlet {
+  position: relative;
+  /*margin-top: var(--header-height);*/
+  /*min-height: calc(100vh - var(--footer-height) - var(--header-height) - 30px);*/
+  color: var(--text-color);
+}
+
+.footer{
+  color: var(--text-color);
+  opacity: 0.8;
+  max-height: var(--footer-height);
+}
+
+.icon{
+  vertical-align: middle;
+  font-size: 1.5rem;
+  color:var(--primary-color);
+  cursor: pointer;
+}
+
+.noselect {
+  user-select: none;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /*  Firefox */
+  -ms-user-select: none; /* Internet Explorer */
+}
+button{
+  border: none;
+  cursor: pointer;
+
+  appearance: none;
+  outline: none;
+  background: none;
+}
+
+/*!*Scrollbar chrome, safari*!*/
+/*body::-webkit-scrollbar {*/
+/*  width: 0.5rem;*/
+/*}*/
+
+/*body::-webkit-scrollbar-thumb {*/
+/*  background-color: #F47A00;*/
+/*}*/

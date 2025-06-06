@@ -1,0 +1,65 @@
+.main_container {
+    background-color: var(--background-color);
+    margin: 0 auto;
+    position: relative;
+    /*height: 100vh;*/
+    height: 100dvh;
+    transition: height 0.5s linear;
+}
+
+.container {
+    height: 100%;
+    /*height: 100vh; !* Высота контента *!*/
+}
+
+.outlet {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+}
+
+
+
+.side_bar {
+    top: 0;
+    height: 100vh;
+    background-color: var(--heading-color);
+    color: white;
+    overflow-y: auto;
+    /*transition: transform 0.7s linear;*/
+    z-index: 100;
+}
+
+.side_bar_mobile {
+    position: fixed;
+    left: calc(var(--sidebar-width-mobile) * -1);
+    width: var(--sidebar-width-mobile);
+}
+
+.side_bar_show {
+    transform: translateX(100%);
+}
+
+
+.side_bar_tablet {
+    position: fixed;
+    left: 0;
+    width: var(--sidebar-width-sm);
+}
+
+.tooltip_show {
+    width: var(--sidebar-width-xl);
+}
+
+.side_bar_desktop {
+    position: fixed;
+    left: 0;
+    width: var(--sidebar-width-xl);
+}
+
+.hold_button{
+    position: absolute;
+    right: 0.2rem;
+    top:2rem;
+    z-index: var(--burger-z-index);
+}

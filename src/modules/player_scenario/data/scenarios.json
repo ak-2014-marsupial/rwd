@@ -1,0 +1,147 @@
+{
+  "123": {
+    "title": "My First scenario",
+    "actions": [
+      {
+        "step": 1,
+        "type": "show",
+        "field": "native"
+      },
+      {
+        "step": 2,
+        "type": "sound",
+        "field": "native",
+        "repeats": 1,
+        "delay": 3
+      },
+      {
+        "step": 3,
+        "type": "show",
+        "field": "foreign"
+      },
+      {
+        "step": 4,
+        "type": "sound",
+        "field": "foreign",
+        "repeats": 2,
+        "delay": 3
+      }
+
+    ]
+  },
+
+  "english": {
+    "title": "My Second scenario",
+    "actions": [
+      {
+        "step": 1,
+        "type": "card",
+        "field": "native",
+        "repeats": 1,
+        "delay": 3
+      },
+      {
+        "step": 2,
+        "type": "card",
+        "field": "foreign",
+        "repeats": 2,
+        "delay": 3
+      }
+    ]
+  },
+  "ukrainian": {
+    "title": "ukrainian scenario",
+    "actions": [
+      {
+        "id": 0,
+        "type": "show",
+        "field": "foreign",
+        "props": {
+          "title": "title",
+          "words": "words"
+        }
+      },
+      {
+        "id": 1,
+        "type":"pause",
+        "delay": 5,
+        "props": {
+          "delay": 4
+        }
+      },
+
+      {
+        "id": 2,
+        "type": "show",
+        "field": "native",
+        "props": {
+          "title": "title",
+          "words": "words"
+        }
+      },
+      {
+        "id": 3,
+        "type": "sound",
+        "field": "native",
+        "props": {
+          "repeats": 3,
+          "delay": 4
+        }
+      }
+    ]
+  },
+  "english_2": {
+    "title": "English scenario 2",
+    "actions": [
+      {
+        "step": 1,
+        "id": 0,
+        "type": "show",
+        "field": "native",
+        "props": {
+          "title": "title",
+          "words": "words"
+        }
+      },
+      {
+        "step": 2,
+        "id": 1,
+        "type": "sound",
+        "field": "native",
+        "props": {
+          "repeats": 1,
+          "delay": 6
+        }
+      },
+      {
+        "step": 3,
+        "id": 2,
+        "type": "show",
+        "field": "foreign",
+        "props": {
+          "title": "title",
+          "words": "words"
+        }
+      },
+      {
+        "step": 4,
+        "id": 3,
+        "type": "sound",
+        "field": "foreign",
+        "props": {
+          "repeats": 3,
+          "delay": 5
+        }
+      },
+      {
+        "step":5,
+        "id": 4,
+        "type":"pause",
+        "delay": 5,
+        "props": {
+          "delay": 4
+        }
+      }
+    ]
+  }
+}

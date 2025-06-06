@@ -1,0 +1,39 @@
+
+.switcher_label {
+    --after-size: 1rem;
+    position: relative;
+    width: 100%;
+    height: calc(var(--after-size) + 2 * 0.2rem);
+    display: block;
+    background: var(--border-color);
+    border-radius: var(--after-size);
+    cursor: pointer;
+    box-shadow: inset 0 5px 15px var(--shadow-color), inset 0 -5px 15px rgba(255, 255, 255, 0.3);
+}
+
+.switcher_label::after {
+    content: '';
+    position: absolute;
+    height: var(--after-size);
+    width: var(--after-size);
+    background: linear-gradient(180deg, #777, var(--primary-color));
+    border-radius: 50%;
+    top: 0.2rem;
+    left: 0.2rem;
+    transition: 0.5s;
+    box-shadow: 0 5px 10px var(--shadow-color);
+}
+
+.switcher_input:checked ~ .switcher_label::after {
+    left: 100%;
+    transform: translateX(-110%);
+    /*background: linear-gradient(180deg,#777,var(--primary-color));*/
+}
+
+
+.switcher_input {
+    display: none;
+}
+
+
+

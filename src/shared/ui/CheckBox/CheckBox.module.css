@@ -1,0 +1,54 @@
+.wrapper {
+    --element-size: 1.5rem;
+    display: block;
+    position: relative;
+    margin: 0.2rem 0;
+    padding-left: 0.2rem;
+    background: inherit;
+    color: inherit;
+}
+
+.element > input {
+    display: block;
+}
+
+.element {
+    appearance: none;
+    position: absolute;
+    top: 0;
+    left: 30%;
+    margin: 0;
+    width: var(--element-size);
+    height: var(--element-size);
+    border: 1px solid var(--border-color);
+    border-radius: 0.2rem;
+    background-color: var(--accent-color);
+}
+
+.element:checked {
+    background-color: var(--accent-color);
+}
+
+.element:checked::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -0.5rem;
+    left: 0.4rem;
+    width: 0.4rem;
+    height: 1rem;
+    border: 0.3rem solid transparent;
+    border-bottom-color: var(--error-color);
+    border-right-color: var(--error-color);
+    transform-origin: 50% 50%;
+    transform: rotate(35deg);
+    box-sizing: content-box;
+}
+
+.wrapper {
+    font-size: 0.9rem;
+    line-height: 1.2rem;
+    color: var(--text-color);
+    padding-top: var(--element-size);
+    background-color: inherit;
+}

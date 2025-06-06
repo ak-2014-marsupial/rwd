@@ -1,0 +1,14 @@
+:root {
+    --footer-height:8vh;
+    --row-min-height: 2rem;
+    --max-width:1000px;
+    --radius: 0.5rem;
+    --burger-z-index: 9;
+    --sidebar-width-zero:0;
+    --sidebar-width-mobile:70vw;
+    --sidebar-width-sm:4rem;
+    --sidebar-width-xl:15rem;
+    --toast-width:15rem;
+    --logo-width:2.5rem;
+    --transition-speed:800ms;
+}

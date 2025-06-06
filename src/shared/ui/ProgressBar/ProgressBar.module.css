@@ -1,0 +1,27 @@
+.progress_bar {
+    --progress:0;
+    --pad:0.2rem;
+    --line-color:var(--warning-color);
+    position: relative;
+    height:100%;
+    background-color: var(--accent-color);
+    border-radius: 1.5rem;
+    color: var(--secondary-color);
+    margin: 0 auto;
+}
+
+.progress_bar::before {
+    content: attr(data-label);
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: var(--pad);
+    top: var(--pad);
+    bottom: var(--pad);
+    width: calc(var(--progress, 0) * 1%);
+    min-width: 0;
+    max-width: calc(100% - 0.8rem);
+    background-color: var(--line-color);
+    border-radius: 1rem;
+    padding: 0.2rem;
+}

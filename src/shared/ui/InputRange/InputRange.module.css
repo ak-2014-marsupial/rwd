@@ -1,0 +1,62 @@
+/*********** Baseline, reset styles ***********/
+/*https://range-input-css.netlify.app/*/
+.progressBar {
+    --track-color:var(--border-color);
+    --tomb-color:var(--primary-color);
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+    /*width: 5rem;*/
+}
+
+/* Removes default focus */
+.progressBar:focus {
+    outline: none;
+}
+
+/******** Chrome, Safari, Opera and Edge Chromium styles ********/
+/* slider track */
+.progressBar::-webkit-slider-runnable-track {
+    background-color:var(--track-color);
+    border-radius: 0.5rem;
+    height: 0.5rem;
+}
+
+/* slider thumb */
+.progressBar::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    margin-top: -4px; /* Centers thumb on the track */
+    background-color: var(--tomb-color);
+    border-radius: 0.5rem;
+    height: 1rem;
+    width: 1rem;
+}
+
+.progressBar:focus::-webkit-slider-thumb {
+    outline: 3px solid var(--tomb-color);
+    outline-offset: 0.125rem;
+}
+
+/*********** Firefox styles ***********/
+/* slider track */
+.progressBar::-moz-range-track {
+    background-color: var(--track-color);
+    border-radius: 0.5rem;
+    height: 0.5rem;
+}
+
+/* slider thumb */
+.progressBar::-moz-range-thumb {
+    background-color: var(--tomb-color);
+    border: none; /*Removes extra border that FF applies*/
+    border-radius: 0.5rem;
+    height: 1rem;
+    width: 1rem;
+}
+
+.progressBar:focus::-moz-range-thumb{
+    outline: 3px solid var(--tomb-color);
+    outline-offset: 0.125rem;
+}

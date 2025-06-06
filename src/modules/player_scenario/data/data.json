@@ -1,0 +1,2315 @@
+[
+  {
+    "title": "English",
+    "children": [
+      {
+        "foreign": {
+          "title": "Hello my dear friends",
+          "lang": "en-US",
+          "words": [
+            "Hello",
+            "friend"
+          ]
+        },
+        "native": {
+          "title": "Привіт дорогі друзі",
+          "lang": "uk-UA",
+          "words": [
+            "Привіт",
+            "друг"
+          ]
+        }
+      },
+      {
+        "foreign": {
+          "title": "He also goes swimming twice a week",
+          "lang": "en-US",
+          "words": []
+        },
+        "native": {
+          "title": "Також він двічі на тиждень займається плаванням",
+          "lang": "uk-UA",
+          "words": []
+        }
+      },
+      {
+        "foreign": {
+          "title": "Do we have the same opinion?",
+          "lang": "en-US",
+          "words": []
+        },
+        "native": {
+          "title": "Чи маємо ми однакову думку?",
+          "lang": "uk-UA",
+          "words": []
+        }
+      },
+      {
+        "foreign": {
+          "title": "Let`s check if you remember the material we learned at the previous lesson",
+          "lang": "en-US",
+          "words": []
+        },
+        "native": {
+          "title": "Давайте перевіримо, чи пам'ятаєте ви матеріал, який ми вивчили на попередньму уроці",
+          "lang": "uk-UA",
+          "words": []
+        }
+      }
+    ]
+  },
+  {
+    "title": "Ukrainian",
+    "common": {
+      "lang": {
+        "foreign": "uk-UA",
+        "native": "uk-UA"
+      }
+    },
+    "data": [
+      {
+        "title": "Запам'ятай наголоси",
+        "scenarioItems": [
+          {
+            "foreign": {
+              "title": "Абияк жити — це гірше, ніж абиде перебувати",
+              "words": [
+                "абияк",
+                "абиде"
+              ]
+            },
+            "native": {
+              "title": "абИяк жити — це гірше, ніж абИде перебувати",
+              "words": [
+                "абИяк",
+                "абИде"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Адже завдання непросте, але кінчити його потрібно допізна",
+              "words": [
+                "Адже",
+                "завдання",
+                "кінчити",
+                "допізна"
+              ]
+            },
+            "native": {
+              "title": "аджЕ завдАння непросте, але кінчИти його потрібно допІзна",
+              "words": [
+                "аджЕ",
+                "завдАння",
+                "кінчИти",
+                "допІзна"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Гуртожиток стояв там, де колись виросла бородавка цивілізації",
+              "words": [
+                "гуртожиток",
+                "бородавка"
+              ]
+            },
+            "native": {
+              "title": "гуртОжиток стояв там, де колись виросла борОдавка цивілізації",
+              "words": [
+                "гуртОжиток",
+                "борОдавка"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Везла подушку до правописного класу, але ненавиділа це робити",
+              "words": [
+                "везла",
+                "ненавиділа"
+              ]
+            },
+            "native": {
+              "title": "везлА подУшку до правОписького класу, але ненАвиділа це робити",
+              "words": [
+                "везлА",
+                "подУшка",
+                "ненАвиділа",
+                "правОписького"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Дочка індустрії читала літописи про феномен чорноземів",
+              "words": [
+                "дочка",
+                "індустрії",
+                "літописи",
+                "феномен",
+                "чорноземів"
+              ]
+            },
+            "native": {
+              "title": "дочкА індУстрії читала літОписи про фенОмен чорнОземів",
+              "words": [
+                "дочкА",
+                "індУстрії",
+                "літОписи",
+                "фенОмен",
+                "чорнОземів"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Зокрема, новий квартал із мережею гуртожитків виглядає чудово",
+              "words": [
+                "зокрема",
+                "новий",
+                "квартал",
+                "мережею",
+                "гуртожитків"
+              ]
+            },
+            "native": {
+              "title": "зокрЕма, новИй квартАл із мерЕжею гуртОжитків виглядає чудово",
+              "words": [
+                "зокрЕма",
+                "новИй",
+                "квартАл",
+                "мерЕжею",
+                "гуртОжитків"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Налигач для коня лежав у просіці біля чорносиву",
+              "words": [
+                "налигач",
+                "просіці",
+                "чорносиву"
+              ]
+            },
+            "native": {
+              "title": "налИгАч для коня лежав у просІці біля чорнОсиву",
+              "words": [
+                "налИгАч",
+                "просІці",
+                "чорнОсиву"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Отамана не цікавив добуток, його пізнання зосереджувалося на засусі",
+              "words": [
+                "отамана",
+                "добуток",
+                "пізнання",
+                "засусі"
+              ]
+            },
+            "native": {
+              "title": "отАмана не цікавив добУток, його пізнАння зосереджувалося на засУсі",
+              "words": [
+                "отАмана",
+                "добУток",
+                "пізнАння",
+                "засУсі"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Шофер віз рубель до рукопису, який створив експерт",
+              "words": [
+                "шофер",
+                "рубель",
+                "рукопису",
+                "експерт"
+              ]
+            },
+            "native": {
+              "title": "шофЕр віз рубЕль до рукОписа, який створив експЕрт",
+              "words": [
+                "шофЕр",
+                "рубЕль",
+                "рукОписа",
+                "експЕрт"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Рондо шрифту на переписі виглядало ідеально, але зубожілий текст втратив зміст",
+              "words": [
+                "рондо",
+                "переписі",
+                "зубожілий"
+              ]
+            },
+            "native": {
+              "title": "рондО шрифту на перЕписі виглядав ідеально, але зубОжілий текст втратив зміст",
+              "words": [
+                "рондО",
+                "перЕписі",
+                "зубОжілий"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Чорносив і покрова прикрашали обруч для весільних традицій",
+              "words": [
+                "чорносив",
+                "обруч",
+                "покрова"
+              ]
+            },
+            "native": {
+              "title": "чорнОсив і покрОва прикрашали обрУч для весільних традицій",
+              "words": [
+                "чорнОсив",
+                "обрУч",
+                "покрОва"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Іржавіти метал може, якщо русло води перерветься",
+              "words": [
+                "іржавіти",
+                "метал",
+                "русло"
+              ]
+            },
+            "native": {
+              "title": "іржАвіти метал може, якщо руслО води перерветься",
+              "words": [
+                "іржАвіти",
+                "метал",
+                "руслО"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Перебіг подій з позаторічного кварталу нагадував справжній феномен",
+              "words": [
+                "перебіг",
+                "позаторічного",
+                "кварталу",
+                "феномен"
+              ]
+            },
+            "native": {
+              "title": "перЕбіг подій з позАторічного квартАлу нагадував справжній фенОмен",
+              "words": [
+                "перЕбіг",
+                "позАторічного",
+                "квартАлу",
+                "фенОмен"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Фартух із добутком висів у просіці біля засухи",
+              "words": [
+                "фартух",
+                "добутком",
+                "просіці",
+                "засухи"
+              ]
+            },
+            "native": {
+              "title": "фартУх із добУтком висів у просІці біля засУхи",
+              "words": [
+                "фартУх",
+                "добУтком",
+                "просІці",
+                "засУхи"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Ненавидіти рубель — це не жадання, а зубожілий стан душі",
+              "words": [
+                "ненавидіти",
+                "рубель",
+                "жадання",
+                "зубожілий"
+              ]
+            },
+            "native": {
+              "title": "ненАвидіти рубЕль — це не жадАння, а зубОжілий стан душі",
+              "words": [
+                "ненАвидіти",
+                "рубЕль",
+                "жадАння",
+                "зубОжілий"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Ненавидіти дичавіти — це аніж справжнє переживання",
+              "words": [
+                "ненавидіти",
+                "дичавіти",
+                "аніж"
+              ]
+            },
+            "native": {
+              "title": "ненАвидіти дичÁвіти — це анІж справжнє переживання",
+              "words": [
+                "ненАвидіти",
+                "дичÁвіти",
+                "анІж"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Генезис нових ідей завжди потребує добутку досвіду",
+              "words": [
+                "генезис",
+                "добутку"
+              ]
+            },
+            "native": {
+              "title": "генЕзис нових ідей завжди потребує добУтку досвіду",
+              "words": [
+                "генЕзис",
+                "добУтку"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Граблі стоять біля гуртожитку, чекаючи на свою чергу",
+              "words": [
+                "граблі",
+                "гуртожитку"
+              ]
+            },
+            "native": {
+              "title": "граблі стоять біля гуртОжитку, чекаючи на свою чергу",
+              "lang": "uk-UA",
+              "words": [
+                "граблі",
+                "гуртОжитку"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Перепустка в оптовий магазин дозволяє купувати дешевше",
+              "words": [
+                "перепустка",
+                "оптовий"
+              ]
+            },
+            "native": {
+              "title": "перЕпустка в оптОвий магазин дозволяє купувати дешевше",
+              "words": [
+                "перЕпустка",
+                "оптОвий"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Позаторік я купив щавель для приготування смачного супу",
+              "words": [
+                "позаторік",
+                "щавель"
+              ]
+            },
+            "native": {
+              "title": "позАторік я купив щавЕль для приготування смачного супу",
+              "words": [
+                "позАторік",
+                "щавЕль"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Подушка із щавлем виявилася ідеальною для відпочинку",
+              "words": [
+                "подушка"
+              ]
+            },
+            "native": {
+              "title": "подУшка із щавлем виявилася ідеальною для відпочинку",
+              "words": [
+                "подУшка"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Simple text",
+    "common": {
+      "lang": {
+        "foreign": "en-US",
+        "native": "ru-RU"
+      }
+    },
+    "data": [
+      {
+        "title": "Simple little text",
+        "scenarioItems": [
+          {
+            "foreign": {
+              "title": "Her son gets up at 7 o'clock.",
+              "lang": "en-US",
+              "words": [
+                "o'clock"
+              ]
+            },
+            "native": {
+              "title": "Её сын встает в 7 часов.",
+              "lang": "ru-RU",
+              "words": [
+                "час"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "He does morning exercises every day.",
+              "lang": "en-US",
+              "words": [
+                "exercises"
+              ]
+            },
+            "native": {
+              "title": "Он делает утреннюю зарядку каждый день.",
+              "lang": "ru-RU",
+              "words": [
+                "зарядка"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Then he goes to the bathroom, where he takes a cold shower and brushes his teeth.",
+              "lang": "en-US",
+              "words": [
+                "bathroom",
+                "shower",
+                "teeth"
+              ]
+            },
+            "native": {
+              "title": "Затем он идет в ванную, где принимает холодный душ и чистит зубы.",
+              "lang": "ru-RU",
+              "words": [
+                "ванная",
+                "душ",
+                "зубы"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "After that, he has breakfast.",
+              "lang": "en-US",
+              "words": [
+                "breakfast"
+              ]
+            },
+            "native": {
+              "title": "После этого он завтракает.",
+              "lang": "ru-RU",
+              "words": [
+                "завтрак"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Usually, he has porridge, a sandwich, and a cup of black tea for breakfast.",
+              "lang": "en-US",
+              "words": [
+                "porridge"
+              ]
+            },
+            "native": {
+              "title": "Обычно у него на завтрак каша, бутерброд и чашка черного чая.",
+              "lang": "ru-RU",
+              "words": [
+                "каша"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "After breakfast, her son takes his backpack and goes to school.",
+              "lang": "en-US",
+              "words": [
+                "backpack"
+              ]
+            },
+            "native": {
+              "title": "После завтрака ее сын берет свой портфель и отправляется в школу.",
+              "lang": "ru-RU",
+              "words": [
+                "портфель"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Usually, he gets there by bus.",
+              "lang": "en-US",
+              "words": [
+                "bus"
+              ]
+            },
+            "native": {
+              "title": "Обычно он добирается туда на автобусе.",
+              "lang": "ru-RU",
+              "words": [
+                "автобус"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Every day her son has 6 or 7 lessons.",
+              "lang": "en-US",
+              "words": [
+                "lessons"
+              ]
+            },
+            "native": {
+              "title": "Каждый день у ее сына 6 или 7 уроков.",
+              "lang": "ru-RU",
+              "words": [
+                "уроки"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "He studies well.",
+              "lang": "en-US",
+              "words": [
+                "studies"
+              ]
+            },
+            "native": {
+              "title": "Он учится хорошо.",
+              "lang": "ru-RU",
+              "words": [
+                "учится"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "Her son's favorite school subject is literature.",
+              "lang": "en-US",
+              "words": [
+                "literature"
+              ]
+            },
+            "native": {
+              "title": "Любимый школьный предмет ее сына — литература.",
+              "lang": "ru-RU",
+              "words": [
+                "литература"
+              ]
+            }
+          },
+          {
+            "foreign": {
+              "title": "He always learns many different poems by heart and gets good grades.",
+              "lang": "en-US",
+              "words": [
+                "poems",
+                "heart"
+              ]
+            },
+            "native": {
+              "title": "Он всегда учит много разных стихов наизусть и получает хорошие оценки.",
+              "lang": "ru-RU",
+              "words": [
+                "стих",
+                "наизусть"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Irregular verbs",
+    "common": {
+      "lang": {
+        "foreign": "en-US",
+        "native": "ru-RU"
+      }
+    },
+    "data": [
+      {
+        "title": "get got gotten",
+        "scenarioItems": [
+          {
+            "foreign": {
+              "title": "I get up early every day to exercise.",
+              "words": []
+            },
+            "native": {
+              "title": "Я встаю рано каждый день, чтобы заниматься спортом.",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": "Yesterday, I got a new book from the library.",
+              "words": []
+            },
+            "native": {
+              "title": " Вчера я получил новую книгу из библиотеки.",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": " I have gotten better at speaking English since I started practicing regularly.",
+              "words": []
+            },
+            "native": {
+              "title": "Я стал лучше говорить по-английски с тех пор, как начал регулярно практиковаться.",
+              "words": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "think thought thought",
+        "scenarioItems": [
+          {
+            "foreign": {
+              "title": "I think it’s going to rain today."
+            },
+            "native": {
+              "title": "Я думаю, что сегодня будет дождь."
+            }
+          },
+          {
+            "foreign": {
+              "title": " She thought about the problem for a long time before deciding. "
+            },
+            "native": {
+              "title": " Она долго думала о проблеме, прежде чем принять решение. "
+            }
+          },
+          {
+            "foreign": {
+              "title": " We have thought of several solutions to the issue."
+            },
+            "native": {
+              "title": " Мы придумали несколько решений этой проблемы."
+            }
+          }
+        ]
+      },
+      {
+        "title": "take took taken",
+        "scenarioItems": [
+          {
+            "foreign": {
+              "title": "I take my dog for a walk every evening.",
+              "words": []
+            },
+            "native": {
+              "title": "Каждый вечер я выгуливаю свою собаку.",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": " He took the wrong train and ended up in another city.",
+              "words": []
+            },
+            "native": {
+              "title": "Он сел не на тот поезд и оказался в другом городе.",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": " They have taken all the necessary precautions for the trip.",
+              "words": []
+            },
+            "native": {
+              "title": "Они приняли все необходимые меры предосторожности для поездки.",
+              "words": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "see saw seen",
+        "scenarioItems": [
+          {
+            "foreign": {
+              "title": "I see the mountains from my window. ",
+              "words": []
+            },
+            "native": {
+              "title": "Я вижу горы из своего окна. ",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": " Last summer, I saw a beautiful sunset.",
+              "words": []
+            },
+            "native": {
+              "title": "Прошлым летом я видел красивый закат.",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": "I have seen many amazing places during my travels.",
+              "words": []
+            },
+            "native": {
+              "title": " Я видел много удивительных мест во время своих путешествий.",
+              "words": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "choose chose chosen",
+        "scenarioItems": [
+          {
+            "foreign": {
+              "title": "I choose my clothes carefully every morning.",
+              "words": []
+            },
+            "native": {
+              "title": "Я тщательно выбираю свою одежду каждое утро. ",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": " Yesterday, I chose a blue shirt to wear.",
+              "words": []
+            },
+            "native": {
+              "title": " Вчера я выбрал синюю рубашку, чтобы надеть.",
+              "words": []
+            }
+          },
+          {
+            "foreign": {
+              "title": " I have chosen to study abroad next year.",
+              "words": []
+            },
+            "native": {
+              "title": " Я выбрал учиться за границей в следующем году.",
+              "words": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "awake - awoke - awoken",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Я просыпаюсь рано каждое утро.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I awake early every morning.",
+              "words": [
+                "awake"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "Вчера я проснулся от громкого звука.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Yesterday, I awoke to a loud noise.",
+              "words": [
+                "awoke"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "Я проснулся в чудесном настроением сегодня.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I have awoken with an awesome mood today.",
+              "words": [
+                "awoken",
+                "awesome"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "До того как начался дождь, я уже проснулся.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Before the rain started, I had awoken.",
+              "words": [
+                "awoken"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "be - was/were - been",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Я всегда доступен для вопросов.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I am always available for questions.",
+              "words": [
+                "be",
+                "available"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "В прошлом году я был на прекрасном концерте.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Last year, I was at an awesome concert.",
+              "words": [
+                "was",
+                "awesome"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "Я был на различных мероприятиях в этом месяце.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I have been to various events this month.",
+              "words": [
+                "been",
+                "various"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "До того как они пришли, я уже был на встрече.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Before they arrived, I had been at a meeting.",
+              "words": [
+                "been"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "bear - bore - borne",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Я не могу вынести подобные ситуации.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I cannot bear such situations.",
+              "words": [
+                "bear",
+                "similar"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "В прошлом году я вынес все трудности.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Last year, I bore all the difficulties.",
+              "words": [
+                "bore"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "Я вынес целое множество изменений.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I have borne a whole lot of changes.",
+              "words": [
+                "borne",
+                "whole"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "До того как он ушел, я уже вынес его поведение.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Before he left, I had borne his behavior.",
+              "words": [
+                "borne"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "beat - beat - beaten",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Я всегда побеждаю в этой игре.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I beat this game every time.",
+              "words": [
+                "beat"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "Вчера я победил своего друга в шахматах.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Yesterday, I beat my friend in chess.",
+              "words": [
+                "beat"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "Я побил свой собственный рекорд.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I have beaten my own record.",
+              "words": [
+                "beaten"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "До того как начался матч, я уже победил несколько раз.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Before the match started, I had beaten several times.",
+              "words": [
+                "beaten"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "become - became - become",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Я становлюсь лучше в английском языке.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I become better at English.",
+              "words": [
+                "become"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "В прошлом году я стал более уверенным.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Last year, I became more confident.",
+              "words": [
+                "became",
+                "certain"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "Я стал экспертом в своей области.",
+              "words": []
+            },
+            "foreign": {
+              "title": "I have become an expert in my field.",
+              "words": [
+                "become"
+              ]
+            }
+          },
+          {
+            "native": {
+              "title": "До того как вышел новый закон, я уже стал осведомленным.",
+              "words": []
+            },
+            "foreign": {
+              "title": "Before the new law came out, I had become informed.",
+              "words": [
+                "become",
+                "recent"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Оваденко Lesson 10",
+    "common": {
+      "lang": {
+        "foreign": "en-US",
+        "native": "ru-RU"
+      }
+    },
+    "data": [
+      {
+        "title": "Exercise 10.1",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Дай эту ручку ему. Дай ему эту ручку."
+            },
+            "foreign": {
+              "title": "Give this pen to him. Give him this pen."
+            }
+          },
+          {
+            "native": {
+              "title": "Он часто звонит своему брату. Она часто звонит своим братьям."
+            },
+            "foreign": {
+              "title": "He often calls his brother. She often calls her brothers."
+            }
+          },
+          {
+            "native": {
+              "title": "Принеси ей чай. Принеси чай ей."
+            },
+            "foreign": {
+              "title": "Bring her tea. Bring tea to her."
+            }
+          },
+          {
+            "native": {
+              "title": "Они часто приходят к своим друзьям. Мы часто приходим к нашим друзьям."
+            },
+            "foreign": {
+              "title": "They often come to their friends. We often come to our friends."
+            }
+          },
+          {
+            "native": {
+              "title": "Дай эту ручку Саше."
+            },
+            "foreign": {
+              "title": "Give this pen to Sasha."
+            }
+          },
+          {
+            "native": {
+              "title": "Таня и Саша хотят позвонить своей матери."
+            },
+            "foreign": {
+              "title": "Tanya and Sasha want to call their mother."
+            }
+          },
+          {
+            "native": {
+              "title": "Дай эти книги мне."
+            },
+            "foreign": {
+              "title": "Give these books to me."
+            }
+          },
+          {
+            "native": {
+              "title": "Отправь Кате письмо. Отправь письмо Кате."
+            },
+            "foreign": {
+              "title": "Send Kate a letter. Send a letter to Kate."
+            }
+          },
+          {
+            "native": {
+              "title": "Принеси немного молока своей бабушке."
+            },
+            "foreign": {
+              "title": "Bring a little milk to your grandmother."
+            }
+          },
+          {
+            "native": {
+              "title": "Тому нравится гулять со своей собакой. Мне нравится гулять со своей собакой."
+            },
+            "foreign": {
+              "title": "Tom likes to walk with his dog. I like to walk with my dog."
+            }
+          },
+          {
+            "native": {
+              "title": "Дай Наташе яблоко."
+            },
+            "foreign": {
+              "title": "Give Natasha an apple."
+            }
+          },
+          {
+            "native": {
+              "title": "Она очень любит своих детей."
+            },
+            "foreign": {
+              "title": "She loves her children very much."
+            }
+          }
+        ]
+      },
+      {
+        "title": "Exercise 10.2",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Эта машина не моя. Это твоя? — Нет, она не моя."
+            },
+            "foreign": {
+              "title": "This car is not mine. Is it yours? - No, it is not mine."
+            }
+          },
+          {
+            "native": {
+              "title": "Эта кошка твоя? — Нет, она не наша. Я думаю, она твоя."
+            },
+            "foreign": {
+              "title": "Is this cat yours? - No, it is not ours. I think it is yours."
+            }
+          },
+          {
+            "native": {
+              "title": "Это яблоко не наше. Это твое?"
+            },
+            "foreign": {
+              "title": "This apple is not ours. Is it yours?"
+            }
+          },
+          {
+            "native": {
+              "title": "Эта чашка не моя. Это его? — Да, это его. Если хочешь, возьми мою."
+            },
+            "foreign": {
+              "title": "This cup is not mine. Is this his? — Yes, this is his. If you want, take mine."
+            }
+          },
+          {
+            "native": {
+              "title": "Эта ручка не моя. Это твоя?"
+            },
+            "foreign": {
+              "title": "This pen is not mine. Is it yours?"
+            }
+          },
+          {
+            "native": {
+              "title": "Это моя собака. А где твоя?"
+            },
+            "foreign": {
+              "title": "This is my dog. And where is yours?"
+            }
+          },
+          {
+            "native": {
+              "title": "Это моя машина. А где их?"
+            },
+            "foreign": {
+              "title": "This is my car. And where is theirs?"
+            }
+          },
+          {
+            "native": {
+              "title": "Я хочу взять твою книгу, потому что моя дома."
+            },
+            "foreign": {
+              "title": "I want to take your book because mine is at home."
+            }
+          },
+          {
+            "native": {
+              "title": "У тебя нет ручки. Возьми мою."
+            },
+            "foreign": {
+              "title": "You don't have a pen. Take mine."
+            }
+          },
+          {
+            "native": {
+              "title": "Это твои дети? — Да, это мои дети. А где твои? — Мои дома."
+            },
+            "foreign": {
+              "title": "Are these your children? - Yes, these are my children. And where are yours? — Mine are at home."
+            }
+          }
+        ]
+      },
+      {
+        "title": "Exercise 10.3",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Мои дети всегда гуляют сами."
+            },
+            "foreign": {
+              "title": "My children always walk by themselves."
+            }
+          },
+          {
+            "native": {
+              "title": "Ты делаешь домашнее задание сам? — Да, я делаю его сам."
+            },
+            "foreign": {
+              "title": "Do you do your homework yourself? - Yes, I do it myself."
+            }
+          },
+          {
+            "native": {
+              "title": "У меня мало времени утром, поэтому моя дочь готовит завтрак сама."
+            },
+            "foreign": {
+              "title": "I have little time in the morning that is why my daughter cooks her breakfast herself."
+            }
+          },
+          {
+            "native": {
+              "title": "Он всегда приходит сам."
+            },
+            "foreign": {
+              "title": "He always comes himself."
+            }
+          },
+          {
+            "native": {
+              "title": "Мой сын всегда встает утром сам."
+            },
+            "foreign": {
+              "title": "My son always gets up in the morning himself."
+            }
+          },
+          {
+            "native": {
+              "title": "Они хотят готовить салат сами?"
+            },
+            "foreign": {
+              "title": "Do they want to cook the salad themselves?"
+            }
+          },
+          {
+            "native": {
+              "title": "Я всегда умываюсь рано утром."
+            },
+            "foreign": {
+              "title": "I always wash (myself) early in the morning."
+            }
+          },
+          {
+            "native": {
+              "title": "Он часто порезает себя, когда бреется."
+            },
+            "foreign": {
+              "title": "He often cuts himself when he shaves."
+            }
+          }
+        ]
+      },
+      {
+        "title": "Exercise 10.4",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Вечером я часто звоню своему брату, а Таня звонит своим друзьям."
+            },
+            "foreign": {
+              "title": "In the evening I often call my brother and Tanya calls her friends."
+            }
+          },
+          {
+            "native": {
+              "title": "Подожди немного. Я хочу попросить его купить молоко и хлеб."
+            },
+            "foreign": {
+              "title": "Wait a little. I want to ask him to buy milk and bread."
+            }
+          },
+          {
+            "native": {
+              "title": "Саша звонит нам каждый день."
+            },
+            "foreign": {
+              "title": "Sasha calls us every day."
+            }
+          },
+          {
+            "native": {
+              "title": "Он не знает о её поездке."
+            },
+            "foreign": {
+              "title": "He does not know about her trip."
+            }
+          },
+          {
+            "native": {
+              "title": "Где моя ручка? — Я не знаю, где она. Возьми мою."
+            },
+            "foreign": {
+              "title": "Where is my pen? — I don't know where it is. Take mine."
+            }
+          },
+          {
+            "native": {
+              "title": "Это его дети. А где её?"
+            },
+            "foreign": {
+              "title": "These are his children. And where are hers?"
+            }
+          },
+          {
+            "native": {
+              "title": "Этот кассета не моя. А где моя?"
+            },
+            "foreign": {
+              "title": "This cassette is not mine. And where is mine?"
+            }
+          },
+          {
+            "native": {
+              "title": "Дай этот ананас Тому. Дай Тому этот ананас."
+            },
+            "foreign": {
+              "title": "Give this pineapple to Tom. Give Tom this pineapple."
+            }
+          },
+          {
+            "native": {
+              "title": "Эти книги мои, возьми их, если хочешь."
+            },
+            "foreign": {
+              "title": "These books are mine, take them if you want."
+            }
+          },
+          {
+            "native": {
+              "title": "Помоги нам, пожалуйста."
+            },
+            "foreign": {
+              "title": "Help us, please."
+            }
+          },
+          {
+            "native": {
+              "title": "Я знаю его и его брата."
+            },
+            "foreign": {
+              "title": "I know him and his brother."
+            }
+          },
+          {
+            "native": {
+              "title": "Мы часто встречаем их здесь."
+            },
+            "foreign": {
+              "title": "We often meet them here."
+            }
+          },
+          {
+            "native": {
+              "title": "Он всегда готовит завтрак сам."
+            },
+            "foreign": {
+              "title": "He always cooks breakfast himself."
+            }
+          },
+          {
+            "native": {
+              "title": "Саша и Вася хотят поехать к бабушке летом."
+            },
+            "foreign": {
+              "title": "Sasha and Vasya want to go to their grandmother in summer."
+            }
+          },
+          {
+            "native": {
+              "title": "Она сама идет в магазин."
+            },
+            "foreign": {
+              "title": "She goes to the shop herself."
+            }
+          },
+          {
+            "native": {
+              "title": "Принеси мне кофе. Принеси кофе мне."
+            },
+            "foreign": {
+              "title": "Bring me coffee. Bring coffee to me."
+            }
+          },
+          {
+            "native": {
+              "title": "Моя мама хочет купить новую машину для себя."
+            },
+            "foreign": {
+              "title": "My mother wants to buy a new car for herself."
+            }
+          },
+          {
+            "native": {
+              "title": "Моя мама хочет купить новую машину сама."
+            },
+            "foreign": {
+              "title": "My mother wants to buy a new car herself."
+            }
+          },
+          {
+            "native": {
+              "title": "Это чемоданы твои? — Да, они все мои."
+            },
+            "foreign": {
+              "title": "Are these suitcases yours? — Yes, they are all mine."
+            }
+          },
+          {
+            "native": {
+              "title": "Мой друг много работает."
+            },
+            "foreign": {
+              "title": "My friend works much."
+            }
+          },
+          {
+            "native": {
+              "title": "Дай камеру Саше."
+            },
+            "foreign": {
+              "title": "Give the camera to Sasha."
+            }
+          },
+          {
+            "native": {
+              "title": "Сделай кофе для себя."
+            },
+            "foreign": {
+              "title": "Make coffee for yourself."
+            }
+          },
+          {
+            "native": {
+              "title": "Эндрю всегда путешествует вместе с друзьями."
+            },
+            "foreign": {
+              "title": "Andrew always travels together with his friends."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Оваденко Lesson 11",
+    "common": {
+      "lang": {
+        "foreign": "en-US",
+        "native": "ru-RU"
+      }
+    },
+    "data": [
+      {
+        "title": "Exercise 11.5",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Она часто покупает ананас."
+            },
+            "foreign": {
+              "title": "She often buys pineapple."
+            }
+          },
+          {
+            "native": {
+              "title": "Она часто покупала ананасы."
+            },
+            "foreign": {
+              "title": "She often bought pineapples."
+            }
+          },
+          {
+            "native": {
+              "title": "Она часто покупает ананасы?"
+            },
+            "foreign": {
+              "title": "Does she often buy pineapples?"
+            }
+          },
+          {
+            "native": {
+              "title": "Она часто покупала ананасы?"
+            },
+            "foreign": {
+              "title": "Did she often buy pineapples?"
+            }
+          },
+          {
+            "native": {
+              "title": "Она не часто покупает ананасы."
+            },
+            "foreign": {
+              "title": "She does not often buy pineapples."
+            }
+          },
+          {
+            "native": {
+              "title": "Она не часто покупала ананасы."
+            },
+            "foreign": {
+              "title": "She did not often buy pineapples."
+            }
+          },
+          {
+            "native": {
+              "title": "Что она часто покупает?"
+            },
+            "foreign": {
+              "title": "What does she often buy?"
+            }
+          },
+          {
+            "native": {
+              "title": "Что она часто покупала?"
+            },
+            "foreign": {
+              "title": "What did she often buy?"
+            }
+          },
+          {
+            "native": {
+              "title": "Что она хочет купить?"
+            },
+            "foreign": {
+              "title": "What does she want to buy?"
+            }
+          },
+          {
+            "native": {
+              "title": "Что она хотела купить?"
+            },
+            "foreign": {
+              "title": "What did she want to buy?"
+            }
+          },
+          {
+            "native": {
+              "title": "Кто часто покупает ананасы?"
+            },
+            "foreign": {
+              "title": "Who often buys pineapples?"
+            }
+          },
+          {
+            "native": {
+              "title": "Кто часто покупал ананасы?"
+            },
+            "foreign": {
+              "title": "Who often bought pineapples?"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Exercise 11.6",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Что ты ел на завтрак вчера?"
+            },
+            "foreign": {
+              "title": "What did you have for breakfast yesterday?"
+            }
+          },
+          {
+            "native": {
+              "title": "Они ездили в Минск?"
+            },
+            "foreign": {
+              "title": "Did they go to Minsk?"
+            }
+          },
+          {
+            "native": {
+              "title": "Мой друг знал об этом."
+            },
+            "foreign": {
+              "title": "My friend knew about it."
+            }
+          },
+          {
+            "native": {
+              "title": "Я часто писал ей письма."
+            },
+            "foreign": {
+              "title": "I often wrote her letters."
+            }
+          },
+          {
+            "native": {
+              "title": "Кто принес кофе? — Я не приносил кофе. Анна принесла кофе."
+            },
+            "foreign": {
+              "title": "Who brought coffee? - I did not bring coffee. Ann brought coffee."
+            }
+          },
+          {
+            "native": {
+              "title": "Куда они хотели поехать вчера? Они хотели поехать в ресторан или в кино?"
+            },
+            "foreign": {
+              "title": "Where did they want to go yesterday? Did they want to go to the restaurant or to the cinema?"
+            }
+          },
+          {
+            "native": {
+              "title": "Они не хотели идти в кино. Они хотели пойти в ресторан вчера."
+            },
+            "foreign": {
+              "title": "They did not want to go to the cinema. They wanted to go to the restaurant yesterday."
+            }
+          },
+          {
+            "native": {
+              "title": "Он не приглашал нас вчера."
+            },
+            "foreign": {
+              "title": "He didn't invite us yesterday."
+            }
+          },
+          {
+            "native": {
+              "title": "Он был твоим другом? — Нет, он не был моим другом."
+            },
+            "foreign": {
+              "title": "Was he your friend? — No, he wasn't my friend."
+            }
+          },
+          {
+            "native": {
+              "title": "Где ты был утром? — Я был у реки."
+            },
+            "foreign": {
+              "title": "Where were you in the morning? — I was at the river."
+            }
+          },
+          {
+            "native": {
+              "title": "Я не хотел есть. Я хотел выпить стакан сока."
+            },
+            "foreign": {
+              "title": "I did not want to eat. I wanted to drink a glass of juice."
+            }
+          },
+          {
+            "native": {
+              "title": "Когда ты пришел домой?"
+            },
+            "foreign": {
+              "title": "When did you come home?"
+            }
+          },
+          {
+            "native": {
+              "title": "Моя мама не любила вставать рано утром."
+            },
+            "foreign": {
+              "title": "My mother did not like to get up early in the morning."
+            }
+          },
+          {
+            "native": {
+              "title": "Он купил новый телевизор."
+            },
+            "foreign": {
+              "title": "He bought a new TV set."
+            }
+          },
+          {
+            "native": {
+              "title": "Мой друг не учил испанский, он учил китайский."
+            },
+            "foreign": {
+              "title": "My friend did not learn Spanish, he learnt Chinese."
+            }
+          }
+        ]
+      },
+      {
+        "title": "Exercise 11.7",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Они не поняли нас."
+            },
+            "foreign": {
+              "title": "They did not understand us."
+            }
+          },
+          {
+            "native": {
+              "title": "Мой друг получил хорошую оценку."
+            },
+            "foreign": {
+              "title": "My friend got a good mark."
+            }
+          },
+          {
+            "native": {
+              "title": "Том и Анна учились в одном институте."
+            },
+            "foreign": {
+              "title": "Tom and Ann studied at the same institute."
+            }
+          },
+          {
+            "native": {
+              "title": "Мы работали вместе несколько лет."
+            },
+            "foreign": {
+              "title": "We worked together for a few years."
+            }
+          },
+          {
+            "native": {
+              "title": "Он замораживал клубнику на зиму?"
+            },
+            "foreign": {
+              "title": "Did he freeze strawberries for winter?"
+            }
+          },
+          {
+            "native": {
+              "title": "Мой сын нарисовал красивую картину."
+            },
+            "foreign": {
+              "title": "My son drew a beautiful picture."
+            }
+          },
+          {
+            "native": {
+              "title": "Он отремонтировал свою машину в субботу."
+            },
+            "foreign": {
+              "title": "He repaired his car on Saturday."
+            }
+          },
+          {
+            "native": {
+              "title": "Кейт не пошла в школу, так как она была больна."
+            },
+            "foreign": {
+              "title": "Kate did not go to school as she was ill."
+            }
+          },
+          {
+            "native": {
+              "title": "Почему она сказала об этом только вчера?"
+            },
+            "foreign": {
+              "title": "Why did she say about it only yesterday?"
+            }
+          },
+          {
+            "native": {
+              "title": "Моя мама звонила мне, пока я был не дома?"
+            },
+            "foreign": {
+              "title": "Did my mother call me while I was away (I was not at home)?"
+            }
+          },
+          {
+            "native": {
+              "title": "Мы не получили её ответ вчера."
+            },
+            "foreign": {
+              "title": "We did not get her answer yesterday."
+            }
+          },
+          {
+            "native": {
+              "title": "Вчера я отправил письма своим друзьям."
+            },
+            "foreign": {
+              "title": "Yesterday I sent letters to my friends."
+            }
+          },
+          {
+            "native": {
+              "title": "Она купила красивое платье вчера."
+            },
+            "foreign": {
+              "title": "She bought a beautiful dress yesterday."
+            }
+          },
+          {
+            "native": {
+              "title": "Мы вернулись домой поздно вчера."
+            },
+            "foreign": {
+              "title": "We came back home late yesterday."
+            }
+          },
+          {
+            "native": {
+              "title": "Кто сделал этот салат?"
+            },
+            "foreign": {
+              "title": "Who made this salad?"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Оваденко Lesson 12",
+    "common": {
+      "lang": {
+        "foreign": "en-US",
+        "native": "ru-RU"
+      }
+    },
+    "data": [
+      {
+        "title": "Exercise 12.2",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Мой брат уехал из Амстердама вчера."
+            },
+            "foreign": {
+              "title": "My brother left Amsterdam yesterday."
+            }
+          },
+          {
+            "native": {
+              "title": "Кто уехал в Минск? — Анна уехала в Минск."
+            },
+            "foreign": {
+              "title": "Who left for Minsk? - Ann left for Minsk."
+            }
+          },
+          {
+            "native": {
+              "title": "Это тот город, где ты родился?"
+            },
+            "foreign": {
+              "title": "Is this the city (where) you were born?"
+            }
+          },
+          {
+            "native": {
+              "title": "Я часто вспоминал свою бабушку."
+            },
+            "foreign": {
+              "title": "I often remembered my grandmother."
+            }
+          },
+          {
+            "native": {
+              "title": "Дети хотят встретиться с этим писателем."
+            },
+            "foreign": {
+              "title": "The children want to meet (with) this writer."
+            }
+          },
+          {
+            "native": {
+              "title": "Моя бабушка хотела испечь яблочный пирог, поэтому она попросила меня купить яблоки. Пирог был очень вкусным."
+            },
+            "foreign": {
+              "title": "My grandmother wanted to bake an apple pie that is why she asked me to buy apples. The pie was very tasty."
+            }
+          },
+          {
+            "native": {
+              "title": "Вчера мой брат уехал из Парижа в Берлин."
+            },
+            "foreign": {
+              "title": "Yesterday my brother left Paris for Berlin."
+            }
+          },
+          {
+            "native": {
+              "title": "Где ты был вчера? — Мы были дома."
+            },
+            "foreign": {
+              "title": "Where were you yesterday? - We were at home."
+            }
+          },
+          {
+            "native": {
+              "title": "Он звонил тебе вчера? — Я не думаю, что он звонил мне вчера."
+            },
+            "foreign": {
+              "title": "Did he call you yesterday? - I don't think that he called (rang) me yesterday."
+            }
+          },
+          {
+            "native": {
+              "title": "Они уехали из Парижа."
+            },
+            "foreign": {
+              "title": "They left Paris."
+            }
+          },
+          {
+            "native": {
+              "title": "Он сдал экзамен по английскому в понедельник."
+            },
+            "foreign": {
+              "title": "He passed the exam in English on Monday."
+            }
+          },
+          {
+            "native": {
+              "title": "Каждый раз, когда я звоню им, их нет дома."
+            },
+            "foreign": {
+              "title": "Every time (when) I call them they are not at home."
+            }
+          },
+          {
+            "native": {
+              "title": "Это всё, что я хотел сделать для тебя."
+            },
+            "foreign": {
+              "title": "That is all (that) I wanted to do for you."
+            }
+          },
+          {
+            "native": {
+              "title": "Почему она забывает сказать ему об этом?"
+            },
+            "foreign": {
+              "title": "Why does she forget to tell him about it?"
+            }
+          },
+          {
+            "native": {
+              "title": "Она запомнила его номер телефона."
+            },
+            "foreign": {
+              "title": "She remembered his telephone number."
+            }
+          },
+          {
+            "native": {
+              "title": "Мы не знали, куда он хотел поехать."
+            },
+            "foreign": {
+              "title": "We did not know where he wanted to go."
+            }
+          },
+          {
+            "native": {
+              "title": "Она всегда помнит день, когда мы встретились."
+            },
+            "foreign": {
+              "title": "She always remembers the day (when) we met."
+            }
+          },
+          {
+            "native": {
+              "title": "Когда твой друг вернулся в Берлин? — Он вернулся в Берлин 3 дня назад."
+            },
+            "foreign": {
+              "title": "When did your friend come back to Berlin? — He came back to Berlin 3 days ago."
+            }
+          }
+        ]
+      },
+      {
+        "title": "Exercise 12.4",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Она заплатила за свою новую квартиру слишком много."
+            },
+            "foreign": {
+              "title": "She paid for her new flat too much."
+            }
+          },
+          {
+            "native": {
+              "title": "Мы тоже хотим мороженое."
+            },
+            "foreign": {
+              "title": "We also want ice cream (as well)."
+            }
+          },
+          {
+            "native": {
+              "title": "Они тоже не ездили в Варшаву?"
+            },
+            "foreign": {
+              "title": "Didn't they go to Warsaw either?"
+            }
+          },
+          {
+            "native": {
+              "title": "Он тоже пришел вчера?"
+            },
+            "foreign": {
+              "title": "Did he also come yesterday (as well)?"
+            }
+          },
+          {
+            "native": {
+              "title": "Она тоже не хочет мороженое."
+            },
+            "foreign": {
+              "title": "She does not want ice cream either."
+            }
+          },
+          {
+            "native": {
+              "title": "Ты тоже не ездил в Ригу?"
+            },
+            "foreign": {
+              "title": "Didn't you go to Riga either?"
+            }
+          },
+          {
+            "native": {
+              "title": "Она купила слишком много молока."
+            },
+            "foreign": {
+              "title": "She bought too much milk."
+            }
+          },
+          {
+            "native": {
+              "title": "Он тоже знает о твоих проблемах."
+            },
+            "foreign": {
+              "title": "He also knows about your problems (as well)."
+            }
+          },
+          {
+            "native": {
+              "title": "Ты купил бананы тоже?"
+            },
+            "foreign": {
+              "title": "Did you buy bananas too (as well)?"
+            }
+          },
+          {
+            "native": {
+              "title": "Моего сына тоже не было там."
+            },
+            "foreign": {
+              "title": "My son wasn't there either."
+            }
+          }
+        ]
+      },
+      {
+        "title": "Exercise 12.5",
+        "scenarioItems": [
+          {
+            "native": {
+              "title": "Он тоже не liked фильм."
+            },
+            "foreign": {
+              "title": "He didn't like the film either."
+            }
+          },
+          {
+            "native": {
+              "title": "Ты помнишь день, когда мы встретились?"
+            },
+            "foreign": {
+              "title": "Do you remember the day (when) we met?"
+            }
+          },
+          {
+            "native": {
+              "title": "Кто встретил Наташу на станции? — Я думаю, мой брат встретил её на станции."
+            },
+            "foreign": {
+              "title": "Who met Natasha at the station? — I think my brother met her at the station."
+            }
+          },
+          {
+            "native": {
+              "title": "Они продали тебе дом? — Нет, я не хотел его покупать. Они хотели слишком много денег."
+            },
+            "foreign": {
+              "title": "Did they sell you the house? - No, I didn't want to buy it. They wanted too much money."
+            }
+          },
+          {
+            "native": {
+              "title": "Где была эта книга? — Она была на столе."
+            },
+            "foreign": {
+              "title": "Where was this book? — It was on the table."
+            }
+          },
+          {
+            "native": {
+              "title": "Почему ты не пришёл вчера? — Я забыл."
+            },
+            "foreign": {
+              "title": "Why didn't you come yesterday? — I forgot."
+            }
+          },
+          {
+            "native": {
+              "title": "Он тоже не думал о школе."
+            },
+            "foreign": {
+              "title": "He didn't think about the school either."
+            }
+          },
+          {
+            "native": {
+              "title": "Кого ты встретил в ресторане? — Я встретил своего старого друга."
+            },
+            "foreign": {
+              "title": "Who did you meet at the restaurant? - I met my old friend."
+            }
+          },
+          {
+            "native": {
+              "title": "Я пошёл в ванную и умыл лицо и руки. Затем я оделся и был готов позавтракать тоже."
+            },
+            "foreign": {
+              "title": "I went to the bathroom and washed my face and hands. Then I got dressed and was ready to have breakfast, too."
+            }
+          },
+          {
+            "native": {
+              "title": "Где ты видел его вчера? — Мы видели его в театре. Его дети были с ним тоже."
+            },
+            "foreign": {
+              "title": "Where did you see him yesterday? — We saw him at the theatre. His children were with him, too."
+            }
+          },
+          {
+            "native": {
+              "title": "Я пришёл домой около семи часов вечера. Я поужинал и смотрел телевизор."
+            },
+            "foreign": {
+              "title": "I came home about seven o'clock in the evening. I had dinner and watched TV."
+            }
+          },
+          {
+            "native": {
+              "title": "Мне нравится спать, и поэтому я предпочитаю ложиться спать рано."
+            },
+            "foreign": {
+              "title": "I like to sleep and that is why I prefer to go to bed early."
+            }
+          },
+          {
+            "native": {
+              "title": "На завтрак я съел бутерброд и выпил чашку кофе. Я не люблю пить чай утром, я предпочитаю кофе."
+            },
+            "foreign": {
+              "title": "I had a sandwich and a cup of coffee for breakfast. I do not like to drink tea in the morning, I prefer coffee."
+            }
+          },
+          {
+            "native": {
+              "title": "Она тоже заплатила много денег? — Я не видел."
+            },
+            "foreign": {
+              "title": "Did she also pay much money? — I did not see."
+            }
+          },
+          {
+            "native": {
+              "title": "Это та девушка, которую ты любил?"
+            },
+            "foreign": {
+              "title": "Is this the girl (who) you loved?"
+            }
+          },
+          {
+            "native": {
+              "title": "Она готовила ужин для тебя? — Нет, она не готовила ужин для меня. У неё было мало времени."
+            },
+            "foreign": {
+              "title": "Did she cook dinner for you? — No, she didn't cook dinner for me. She had little time."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {"title": "Оваденко Lesson 13",
+    "common": {
+      "lang": {
+        "foreign": "en-US",
+        "native": "ru-RU"
+      }
+    },
+    "data": []}
+
+]

@@ -1,0 +1,38 @@
+.side_bar {
+    --height-header:"0vh";
+    top: var(--height-header);
+    height: calc(100vh - var(--height-header));
+    background-color: var(--heading-color);
+    /*color: white;*/
+    overflow-y: auto;
+    /*transition: transform 0.7s linear;*/
+    z-index: 100;
+}
+
+.side_bar_mobile {
+    position: fixed;
+    left: calc(var(--sidebar-width-mobile) * -1);
+    width: var(--sidebar-width-mobile);
+    padding-top: 2rem;
+}
+
+.side_bar_show {
+    transform: translateX(100%);
+}
+
+
+.side_bar_tablet {
+    position: fixed;
+    left: 0;
+    width: var(--sidebar-width-sm);
+}
+
+.tooltip_show {
+    width: var(--sidebar-width-xl);
+}
+
+.side_bar_desktop {
+    position: fixed;
+    left: 0;
+    width: var(--sidebar-width-xl);
+}
