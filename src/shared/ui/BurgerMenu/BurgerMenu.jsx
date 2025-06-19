@@ -2,27 +2,18 @@ import React from 'react';
 
 import css from "./BurgerMenu.module.css";
 
-const BurgerMenu = ({isOpen = false, setIsOpen, hover}) => {
+import {BurgerIcon} from "../index";
 
-    const classBurger = [css.burger, "noselect"];
-    if (isOpen) classBurger.push(css.active);
-    if (hover) classBurger.push(css.hover);
 
-    const handleClick = () => {
-        if (typeof setIsOpen === "function") {
-            return  setIsOpen(prev=>!prev);
-        }
-        return null
-    }
-
+const BurgerMenu = ({isOpen, isHover}) => {
     return (
-        <div
-            className={classBurger.join(" ")}
-            onClick={handleClick}
-        >
-            <span></span>
+        <div className={css.burger_menu}
+             style={{"--backgroundBurger": isHover ? "var(--hover-color)" : "var(--accent-color)"}}>
+            <div className={css.burger}>
+                <BurgerIcon isOpen={isOpen}/>
+            </div>
         </div>
-    );
+    )
 };
 
-export {BurgerMenu}
+export {BurgerMenu};

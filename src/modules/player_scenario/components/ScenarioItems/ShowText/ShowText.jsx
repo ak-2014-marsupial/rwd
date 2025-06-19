@@ -8,7 +8,7 @@ const ShowText = ({word, cardIndex, scenarioIndex, field}) => {
     const {state, send} = useMainStateMachine();
     const {currentScenarioIndex, currentCardIndex} = state.context;
     const isActive = cardIndex === currentCardIndex && currentScenarioIndex === scenarioIndex
-    const {title="", words=[]} = word;
+    const {title = "", words = []} = word;
     useEffect(() => {
         if (isActive) {
 
@@ -40,7 +40,10 @@ const ShowText = ({word, cardIndex, scenarioIndex, field}) => {
         return parts.map((part, index) => {
             // Если часть совпадает с одним из слов, оборачиваем в <span> с классом для подсветки
             if (words.some(word => word.toLowerCase() === part.toLowerCase())) {
-                return <span key={index} style={{fontStyle:"italic",textDecoration: "underline  var(--error-color)"}}>{part}</span>;
+                return <span key={index} style={{
+                    fontStyle: "italic",
+                    textDecoration: "underline  var(--error-color)"
+                }}>{part}</span>;
             }
             return part; // Возвращаем часть текста без изменений
         });
@@ -53,4 +56,6 @@ const ShowText = ({word, cardIndex, scenarioIndex, field}) => {
     );
 };
 
-export {ShowText};
+const showTextProps = ["word", "cardIndex", "scenarioIndex", "field"]
+
+export {ShowText, showTextProps};

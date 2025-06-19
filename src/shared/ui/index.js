@@ -4,6 +4,7 @@ export {Select} from "./select/Select";
 export {HoldButton} from "./HoldButton/HoldButton";
 export {Dropdown} from "./Dropdown/Dropdown";
 export {Dropdown2} from "./Dropdown2/Dropdown2";
+export {BurgerIcon} from "./BurgerIcon/BurgerIcon";
 export {BurgerMenu} from "./BurgerMenu/BurgerMenu"
 export {IconWithRotation} from "./IconWithRotation/IconWithRotation"
 export {Switcher} from "./Switcher/Switcher"

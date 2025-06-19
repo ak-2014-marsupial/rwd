@@ -22,11 +22,11 @@ const FrameManager = () => {
     const title = state.context?.data[currentIndex]?.title || "";
     const scenarioItems = state.context?.data[currentIndex]?.scenarioItems || [];
 
-    const renderFrames = (scenario, item) =>
+    const renderFrames = ({scenario, item, cardTextNumber}) =>
         (<div key={item.id} className={css.card}>
+            {item.id <= currentCardIndex && <div className={css.badge}>{cardTextNumber}</div>}
             {scenario.map(s => (
                 <Frame
-                    // key={`${item.id} ${s.step}`}
                     key={s.id}
                     dataItem={item}
                     cardIndex={item.id}
@@ -42,7 +42,13 @@ const FrameManager = () => {
     return (
         <>
             {title && <div className={css.text}>{title}</div>}
-            {scenarioItems && scenario && scenarioItems.map(item => (renderFrames(scenario, item)))}
+            <div>
+                {scenarioItems && scenario && scenarioItems.map((item, index) => (renderFrames({
+                    scenario,
+                    item,
+                    cardTextNumber: `${index + 1}/${scenarioItems.length}`
+                })))}
+            </div>
             <div ref={lastItemRef}></div>
         </>
     );

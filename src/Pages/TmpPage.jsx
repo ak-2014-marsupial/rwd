@@ -6,6 +6,7 @@ const TmpPage = () => {
     const [isPaused, setIsPaused] = useState(false);
     const [isStart, setIsStart] = useState(false);
 
+    // const [isOpen, setIsOpen] = useState(false)
     const styleBtn = {fontSize: "2rem", color: "white", background: "blue", height: "3rem"}
     const messageObj = {message: "Hello dear friends", type: "info"}
 
@@ -13,6 +14,7 @@ const TmpPage = () => {
         console.log("onEnd")
         setIsStart(false)
     }
+
     return (
         <div
             style={{display: "flex", marginTop: "10rem", flexDirection: "column", gap: "0.5rem", alignItems: "center"}}>
@@ -28,6 +30,8 @@ const TmpPage = () => {
                     onClick={() => setIsStart(prev => !prev)}>
                 Start {isStart.toString()}
             </button>
+
+            {/*<BurgerMenu onAction={() => setIsOpen(prev => !prev)} isOpen={isOpen}/>*/}
         </div>
     );
 };

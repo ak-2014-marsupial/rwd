@@ -76,4 +76,7 @@ const VoiceText = ({cardIndex, scenarioIndex}) => {
     );
 };
 
-export {VoiceText};
+const voiceTextProps = ["cardIndex", "scenarioIndex"]
+
+
+export {VoiceText, voiceTextProps};

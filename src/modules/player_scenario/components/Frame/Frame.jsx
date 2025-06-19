@@ -1,8 +1,6 @@
 import React from 'react';
-import {ShowText} from "../ScenarioItems/ShowText/ShowText";
-import {VoiceText} from "../ScenarioItems/VoiceText/voiceText";
 import {Default} from "../Default/Default";
-import {PauseText} from "../ScenarioItems/PauseText/PauseText";
+import {scenarioItems} from "../ScenarioItems/index.";
 
 const Frame = ({dataItem, currentScenario, cardIndex, scenarioIndex, currentCardIndex, currentScenarioIndex}) => {
     const {type, field} = currentScenario;
@@ -17,20 +15,7 @@ const Frame = ({dataItem, currentScenario, cardIndex, scenarioIndex, currentCard
     }
 
     let RenderComponent = null;
-    switch (type) {
-        case "show":
-            RenderComponent = ShowText;
-            break;
-        case "sound":
-            RenderComponent = VoiceText;
-            break;
-        case "pause":
-            RenderComponent = PauseText;
-            break
-        default:
-            RenderComponent = Default;
-    }
-
+    RenderComponent = scenarioItems[type].component || Default;
 
     // console.log(type, {field, word: dataItem[field], scenarioIndex, cardIndex})
 

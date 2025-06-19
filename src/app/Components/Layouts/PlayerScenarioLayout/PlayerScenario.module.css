@@ -13,6 +13,7 @@
 }
 
 .outlet {
+
     position: relative;
     height: 100%;
     overflow-y: auto;
@@ -57,9 +58,10 @@
     width: var(--sidebar-width-xl);
 }
 
-.hold_button{
-    position: absolute;
-    right: 0.2rem;
-    top:2rem;
-    z-index: var(--burger-z-index);
-}
+/*.hold_button{*/
+/*    position: absolute;*/
+/*    !*right: 0.2rem;*!*/
+/*    right: 0;*/
+/*    !*top:2rem;*!*/
+/*    z-index: var(--burger-z-index);*/
+/*}*/

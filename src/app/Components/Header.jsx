@@ -2,7 +2,7 @@ import React from 'react';
 
 import {useResponsiveMode} from "../hooks/useResponsiveMode";
 
-import {BurgerMenu, HoldButton} from "../../shared";
+import {BurgerIcon, HoldButton} from "../../shared";
 import css from "./Layouts/MainLayout/MainLayout.module.css"
 
 const Header = ({isOpen, setIsOpen}) => {
@@ -17,7 +17,7 @@ const Header = ({isOpen, setIsOpen}) => {
 
             {mode === "mobile" &&
                 <HoldButton onAction={toggleSideBar}>
-                    <BurgerMenu isOpen={isOpen}/>
+                    <BurgerIcon isOpen={isOpen}/>
                 </HoldButton>
             }
         </header>

@@ -1,54 +1,56 @@
 
-.burger {
+.burger_menu {
+    --width: 2.5rem;
+    --height: 3.5rem;
+    --backgroundBurger:var(--accent-color);
+    padding: 0;
+    background: var(--background-color);
+    width: var(--width);
+    height: var(--height);
+    border-radius: 50% / 50% 0 0 50%;
+    border: 1px solid var(--border-color);
+    border-right: 2px solid var(--backgroundBurger);
     display: flex;
-    position: relative;
     align-items: center;
-    justify-content: flex-end;
-    /*margin: 10px;*/
-    width: 1.5rem;
-    height: 1.2rem;
-    z-index: var(--burger-z-index);
-    cursor: pointer;
-    margin: 0.5rem;
-}
-.hover{
-    background-color: var(--hover-color);
-    transition: all var(--transition-speed) ease 0s;
-}
-.burger span {
-    height: 4px;
-    width: 80%;
-    transform: scale(1);
-    background-color: var(--primary-color);
+    overflow: hidden;
 }
 
-.burger::before, .burger::after {
+.hover {
+    background-color: var(--hover-color);
+}
+
+.burger {
+    height: calc(var(--height) * 0.8);
+    width: var(--width);
+    position: relative;
+    border-radius: 50% / 50% 0 0 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+
+    background-color: var(--backgroundBurger);
+    color: var(--primary-color);
+}
+
+.burger:before, .burger:after {
     content: "";
     position: absolute;
-    height: 4px;
-    width: 100%;
-    background-color: var(--primary-color);
-    transition: all var(--transition-speed) ease 0s;
+    background: transparent;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
 }
 
-.burger::before {
-    top: 0;
+.burger:before {
+    bottom: -20px;
+    right: 0;
+    box-shadow: 10px -10px var(--backgroundBurger);
 }
 
-.burger::after {
-    bottom: 0;
-}
-
-.burger.active span {
-    transform: scale(0);
-}
-
-.burger.active::before {
-    top: 50%;
-    transform: rotate(-45deg) translate(0, -50%);
-}
-
-.burger.active::after {
-    bottom: 50%;
-    transform: rotate(45deg) translate(0, 50%);
+.burger:after {
+    top: -20px;
+    right: 0;
+    box-shadow: 10px 10px var(--backgroundBurger);
 }

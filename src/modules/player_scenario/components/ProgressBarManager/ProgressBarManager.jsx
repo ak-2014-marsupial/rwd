@@ -25,11 +25,11 @@ const ProgressBarManager = () => {
         || isCounterActive;
 
     const currentDelayFieldName = getCurrentDelayFieldName(state.context)
-    const currentDelay = state.context[currentDelayFieldName] *1000 || 0;
-    const currentScenarioDelay = state.context[m.contextFields.scenario.currentItem]?.props?.delay *1000|| 0;
+    const currentDelay = state.context[currentDelayFieldName] * 1000 || 0;
+    const currentScenarioDelay = state.context[m.contextFields.scenario.currentItem]?.props?.delay * 1000 || 0;
     const displayObj = {
-        true: {name: "delay", value: currentScenarioDelay/1000},
-        false: {name: currentDelayFieldName, value: currentDelay/1000}
+        true: {name: "delay", value: currentScenarioDelay / 1000},
+        false: {name: currentDelayFieldName, value: currentDelay / 1000}
     }
     useEffect(() => {
         // if (!state.matches(m.state.paused)) setIsCounterActive(false)
@@ -37,16 +37,10 @@ const ProgressBarManager = () => {
     }, [state.value])
 
     const toggleIsCounterActiveClick = () => {
-
-        setIsCounterActive(prev => {
-            if (!prev) {
-                send({type: m.events.PAUSE})
-            } else {
-                send({type: m.events.REFRESH})
-            }
-            return !prev
-        })
+        setIsCounterActive(prev => !prev)
+        send({type: "TOGGLE_PAUSE_PLAY"});
     }
+
     const classList = [css.ProgressBarManager];
     classList.push(isActive ? css.open : css.closed)
 
@@ -70,7 +64,7 @@ const ProgressBarManager = () => {
             <ProgressBarWithPause
                 isStart={isActive}
                 isPause={isActive && isCounterActive}
-                duration={currentDelay/1000}
+                duration={currentDelay / 1000}
             />
 
             <CounterManager

@@ -43,7 +43,7 @@ const mainStateMachine = createMachine(
                     ...commonTransitions,
 
                     NEXT_STEP: {actions: m.actions.nextScenarioStep, target: m.state.playingScenario},
-                    SOUND:{target: m.state.sound},
+                    SOUND: {target: m.state.sound},
                     PAUSE_TEXT: [
                         {target: m.state.delayPlayingScenario, guard: "isDelayPlayingScenario"}
                     ],
@@ -84,6 +84,7 @@ const mainStateMachine = createMachine(
                 on: {
                     ...commonTransitions,
                     RUN: {target: m.state.playingScenario},
+                    "TOGGLE_PAUSE_PLAY": {target: m.state.paused}
                 },
             },
             paused: {
@@ -93,14 +94,17 @@ const mainStateMachine = createMachine(
                     ...commonTransitions,
                     RUN: {target: m.state.refresh},
                     INCREMENT: {target: m.state.paused, actions: [m.actions.increment, m.actions.saveToLocalStorage]},
-                    DECREMENT: {target: m.state.paused, actions: m.actions.decrement},
-                    REFRESH: {target: m.state.sound},
+                    DECREMENT: {target: m.state.paused, actions: [m.actions.decrement, m.actions.saveToLocalStorage]},
+                    // REFRESH: {target: m.state.sound, actions: () => console.log("REFRESH")},
+                    REFRESH: {target: m.state.refresh},
+                    "TOGGLE_PAUSE_PLAY": {target: m.state.sound}
                 },
             },
             refresh: {
-                on: {
-                    REFRESH: {target: m.state.sound, actions:[m.actions.nextScenarioStep]},
-                }
+                always: {target: m.state.sound, actions: [m.actions.nextScenarioStep]},
+                // on: {
+                //     REFRESH: {target: m.state.sound, actions: [m.actions.nextScenarioStep]},
+                // }
             },
             textSynthesis: {
                 entry: assign(() => ({isTextSynthesisPending: true})),
@@ -144,7 +148,7 @@ const mainStateMachine = createMachine(
                     // const currentIndex = context[m.contextFields.scenario.currentIndex];
                     // const {repeats, delay} = context.scenario[currentIndex].props
                     // return {soundDelay: delay, leftSoundRepeats: repeats}
-                return {}
+                    return {}
                 }
             ),
 
@@ -153,14 +157,14 @@ const mainStateMachine = createMachine(
                 const dataLength = scenario.length;
                 const newScenarioIndex = (currentIndexScenario + 1) % dataLength
                 const newScenarioItem = scenario[newScenarioIndex];
-                const {repeats:newRepeats, delay:newDelay} = context.scenario[newScenarioIndex].props
+                const {repeats: newRepeats, delay: newDelay} = context.scenario[newScenarioIndex].props
 
                 return {
                     [m.contextFields.scenario.currentIndex]: newScenarioIndex,
                     [m.contextFields.scenario.currentItem]: newScenarioItem,
                     [m.contextFields.isScenarioCompleted]: dataLength - 1 === currentIndexScenario,
-                    [m.contextFields.sound.delay]:newDelay?newDelay:1,
-                    [m.contextFields.sound.leftRepeats]:newRepeats?newRepeats:0
+                    [m.contextFields.sound.delay]: newDelay ? newDelay : 1,
+                    [m.contextFields.sound.leftRepeats]: newRepeats ? newRepeats : 0
                 }
             }),
 
@@ -171,7 +175,7 @@ const mainStateMachine = createMachine(
 
             nextCardIndex: assign(({context}) => {
                 const {currentIndex, currentCardIndex, currentScenarioIndex, data} = context
-                if(data.length ===0) return {}
+                if (data.length === 0) return {}
 
                 const dataLength = data[currentIndex].scenarioItems?.length;
                 const isCardComplete = dataLength - 1 === currentCardIndex;
@@ -186,7 +190,7 @@ const mainStateMachine = createMachine(
             }),
             prevCardIndex: assign(({context}) => {
                 const {currentIndex, currentCardIndex, currentScenarioIndex, data} = context;
-                if(data.length ===0) return {}
+                if (data.length === 0) return {}
                 const dataLength = data[currentIndex].scenarioItems.length;
                 const isCardComplete = currentCardIndex === 0;
                 const newCardIndex = isCardComplete ? currentCardIndex : (currentCardIndex - 1) % dataLength;

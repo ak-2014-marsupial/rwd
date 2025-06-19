@@ -5,13 +5,15 @@ import {useFontSizeStore} from "../../../hooks/useFontSizeStore";
 import css from "./PlayerScenario.module.css";
 import {Sidebar} from "../../Sidebar/Sidebar";
 import {Outlet} from "react-router-dom";
-import {BurgerMenu, HoldButton} from "../../../../shared";
+import {BurgerMenu} from "../../../../shared";
+import {Draggable} from "../../../../shared/ui/Draggable/Draggable";
 
 const PlayerScenarioLayout = () => {
     const {mode, rate} = useResponsiveMode();
     const [theme] = useThemeStore();
     const [fontSize] = useFontSizeStore();
     const [isOpen, setIsOpen] = useState(false);
+    const [burgerHover, setBurgerHover] = useState(false)
     useEffect(() => {
         document.documentElement.style.fontSize = `${+fontSize * rate}px`
     }, [fontSize, rate]);
@@ -23,15 +25,19 @@ const PlayerScenarioLayout = () => {
     }
 
     const toggleSideBar = () => {
-        setIsOpen(prev=>!prev)
+        setIsOpen(prev => !prev)
     }
 
     return (
         <div className={`app_${theme}_theme ${css.main_container}`}>
             {mode === "mobile" &&
-                <HoldButton onAction={toggleSideBar} className={css.hold_button}>
-                    <BurgerMenu isOpen={isOpen}/>
-                </HoldButton>
+                <Draggable onAction={toggleSideBar}
+                           offAction={() => setBurgerHover(false)}
+                           onEnter={() => setBurgerHover(true)}
+                >
+                    <BurgerMenu isOpen={isOpen} isHover={burgerHover}/>
+                </Draggable>
+
             }
 
             <div className={css.container}>
@@ -45,4 +51,4 @@ const PlayerScenarioLayout = () => {
     );
 };
 
-export  {PlayerScenarioLayout};
+export {PlayerScenarioLayout};

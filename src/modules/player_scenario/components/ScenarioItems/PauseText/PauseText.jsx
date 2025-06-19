@@ -22,4 +22,6 @@ const PauseText = ({cardIndex, scenarioIndex}) => {
     return null;
 };
 
-export {PauseText};
+const pauseTextProps = ["cardIndex", "scenarioIndex"]
+
+export {PauseText, pauseTextProps};

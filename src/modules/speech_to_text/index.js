@@ -1,5 +1,5 @@
 import SpeechRecognition, {useSpeechRecognition,} from "react-speech-recognition";
-import {HoldButton, Dropdown, IconWithRotation, useLocalStorageSync,BurgerMenu} from "../../shared/index";
+import {HoldButton, Dropdown, IconWithRotation, useLocalStorageSync,BurgerIcon} from "../../shared/index";
 import {SlArrowDown} from "react-icons/sl";
 import {appConstants} from "../../shared/constants/appConstants";
 
@@ -14,7 +14,7 @@ export {
     useSpeechRecognition,
     HoldButton,
     Dropdown,
-    BurgerMenu,
+    BurgerIcon,
     IconWithRotation,
     SlArrowDown as ArrowDown,
     languages,
