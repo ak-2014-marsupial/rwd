@@ -1,15 +1,21 @@
 {
   "lastGlobalUpdate": "2026-03-10T15:00:00Z",
   "files": {
-    "data": {
+    "studyless_pre": {
+      "id": "studyless_pre",
+      "name": "Pre-Intermediate",
+      "order": 1,
       "version": "1.2.0",
       "path": "/StudyLess_Pre.dsl",
       "size": "120kb"
     },
-    "next_new_data": {
-      "version": "1.0.1",
-      "path": "/StudyLess_Inter.dsl",
-      "size": "150kb"
+    "my_speaking": {
+      "id": "my_speaking",
+      "name": "My Speaking Practice",
+      "order": 2,
+      "version": "1.0.0",
+      "path": "/StudyLess_Pre.dsl",
+      "size": "120kb"
     }
   }
 }
