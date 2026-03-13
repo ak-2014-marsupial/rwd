@@ -13,7 +13,7 @@
       "id": "my_speaking",
       "name": "My Speaking Practice",
       "order": 2,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "path": "/My_speaking.dsl",
       "size": "6kb"
     }
