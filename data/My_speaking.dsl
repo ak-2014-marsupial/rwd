@@ -2,7 +2,7 @@
 # Lang: [en-US / uk-UA / ru-RU]
 
 ## Writing
-- I am an engineer by education, but I worked in trade for a long time as a manager. | Я є інженер за освітою, але я працював у торгівлі довгий час як менеджер. | Я инженер по образованию, но я работал в торговле долгое время как менеджер.
+- I am an engineer by education, but I worked in trade for a long time as a manager. | Я інженер за освітою, але я працював у торгівлі довгий час як менеджер. | Я инженер по образованию, но я работал в торговле долгое время как менеджер.
   [tags: #writing]
 
 - I always tried to improve and automate work at my company. | Я завжди намагався покращувати та автоматизувати роботу у моїй компанії. | Я всегда старался улучшать и автоматизировать работу в моей компании.
@@ -96,7 +96,7 @@
   [tags: #writing]
 
   # Title: 05 Family holiday
-  # Lang: en-US / uk-UA / ru-RU
+  # Lang: [en-US / uk-UA / ru-RU]
 
   ## writing
   - What is your favorite holiday? | Яке є твоє улюблене свято? | Какой есть твой любимый праздник?
@@ -143,3 +143,77 @@
 
   - It isn't a holiday without these flavors! | Це не є свято без цих смаків! | Это не есть праздник без этих вкусов!
     [tags: #writing]
+
+
+  # Title: 06 Past Simple vs Past Continuous
+  # Lang: [en-US / uk-UA / ru-RU]
+
+  ## Write
+  - Yesterday, while I was doing my homework, my family members were watching a loud comedy in the living room. | Учора, поки я був роблячим мою домашню роботу, мої члени сім'ї були дивлячимися гучну комедію у вітальні. | Вчера, пока я был делающим мою домашнюю работу, мои члены семьи были смотрящими громкую комедию в гостиной.
+    [tags: #write]
+
+  - When I arrived at the party, everyone was dancing and singing along to the music. | Коли я прибув на вечірку, кожен був танцюючим та співаючим разом під музику. | Когда я прибыл на вечеринку, каждый был танцующим и поющим вместе под музыку.
+    [tags: #write]
+
+  - They were happy. | Вони були щасливі. | Они были счастливы.
+    [tags: #write]
+
+  - Last summer, while I was hiking through the mountains, the sun was shining brightly in the sky. | Минулого літа, поки я був мандруючим крізь гори, сонце було світячим яскраво у небі. | Прошлым летом, пока я был путешествующим сквозь горы, солнце было светящим ярко в небе.
+    [tags: #write]
+
+  - It was amazing. | Це було дивовижно. | Это было удивительно.
+    [tags: #write]
+
+  - I was upset, when I realized that I had lost my favorite sunglasses at the beach. | Я був засмучений, коли я усвідомив, що я мав загубленими мої улюблені сонцезахисні окуляри на пляжі. | Я был расстроен, когда я осознал, что я имел потерянными мои любимые солнцезащитные очки на пляже.
+    [tags: #write]
+
+  - I was cleaning my room when I found an old photo of my primary school classmates under the bed. | Я був прибираючим мою кімнату, коли я знайшов старе фото моїх початкової школи однокласників під ліжком. | Я был убирающим мою комнату, когда я нашел старое фото моих начальной школы одноклассников под кроватью.
+    [tags: #write]
+
+# Title: 08 Living in Harmony Healthy
+# Lang: [en-US / uk-UA / ru-RU]
+
+## Write
+- If I get enough sleep, I usually have more energy to tackle my tasks. | Якщо я отримую достатньо сну, я зазвичай маю більше енергії вирішувати мої завдання. | Если я получаю достаточно сна, я обычно имею больше энергии решать мои задачи.
+  [tags: #write]
+
+- When people exercise regularly, they improve both their physical health and their mood. | Коли люди тренуються регулярно, вони покращують як їх фізичне здоров'я, так і їх настрій. | Когда люди тренируются регулярно, они улучшают как их физическое здоровье, так и их настроение.
+  [tags: #write]
+
+- If you skip meals, you might feel dizzy or find it hard to concentrate. | Якщо ви пропускаєте прийоми їжі, ви можете почуватися запаморочено або знайти це важким концентруватися. | Если вы пропускаете приемы пищи, вы можете чувствовать себя головокружительно или найти это трудным концентрироваться.
+  [tags: #write]
+
+- When people eat junk food every day, they often feel sluggish and gain weight easily. | Коли люди їдять шкідливу їжу кожного дня, вони часто почуваються мляво і набирають вагу легко. | Когда люди едят вредную еду каждый день, они часто чувствуют себя вяло и набирают вес легко.
+  [tags: #write]
+
+- If you have a balanced diet, your body gets all the nutrients it needs to function properly. | Якщо ви маєте збалансовану дієту, ваше тіло отримує всі поживні речовини, які воно потребує, щоб функціонувати належним чином. | Если вы имеете сбалансированную диету, ваше тело получает все питательные вещества, которые оно требует, чтобы функционировать надлежащим образом.
+  [tags: #write]
+
+# Title: 09 Zero and First Conditionals
+# Lang: [en-US / uk-UA / ru-RU]
+
+## Write
+
+- When I feel hungry, I lose my focus and start browsing food delivery apps for the best ramen in town. | Коли я почуваюся голодним, я втрачаю мою зосередженість і починаю переглядати додатки доставки їжі для найкращого рамену в місті. | Когда я чувствую себя голодным, я теряю мою сосредоточенность и начинаю просматривать приложения доставки еды для лучшего рамена в городе.
+ [tags: #write]
+
+- When I feel hungry, I usually head to the kitchen to see if I can "invent" a gourmet meal out of leftovers. | Коли я почуваюся голодним, я зазвичай прямую до кухні, щоб побачити, чи можу я «винахідити» гурманську страву з залишків їжі. | Когда я чувствую себя голодным, я обычно направляюсь к кухне, чтобы увидеть, могу ли я «изобрести» гурманское блюдо из остатков еды.
+  [tags: #write]
+
+- When I am tired, I put my phone on "Do Not Disturb," grab a soft blanket, and let my brain switch to autopilot. | Коли я є втомленим, я ставлю мій телефон на «Не турбувати», хапаю м’яку ковдру і дозволяю моєму мозку переключитися на автопілот. | Когда я есть уставшим, я ставлю мой телефон на «Не беспокоить», хватаю мягкое одеяло и позволяю моему мозгу переключиться на автопилот.
+  [tags: #write]
+
+- When I am tired, the lines of code I’m looking at start to look like ancient hieroglyphics, so I know it’s time for a nap. | Коли я є втомленим, рядки коду, на які я дивлюся, починають виглядати як древні ієрогліфи, тож я знаю, це є час для дрімоти. | Когда я есть уставшим, строки кода, на которые я смотрю, начинают выглядеть как древние иероглифы, так что я знаю, это есть время для дремоты.
+  [tags: #write]
+
+- If I finally book those plane tickets to Japan, I will be excited. | Якщо я нарешті забронюю ті літакові квитки до Японії, я буду схвильованим. | Если я наконец забронирую те самолетные билеты в Японию, я буду взволнованным.
+  [tags: #write]
+
+- If my favorite band announces a surprise concert in my city, I will be excited. | Якщо моя улюблена група оголосить раптовий концерт у моєму місті, я буду схвильованим. | Если моя любимая группа объявит внезапный концерт в моем городе, я буду взволнованным.
+  [tags: #write]
+
+- If I have to give a speech in front of five hundred people without any notes, I will be nervous. | Якщо я маю дати промову перед п’ятьма сотнями людей без жодних нотаток, я буду нервовим. | Если я должен дать речь перед пятью сотнями людей без любых заметок, я буду нервным.
+  [tags: #write]
+
+- If I’m waiting for the results of a high-stakes exam, I will be nervous. | Якщо я є в очікуванні на результати іспиту з високими ставками, я буду нервовим. | Если я есть в ожидании на результаты экзамена с высокими ставками, я буду нервным.
+  [tags: #write]
