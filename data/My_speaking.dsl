@@ -217,3 +217,37 @@
 
 - If I’m waiting for the results of a high-stakes exam, I will be nervous. | Якщо я є в очікуванні на результати іспиту з високими ставками, я буду нервовим. | Если я есть в ожидании на результаты экзамена с высокими ставками, я буду нервным.
   [tags: #write]
+
+  # Title: 10 What to Wear Casual vs Formal
+  # Lang: [en-US / uk-UA / ru-RU]
+
+  ## Write
+  - If I go to a new gallery, I will wear a dark turtleneck, tailored trousers, and leather boots. | Якщо я піду до нової галереї, я одягну темну водолазку, підібрані штани та шкіряні чоботи. | Если я пойду в новую галерею, я надену темную водолазку, подогнанные брюки и кожаные сапоги.
+    [tags: #write]
+
+  - This look is classic, professional, and fits the creative atmosphere of an exhibition. | Цей образ є класичним, професійним і відповідає креативній атмосфері виставки. | Этот образ является классическим, профессиональным и соответствует креативной атмосфере выставки.
+    [tags: #write]
+
+  - If I go to an outdoor concert, I’ll choose a lightweight linen shirt, comfortable chinos, and breathable sneakers. | Якщо я піду на концерт під відкритим небом, я оберу легку лляну сорочку, зручні чіноси та дихаючі кросівки. | Если я пойду на концерт под открытым небом, я выберу легкую льняную рубашку, удобные чиносы и дышащие кроссовки.
+    [tags: #write]
+
+  - It’s important to stay cool while remaining stylish for a night out. | Це є важливо залишатися в прохолоді, залишаючись стильним для вечірнього виходу. | Это есть важно оставаться в прохладе, оставаясь стильным для вечернего выхода.
+    [tags: #write]
+
+  - On my first day at a new job, I will wear a crisp button-down shirt, a well-fitted blazer, and dark jeans or dress pants. | У мій перший день на новій роботі, я одягну свіжу сорочку на ґудзиках, добре підігнаний блейзер та темні джинси або класичні штани. | В мой первый день на новой работе, я надену свежую рубашку на пуговицах, хорошо подогнанный блейзер и темные джинсы или классические брюки.
+    [tags: #write]
+
+  - This "smart-casual" approach helps make a great first impression while staying practical for a day of meeting new people. | Цей «смарт-кежуал» підхід допомагає справити чудове перше враження, залишаючись практичним для дня знайомства з новими людьми. | Этот «смарт-кэжуал» подход помогает произвести отличное первое впечатление, оставаясь практичным для дня знакомства с новыми людьми.
+    [tags: #write]
+
+  - If it is a cold winter day, I will wear a thermal base layer, a thick wool sweater, a heavy parka, and waterproof boots. | Якщо це є холодний зимовий день, я одягну термо-базовий шар, товстий вовняний светр, важку парку та водонепроникні чоботи. | Если это есть холодный зимний день, я надену термо-базовый слой, толстый шерстяной свитер, тяжелую парку и водонепроницаемые сапоги.
+    [tags: #write]
+
+  - Don't forget a warm hat and gloves to handle the freezing temperatures! | Не забудьте теплу шапку та рукавички, щоб впоратися з морозними температурами! | Не забудьте теплую шапку и перчатки, чтобы справиться с морозными температурами!
+    [tags: #write]
+
+  - If I go to the beach, I’ll wear swim trunks, a cotton T-shirt, and flip-flops. | Якщо я піду на пляж, я одягну плавальні шорти, бавовняну футболку та в’єтнамки. | Если я пойду на пляж, я надену плавательные шорты, хлопковую футболку и вьетнамки.
+    [tags: #write]
+
+  - I will also bring a pair of sunglasses and a baseball cap to protect myself from the sun. | Я також візьму пару сонцезахисних окулярів та бейсболку, щоб захистити себе від сонця. | Я также возьму пару солнцезащитных очков и бейсболку, чтобы защитить себя от солнца.
+    [tags: #write]
