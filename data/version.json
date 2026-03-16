@@ -19,11 +19,11 @@
     },
 
     "Vocabulary_hooks": {
-      "id": "vocabulary_hooks.dsl",
+      "id": "vocabulary_hooks",
       "name": "Vocabulary hooks",
       "order": 3,
       "version": "1.0.0",
-      "path": "/Vocabulary_hooks.dsll",
+      "path": "/Vocabulary_hooks.dsl",
       "size": "3.2kb"
     }
   }
