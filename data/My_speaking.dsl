@@ -145,109 +145,87 @@
     [tags: #writing]
 
 
-  # Title: 06 Past Simple vs Past Continuous
-  # Lang: [en-US / uk-UA / ru-RU]
+ # Title: 06 Past Simple vs Past Continuous
+ # Lang: [en-US / uk-UA / ru-RU]
 
-  ## Write
-  - Yesterday, while I was doing my homework, my family members were watching a loud comedy in the living room. | Учора, поки я був роблячим мою домашню роботу, мої члени сім'ї були дивлячимися гучну комедію у вітальні. | Вчера, пока я был делающим мою домашнюю работу, мои члены семьи были смотрящими громкую комедию в гостиной.
-    [tags: #write]
+ ## Write
+ - Yesterday, while I was doing my homework, my family members were watching a movie in the living room. | Учора, поки я був роблячим моє домашнє завдання, мої члени сім'ї були дивлячимися фільм у вітальні. | Вчера, пока я был делающим моё домашнее задание, мои члены семьи были смотрящими фильм в гостиной.
+   [tags: #write]
 
-  - When I arrived at the party, everyone was dancing and singing along to the music. | Коли я прибув на вечірку, кожен був танцюючим та співаючим разом під музику. | Когда я прибыл на вечеринку, каждый был танцующим и поющим вместе под музыку.
-    [tags: #write]
+ - When I arrived at the party, everyone was dancing and singing. They were happy. | Коли я прибув на вечірку, кожен був танцюючим і співаючим. Вони були щасливі. | Когда я прибыл на вечеринку, каждый был танцующим и поющим. Они были счастливы.
+   [tags: #write]
 
-  - They were happy. | Вони були щасливі. | Они были счастливы.
-    [tags: #write]
+ - Last summer, while I was swimming in the sea, the sun was shining brightly in the sky. It was amazing. | Минулого літа, поки я був плаваючим у морі, сонце було світячим яскраво в небі. Це було дивовижно. | Прошлым летом, пока я был плавающим в море, солнце было светящим ярко в небе. Это было удивительно.
+   [tags: #write]
 
-  - Last summer, while I was hiking through the mountains, the sun was shining brightly in the sky. | Минулого літа, поки я був мандруючим крізь гори, сонце було світячим яскраво у небі. | Прошлым летом, пока я был путешествующим сквозь горы, солнце было светящим ярко в небе.
-    [tags: #write]
+ - I was upset when I lost my favorite watch while I was walking in the park. | Я був засмучений, коли я загубив мій улюблений годинник, поки я був гуляючим у парку. | Я был расстроен, когда я потерял мои любимые часы, пока я был гуляющим в парке.
+   [tags: #write]
 
-  - It was amazing. | Це було дивовижно. | Это было удивительно.
-    [tags: #write]
+ - I was cleaning my room when I found some old photos under my bed. | Я був прибираючим мою кімнату, коли я знайшов деякі старі фото під моїм ліжком. | Я был убирающим мою комнату, когда я нашел некоторые старые фото под моей кроватью.
+   [tags: #write]
 
-  - I was upset, when I realized that I had lost my favorite sunglasses at the beach. | Я був засмучений, коли я усвідомив, що я мав загубленими мої улюблені сонцезахисні окуляри на пляжі. | Я был расстроен, когда я осознал, что я имел потерянными мои любимые солнцезащитные очки на пляже.
-    [tags: #write]
+ # Title: 08 Living in Harmony Healthy
+ # Lang: [en-US / uk-UA / ru-RU]
 
-  - I was cleaning my room when I found an old photo of my primary school classmates under the bed. | Я був прибираючим мою кімнату, коли я знайшов старе фото моїх початкової школи однокласників під ліжком. | Я был убирающим мою комнату, когда я нашел старое фото моих начальной школы одноклассников под кроватью.
-    [tags: #write]
+ ## Write
+ - If I get enough sleep, I usually feel energetic and happy the next morning. | Якщо я отримую достатньо сну, я зазвичай почуваюся енергійним і щасливим наступного ранку. | Если я получаю достаточно сна, я обычно чувствую себя энергичным и счастливым на следующее утро.
+   [tags: #write]
 
-# Title: 08 Living in Harmony Healthy
-# Lang: [en-US / uk-UA / ru-RU]
+ - When people exercise regularly, they improve their physical health and reduce stress. | Коли люди тренуються регулярно, вони покращують їхнє фізичне здоров'я і зменшують стрес. | Когда люди тренируются регулярно, они улучшают их физическое здоровье и уменьшают стресс.
+   [tags: #write]
 
-## Write
-- If I get enough sleep, I usually have more energy to tackle my tasks. | Якщо я отримую достатньо сну, я зазвичай маю більше енергії вирішувати мої завдання. | Если я получаю достаточно сна, я обычно имею больше энергии решать мои задачи.
-  [tags: #write]
+ - If you skip meals, you often feel tired and lose your concentration. | Якщо ви пропускаєте прийоми їжі, ви часто почуваєтеся втомленими і втрачаєте вашу концентрацію. | Если вы пропускаете приемы пищи, вы часто чувствуете себя уставшими и теряете вашу концентрацию.
+   [tags: #write]
 
-- When people exercise regularly, they improve both their physical health and their mood. | Коли люди тренуються регулярно, вони покращують як їх фізичне здоров'я, так і їх настрій. | Когда люди тренируются регулярно, они улучшают как их физическое здоровье, так и их настроение.
-  [tags: #write]
+ - When people eat junk food every day, they gain weight and feel less healthy. | Коли люди їдять шкідливу їжу кожного дня, вони набирають вагу і почуваються менш здоровими. | Когда люди едят вредную еду каждый день, они набирают вес и чувствуют себя менее здоровыми.
+   [tags: #write]
 
-- If you skip meals, you might feel dizzy or find it hard to concentrate. | Якщо ви пропускаєте прийоми їжі, ви можете почуватися запаморочено або знайти це важким концентруватися. | Если вы пропускаете приемы пищи, вы можете чувствовать себя головокружительно или найти это трудным концентрироваться.
-  [tags: #write]
-
-- When people eat junk food every day, they often feel sluggish and gain weight easily. | Коли люди їдять шкідливу їжу кожного дня, вони часто почуваються мляво і набирають вагу легко. | Когда люди едят вредную еду каждый день, они часто чувствуют себя вяло и набирают вес легко.
-  [tags: #write]
-
-- If you have a balanced diet, your body gets all the nutrients it needs to function properly. | Якщо ви маєте збалансовану дієту, ваше тіло отримує всі поживні речовини, які воно потребує, щоб функціонувати належним чином. | Если вы имеете сбалансированную диету, ваше тело получает все питательные вещества, которые оно требует, чтобы функционировать надлежащим образом.
-  [tags: #write]
+ - If you have a balanced diet, your body gets all the necessary vitamins it needs. | Якщо ви маєте збалансовану дієту, ваше тіло отримує всі необхідні вітаміни, які воно потребує. | Если вы имеете сбалансированную диету, ваше тело получает все необходимые витамины, в которых оно нуждается.
+   [tags: #write]
 
 # Title: 09 Zero and First Conditionals
 # Lang: [en-US / uk-UA / ru-RU]
 
 ## Write
-
-- When I feel hungry, I lose my focus and start browsing food delivery apps for the best ramen in town. | Коли я почуваюся голодним, я втрачаю мою зосередженість і починаю переглядати додатки доставки їжі для найкращого рамену в місті. | Когда я чувствую себя голодным, я теряю мою сосредоточенность и начинаю просматривать приложения доставки еды для лучшего рамена в городе.
- [tags: #write]
-
-- When I feel hungry, I usually head to the kitchen to see if I can "invent" a gourmet meal out of leftovers. | Коли я почуваюся голодним, я зазвичай прямую до кухні, щоб побачити, чи можу я «винахідити» гурманську страву з залишків їжі. | Когда я чувствую себя голодным, я обычно направляюсь к кухне, чтобы увидеть, могу ли я «изобрести» гурманское блюдо из остатков еды.
+- When I feel hungry, I usually look for a quick snack in the kitchen or order a pepperoni pizza. | Коли я відчуваю себе голодним, я зазвичай шукаю швидку закуску в кухні або замовляю пепероні піцу. | Когда я чувствую себя голодным, я обычно ищу быстрый перекус в кухне или заказываю пепперони пиццу.
   [tags: #write]
 
-- When I am tired, I put my phone on "Do Not Disturb," grab a soft blanket, and let my brain switch to autopilot. | Коли я є втомленим, я ставлю мій телефон на «Не турбувати», хапаю м’яку ковдру і дозволяю моєму мозку переключитися на автопілот. | Когда я есть уставшим, я ставлю мой телефон на «Не беспокоить», хватаю мягкое одеяло и позволяю моему мозгу переключиться на автопилот.
+- When I am tired, I try to go to bed early and listen to some relaxing music to help me fall asleep. | Коли я є втомленим, я намагаюся йти до ліжка рано і слухати якусь розслабляючу музику, щоб допомогти мені заснути. | Когда я есть уставшим, я стараюсь идти в кровать рано и слушать какую-то расслабляющую музыку, чтобы помочь мне заснуть.
   [tags: #write]
 
-- When I am tired, the lines of code I’m looking at start to look like ancient hieroglyphics, so I know it’s time for a nap. | Коли я є втомленим, рядки коду, на які я дивлюся, починають виглядати як древні ієрогліфи, тож я знаю, це є час для дрімоти. | Когда я есть уставшим, строки кода, на которые я смотрю, начинают выглядеть как древние иероглифы, так что я знаю, это есть время для дремоты.
+- If my friends plan a surprise trip for the weekend, I will be excited. | Якщо мої друзі спланують сюрприз-поїздку на вихідні, я буду схвильованим. | Если мои друзья спланируют сюрприз-поездку на выходные, я буду взволнованным.
   [tags: #write]
 
-- If I finally book those plane tickets to Japan, I will be excited. | Якщо я нарешті забронюю ті літакові квитки до Японії, я буду схвильованим. | Если я наконец забронирую те самолетные билеты в Японию, я буду взволнованным.
+- If I have to speak in front of a large group of people, I will be nervous. | Якщо я маю говорити перед великою групою людей, я буду нервовим. | Если я должен говорить перед большой группой людей, я буду нервным.
   [tags: #write]
 
-- If my favorite band announces a surprise concert in my city, I will be excited. | Якщо моя улюблена група оголосить раптовий концерт у моєму місті, я буду схвильованим. | Если моя любимая группа объявит внезапный концерт в моем городе, я буду взволнованным.
-  [tags: #write]
+ # Title: 10 What to Wear Casual vs Formal
+ # Lang: [en-US / uk-UA / ru-RU]
 
-- If I have to give a speech in front of five hundred people without any notes, I will be nervous. | Якщо я маю дати промову перед п’ятьма сотнями людей без жодних нотаток, я буду нервовим. | Если я должен дать речь перед пятью сотнями людей без любых заметок, я буду нервным.
-  [tags: #write]
+ ## Write
+ - If I go to a new gallery, I will wear a smart shirt and dark trousers. | Якщо я піду до нової галереї, я одягну ошатну сорочку і темні штани. | Если я пойду в новую галерею, я надену нарядную рубашку и темные брюки.
+   [tags: #write]
 
-- If I’m waiting for the results of a high-stakes exam, I will be nervous. | Якщо я є в очікуванні на результати іспиту з високими ставками, я буду нервовим. | Если я есть в ожидании на результаты экзамена с высокими ставками, я буду нервным.
-  [tags: #write]
+ - I want to look elegant but comfortable, so I might also wear a nice watch. | Я хочу виглядати елегантно, але комфортно, тому я можу також одягнути гарний годинник. | Я хочу выглядеть элегантно, но комфортно, поэтому я могу также надеть красивые часы.
+   [tags: #write]
 
-  # Title: 10 What to Wear Casual vs Formal
-  # Lang: [en-US / uk-UA / ru-RU]
+ - If I go to a concert, I will wear a T-shirt and jeans. | Якщо я піду на концерт, я одягну футболку і джинси. | Если я пойду на концерт, я надену футболку и джинсы.
+   [tags: #write]
 
-  ## Write
-  - If I go to a new gallery, I will wear a dark turtleneck, tailored trousers, and leather boots. | Якщо я піду до нової галереї, я одягну темну водолазку, підібрані штани та шкіряні чоботи. | Если я пойду в новую галерею, я надену темную водолазку, подогнанные брюки и кожаные сапоги.
-    [tags: #write]
+ - Because it is summer, I’ll choose light colors and comfortable sneakers for dancing. | Тому що є літо, я виберу світлі кольори і комфортні кросівки для танців. | Потому что есть лето, я выберу светлые цвета и комфортные кроссовки для танцев.
+   [tags: #write]
 
-  - This look is classic, professional, and fits the creative atmosphere of an exhibition. | Цей образ є класичним, професійним і відповідає креативній атмосфері виставки. | Этот образ является классическим, профессиональным и соответствует креативной атмосфере выставки.
-    [tags: #write]
+ - On my first day, I will wear a white blouse (or a formal shirt) and a skirt (or trousers). | У мій перший день, я одягну білу блузку (або офіційну сорочку) і спідницю (або штани). | В мой первый день, я надену белую блузку (или официальную рубашку) и юбку (или брюки).
+   [tags: #write]
 
-  - If I go to an outdoor concert, I’ll choose a lightweight linen shirt, comfortable chinos, and breathable sneakers. | Якщо я піду на концерт під відкритим небом, я оберу легку лляну сорочку, зручні чіноси та дихаючі кросівки. | Если я пойду на концерт под открытым небом, я выберу легкую льняную рубашку, удобные чиносы и дышащие кроссовки.
-    [tags: #write]
+ - It is important to look professional, so I won't wear casual clothes like hoodies. | Це є важливо виглядати професійно, тому я не буду одягати повсякденний одяг як худі. | Это есть важно выглядеть профессионально, поэтому я не буду надевать повседневную одежду как худи.
+   [tags: #write]
 
-  - It’s important to stay cool while remaining stylish for a night out. | Це є важливо залишатися в прохолоді, залишаючись стильним для вечірнього виходу. | Это есть важно оставаться в прохладе, оставаясь стильным для вечернего выхода.
-    [tags: #write]
+ - When it is freezing, I will wear a warm sweater, a heavy coat, and a scarf. | Коли є морозно, я одягну теплий светр, важке пальто і шарф. | Когда есть морозно, я надену теплый свитер, тяжелое пальто и шарф.
+   [tags: #write]
 
-  - On my first day at a new job, I will wear a crisp button-down shirt, a well-fitted blazer, and dark jeans or dress pants. | У мій перший день на новій роботі, я одягну свіжу сорочку на ґудзиках, добре підігнаний блейзер та темні джинси або класичні штани. | В мой первый день на новой работе, я надену свежую рубашку на пуговицах, хорошо подогнанный блейзер и темные джинсы или классические брюки.
-    [tags: #write]
+ - I also need a hat and gloves to stay warm outside. | Я також потребую шапку і рукавички, щоб залишатися теплим зовні. | Я также нуждаюсь в шапке и перчатках, чтобы оставаться теплым снаружи.
+   [tags: #write]
 
-  - This "smart-casual" approach helps make a great first impression while staying practical for a day of meeting new people. | Цей «смарт-кежуал» підхід допомагає справити чудове перше враження, залишаючись практичним для дня знайомства з новими людьми. | Этот «смарт-кэжуал» подход помогает произвести отличное первое впечатление, оставаясь практичным для дня знакомства с новыми людьми.
-    [tags: #write]
-
-  - If it is a cold winter day, I will wear a thermal base layer, a thick wool sweater, a heavy parka, and waterproof boots. | Якщо це є холодний зимовий день, я одягну термо-базовий шар, товстий вовняний светр, важку парку та водонепроникні чоботи. | Если это есть холодный зимний день, я надену термо-базовый слой, толстый шерстяной свитер, тяжелую парку и водонепроницаемые сапоги.
-    [tags: #write]
-
-  - Don't forget a warm hat and gloves to handle the freezing temperatures! | Не забудьте теплу шапку та рукавички, щоб впоратися з морозними температурами! | Не забудьте теплую шапку и перчатки, чтобы справиться с морозными температурами!
-    [tags: #write]
-
-  - If I go to the beach, I’ll wear swim trunks, a cotton T-shirt, and flip-flops. | Якщо я піду на пляж, я одягну плавальні шорти, бавовняну футболку та в’єтнамки. | Если я пойду на пляж, я надену плавательные шорты, хлопковую футболку и вьетнамки.
-    [tags: #write]
-
-  - I will also bring a pair of sunglasses and a baseball cap to protect myself from the sun. | Я також візьму пару сонцезахисних окулярів та бейсболку, щоб захистити себе від сонця. | Я также возьму пару солнцезащитных очков и бейсболку, чтобы защитить себя от солнца.
-    [tags: #write]
+ - If I go to the beach, I will wear shorts and a tank top. | Якщо я піду на пляж, я одягну шорти і майку. | Если я пойду на пляж, я надену шорты и майку.
+   [tags: #write]
