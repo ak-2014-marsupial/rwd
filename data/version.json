@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-03-16T15:00:00Z",
+  "lastGlobalUpdate": "2026-03-17T16:05:00Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -13,7 +13,7 @@
       "id": "my_speaking",
       "name": "My Speaking Practice",
       "order": 2,
-      "version": "1.0.5",
+      "version": "1.0.6",
       "path": "/My_speaking.dsl",
       "size": "6kb"
     },
