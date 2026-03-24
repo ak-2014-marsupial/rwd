@@ -5,7 +5,7 @@
       "id": "studyless_pre",
       "name": "Pre-Intermediate",
       "order": 1,
-      "version": "1.2.1",
+      "version": "1.2.2",
       "path": "/StudyLess_Pre.dsl",
       "size": "91.6kb"
     },
@@ -13,9 +13,9 @@
       "id": "my_speaking",
       "name": "My Speaking Practice",
       "order": 2,
-      "version": "1.0.7",
+      "version": "1.0.8",
       "path": "/My_speaking.dsl",
-      "size": "6kb"
+      "size": "30.3kb"
     },
 
     "Vocabulary_hooks": {

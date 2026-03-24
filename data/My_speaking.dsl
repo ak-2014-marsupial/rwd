@@ -361,3 +361,77 @@ It was amazing. | Минулого літа, коли я плавав у мор�
 
 - If I had more time, I would go shopping and buy new sneakers. | Якби у мене було більше часу, я б пішов на шопінг і купив нові кросівки. | Если бы у меня было больше времени, я бы пошел на шопинг и купил новые кроссовки.
   [tags: #writing]
+
+
+# Title: 12 Our amazing bodies
+# Lang: [en-US / uk-UA / ru-RU]
+
+## Writing
+- If I walked more, my back wouldn't hurt. | Якби я більше ходила, у мене не боліла б спина. | Если бы я больше ходила, у меня бы не болела спина.
+   [tags: #writing]
+
+- If he continued playing football, he would have more serious knee problems. | Якби він продовжив грати у футбол, у нього були б більш серйозні проблеми з коліном. | Если бы он продолжил играть в футбол, у него были бы более серьезные проблемы с коленом.
+   [tags: #writing]
+
+- If she were nervous, she would bite her lips. | Якби вона нервувала, вона б кусала губи. | Если бы она нервничала, она бы кусала губы.
+   [tags: #writing]
+
+- If he were more flexible, he could touch his toes. | Якби він був більш гнучким, він міг би доторкнутися пальців на ногах. | Если бы он был более гибким, он мог бы дотронуться до пальцев на ногах.
+   [tags: #writing]
+
+
+  # Title: 13 Shop smart
+  # Lang: [en-US / uk-UA / ru-RU]
+
+  ## writing
+  - I have experience with both ways of shopping. | Я маю досвід обох способів здійснення покупок. | У меня есть опыт обоих способов совершения покупок.
+    [tags: #writing]
+
+  - When I go to a physical store, I usually visit local supermarkets or specialized shops. | Коли я йду до фізичного магазину, я зазвичай відвідую місцеві супермаркети або спеціалізовані магазини. | Когда я иду в физический магазин, я обычно посещаю местные супермаркеты или специализированные магазины.
+    [tags: #writing]
+
+  - I like that I can see the products immediately and check their quality. | Мені подобається, що я можу негайно побачити товари та перевірити їхню якість. | Мне нравится, что я могу сразу увидеть товары и проверить их качество.
+    [tags: #writing]
+
+  - For example, if I need clothes or shoes, I can try them on to make sure they fit perfectly. | Наприклад, якщо мені потрібен одяг або взуття, я можу приміряти їх, щоб переконатися, що вони ідеально підходять. | Например, если мне нужна одежда или обувь, я могу примерить их, чтобы убедиться, что они идеально подходят.
+    [tags: #writing]
+
+  - On the other hand, I use the internet to buy technical things or items that are difficult to find in my city. | З іншого боку, я використовую інтернет, щоб купувати технічні речі або товари, які важко знайти в моєму місті. | С другой стороны, я использую интернет, чтобы покупать технические вещи или товары, которые трудно найти в моем городе.
+    [tags: #writing]
+
+  - Online shopping is very fast. | Онлайн-шопінг — це дуже швидко. | Онлайн-шопинг — это очень быстро.
+    [tags: #writing]
+
+  - I can sit at my computer, compare different models and prices, and read what other people think about the product. | Я можу сидіти за комп'ютером, порівнювати різні моделі та ціни та читати, що інші люди думають про товар. | Я могу сидеть за компьютером, сравнивать разные модели и цены и читать, что другие люди думают о товаре.
+    [tags: #writing]
+
+  - After I pay, the delivery service usually brings the package to a post office near my house in a few days. | Після оплати служба доставки зазвичай привозить посилку до поштового відділення поруч із моїм будинком за кілька днів. | После оплаты служба доставки обычно привозит посылку в почтовое отделение рядом с моим домом через несколько дней.
+    [tags: #writing]
+
+    # Title: 14 Present Simple Passive
+    # Lang: [en-US / uk-UA / ru-RU]
+
+    ## writing
+    - The designer designs the dress. | Дизайнер розробляє сукню. | Дизайнер разрабатывает платье.
+      [tags: #writing]
+
+    - The dress is designed by the designer. | Сукня розробляється дизайнером. | Платье разрабатывается дизайнером.
+      [tags: #writing]
+
+    - They make clothes from different materials. | Вони виготовляють одяг з різних матеріалів. | Они изготавливают одежду из разных материалов.
+      [tags: #writing]
+
+    - Clothes are made from different materials. | Одяг виготовляється з різних матеріалів. | Одежда изготавливается из разных материалов.
+      [tags: #writing]
+
+    - The shop assistant helps the customers. | Продавець-консультант допомагає клієнтам. | Продавец-консультант помогает клиентам.
+      [tags: #writing]
+
+    - The customers are helped by the shop assistant. | Клієнтам допомагає продавець-консультант. | Клиентам помогает продавец-консультант.
+      [tags: #writing]
+
+    - They use cotton to make a T-shirt. | Вони використовують бавовну для виготовлення футболки. | Они используют хлопок для изготовления футболки.
+      [tags: #writing]
+
+    - Cotton is used to make a T-shirt. | Бавовна використовується для виготовлення футболки. | Хлопок используется для изготовления футболки.
+      [tags: #writing]

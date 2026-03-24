@@ -573,13 +573,6 @@
   [map: to exercise regularly : регулярно робити вправи]
   [tags: #healthy_lifestyle, #vocabulary]
 
-## Vocabulary Hooks
-- It is hard to maintain a balanced diet if you skip meals, because your brain will decide that junk food is the only 'balanced' way to survive the hunger. | Важко підтримувати збалансоване харчування, якщо ви пропускаєте прийоми їжі, бо ваш мозок вирішить, що шкідлива їжа — це єдиний «збалансований» спосіб пережити голод.
-  [tags: #healthy_lifestyle, #Vocab_Hooks]
-
-- My alarm clock is plenty of water. I drink it before I stay up late, so I can never get enough sleep because the bathroom calls me every hour! | Мій будильник — це велика кількість води. Я п’ю її перед тим, як засиджуюся допізна, тому ніколи не можу виспатися, бо вбиральня кличе мене щогодини!
-  [tags: #healthy_lifestyle, #Vocab_Hooks]
-
 ## Practice
 - Eating a balanced diet helps you get all the nutrients you need. | Збалансоване харчування допомагає отримати всі необхідні поживні речовини.
   [tags: #healthy_lifestyle, #practice]
