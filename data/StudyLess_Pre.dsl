@@ -528,6 +528,684 @@
 
 - Well, to be honest, he is incredibly hard-working. He often puts in extra hours to ensure everything is perfect | Що ж, чесно кажучи, він неймовірно працьовитий. Він часто працює понаднормово, щоб усе було ідеально
   [tags: #traits, #discussion]
+  ----
+# Title: 08 Living in Harmony: Healthy Lifestyle
+# Lang: [en-US / uk-UA]
+
+## Vocabulary
+- A balanced diet | Збалансоване харчування
+  [map: a balanced diet : збалансоване харчування]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- Mental health | Психічне здоров'я
+  [map: mental health : психічне здоров'я]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- Physical health | Фізичне здоров'я
+  [map: physical health : фізичне здоров'я]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- To stay active | Бути/залишатись активним
+  [map: to stay active : бути/залишатись активним]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- Junk food | Шкідлива їжа
+  [map: junk food : шкідлива їжа]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- To skip meals | Пропускати прийоми їжі
+  [map: to skip meals : пропускати прийоми їжі]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- To get enough sleep | Висипатись
+  [map: to get enough sleep : висипатись]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- To stay up late | Засиджуватись допізна
+  [map: to stay up late : засиджуватись допізна]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- To drink plenty of water | Пити багато води
+  [map: to drink plenty of water : пити багато води]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+- To exercise regularly | Регулярно робити вправи
+  [map: to exercise regularly : регулярно робити вправи]
+  [tags: #healthy_lifestyle, #vocabulary]
+
+## Vocabulary Hooks
+- It is hard to maintain a balanced diet if you skip meals, because your brain will decide that junk food is the only 'balanced' way to survive the hunger. | Важко підтримувати збалансоване харчування, якщо ви пропускаєте прийоми їжі, бо ваш мозок вирішить, що шкідлива їжа — це єдиний «збалансований» спосіб пережити голод.
+  [tags: #healthy_lifestyle, #Vocab_Hooks]
+
+- My alarm clock is plenty of water. I drink it before I stay up late, so I can never get enough sleep because the bathroom calls me every hour! | Мій будильник — це велика кількість води. Я п’ю її перед тим, як засиджуюся допізна, тому ніколи не можу виспатися, бо вбиральня кличе мене щогодини!
+  [tags: #healthy_lifestyle, #Vocab_Hooks]
+
+## Practice
+- Eating a balanced diet helps you get all the nutrients you need. | Збалансоване харчування допомагає отримати всі необхідні поживні речовини.
+  [tags: #healthy_lifestyle, #practice]
+
+- It’s important to exercise regularly every day to keep your body strong. | Важливо регулярно робити вправи щодня, щоб підтримувати тіло міцним.
+  [tags: #healthy_lifestyle, #practice]
+
+- Junk food like chips and candy can lead to health problems. | Шкідлива їжа, як-от чипси та цукерки, може призвести до проблем зі здоров'ям.
+  [tags: #healthy_lifestyle, #practice]
+
+- Drinking plenty of water is necessary, especially during hot weather. | Пити багато води необхідно, особливо під час спекотної погоди.
+  [tags: #healthy_lifestyle, #practice]
+
+- Staying active and eating well is part of a healthy lifestyle. | Бути активним і добре харчуватися — це частина здорового способу життя.
+  [tags: #healthy_lifestyle, #practice]
+
+- To improve your mental health, try to relax and do things you enjoy. | Щоб покращити психічне здоров'я, намагайтеся розслаблятися та займатися тим, що вам подобається.
+  [tags: #healthy_lifestyle, #practice]
+
+- You should not stay up late if you want to feel fresh and alert in the morning. | Не варто засиджуватися допізна, якщо хочете почуватися бадьорими та зосередженими вранці.
+  [tags: #healthy_lifestyle, #practice]
+
+- Skipping meals can make you feel weak and dizzy during the day. | Пропускання прийомів їжі може змусити вас почуватися слабкими та відчувати запаморочення протягом дня.
+  [tags: #healthy_lifestyle, #practice]
+
+- Going for a walk every day is a good way to stay active. | Щоденні прогулянки — це хороший спосіб залишатися активним.
+  [tags: #healthy_lifestyle, #practice]
+
+- To feel good and have energy, it’s important to get enough sleep every night. | Щоб почуватися добре і мати енергію, важливо висипатися щоночі.
+  [tags: #healthy_lifestyle, #practice]
+
+## Discussion
+- What do you usually eat for breakfast? Do you think it’s a healthy choice? | Що ви зазвичай їсте на сніданок? Чи вважаєте ви це здоровим вибором?
+  [tags: #healthy_lifestyle, #discussion]
+
+- How often do you exercise? What kind of exercise do you enjoy the most? | Як часто ви робите фізичні вправи? Який вид вправ вам подобається найбільше?
+  [tags: #healthy_lifestyle, #discussion]
+
+- How do you take care of your mental health? | Як ви дбаєте про своє психічне здоров'я?
+  [tags: #healthy_lifestyle, #discussion]
+
+---
+
+# Title: 09 Zero and First Conditionals
+# Lang: [en-US / uk-UA]
+
+## Vocabulary
+- To freeze | Замерзати / заморожувати
+  [map: to freeze : замерзати / заморожувати]
+  [tags: #conditionals, #vocabulary]
+
+- Dehydrated | Зневоднений
+  [map: dehydrated : зневоднений]
+  [tags: #conditionals, #vocabulary]
+
+- To look up | Шукати (в словнику/довіднику)
+  [map: to look up : шукати (в словнику/довіднику)]
+  [tags: #conditionals, #vocabulary]
+
+- To recycle | Переробляти (сміття)
+  [map: to recycle : переробляти (сміття)]
+  [tags: #conditionals, #vocabulary]
+
+- To succeed | Досягати успіху
+  [map: to succeed : досягати успіху]
+  [tags: #conditionals, #vocabulary]
+
+- Cavities | Карієс / порожнини в зубах
+  [map: cavities : карієс / порожнини в зубах]
+  [tags: #conditionals, #vocabulary]
+
+- To skip | Пропускати (напр. сніданок)
+  [map: to skip : пропускати (напр. сніданок)]
+  [tags: #conditionals, #vocabulary]
+
+- To keep in touch | Підтримувати зв'язок
+  [map: to keep in touch : підтримувати зв'язок]
+  [tags: #conditionals, #vocabulary]
+
+## Practice
+- If you don't drink enough water, you get dehydrated. | Якщо ви не п’єте достатньо води, ви зневоднюєтеся.
+  [tags: #conditionals, #practice]
+
+- My teacher gets angry if I don't study. | Мій учитель злиться, якщо я не вчуся.
+  [tags: #conditionals, #practice]
+
+- If I don't know a word in English, I look it up in my dictionary. | Якщо я не знаю слова англійською, я шукаю його у своєму словнику.
+  [tags: #conditionals, #practice]
+
+- If you recycle, you help the environment. | Якщо ви переробляєте сміття, ви допомагаєте довкіллю.
+  [tags: #conditionals, #practice]
+
+- If you don’t drink water, you will be thirsty. | Якщо ти не вип’єш води, ти хотітимеш пити.
+  [tags: #conditionals, #practice]
+
+- If you work hard, you will succeed.
+
+---
+
+# Title: 10 What to Wear (Casual vs. Formal)
+# Lang: [en-US / uk-UA]
+
+## Vocabulary
+- A T-shirt | Футболка
+  [map: a t-shirt : футболка]
+  [tags: #clothing, #vocabulary]
+
+- Pants / Trousers | Штани / Брюки
+  [map: pants / trousers : штани / брюки]
+  [tags: #clothing, #vocabulary]
+
+- A jumper / sweater | Джемпер / Светр
+  [map: a jumper / sweater : джемпер / светр]
+  [tags: #clothing, #vocabulary]
+
+- A shirt | Сорочка
+  [map: a shirt : сорочка]
+  [tags: #clothing, #vocabulary]
+
+- A suit | Костюм
+  [map: a suit : костюм]
+  [tags: #clothing, #vocabulary]
+
+- A dress | Сукня
+  [map: a dress : сукня]
+  [tags: #clothing, #vocabulary]
+
+- A jacket | Піджак / Куртка
+  [map: a jacket : піджак / куртка]
+  [tags: #clothing, #vocabulary]
+
+- A tie | Краватка
+  [map: a tie : краватка]
+  [tags: #clothing, #vocabulary]
+
+- A tracksuit | Спортивний костюм
+  [map: a tracksuit : спортивний костюм]
+  [tags: #clothing, #vocabulary]
+
+- Formal shoes | Мешти / Офіційне взуття
+  [map: formal shoes : мешти / офіційне взуття]
+  [tags: #clothing, #vocabulary]
+
+- Trainers / Sneakers | Кросівки
+  [map: trainers / sneakers : кросівки]
+  [tags: #clothing, #vocabulary]
+
+- A swimsuit | Купальник
+  [map: a swimsuit : купальник]
+  [tags: #clothing, #vocabulary]
+
+## Practice
+- If I go to the beach, I will wear a swimsuit and sunglasses. | Якщо я піду на пляж, я одягну купальник і сонцезахисні окуляри.
+  [tags: #clothing, #practice]
+
+- If I have a business meeting, I will wear a suit and a tie. | Якщо у мене буде ділова зустріч, я одягну костюм і краватку.
+  [tags: #clothing, #practice]
+
+- If it is snowy and cold, I
+
+---
+
+# Title: 11 Second Conditional & Hypotheses
+# Lang: [en-US / uk-UA]
+
+## Vocabulary
+- Hypothetical | Гіпотетичний / Уявний
+  [map: hypothetical : гіпотетичний / уявний]
+  [tags: #hypotheses, #vocabulary]
+
+- To melt | Танути
+  [map: to melt : танути]
+  [tags: #hypotheses, #vocabulary]
+
+- Invisible | Невидимий
+  [map: invisible : невидимий]
+  [tags: #hypotheses, #vocabulary]
+
+- To switch lives | Помінятися життями
+  [map: to switch lives : помінятися життями]
+  [tags: #hypotheses, #vocabulary]
+
+- To treat | Лікувати
+  [map: to treat : лікувати]
+  [tags: #hypotheses, #vocabulary]
+
+- Lottery | Лотерея
+  [map: lottery : лотерея]
+  [tags: #hypotheses, #vocabulary]
+
+## Practice
+- If I could, I would go to the movies. | Якби я міг, я б пішов у кіно.
+  [tags: #hypotheses, #practice]
+
+- If I had a friend, I would not feel lonely. | Якби у мене був друг, я б не почувався самотнім.
+  [tags: #hypotheses, #practice]
+
+- If she were a veterinarian, she would treat animals. | Якби вона була ветеринаром, вона б лікувала тварин.
+  [tags: #hypotheses, #practice]
+
+- If we had a map, we would find the way. | Якби ми мали мапу, ми б знайшли дорогу.
+  [tags: #hypotheses, #practice]
+
+- If I received a gift, I would be very happy. | Якби я отримав подарунок, я був би дуже щасливий.
+  [tags: #hypotheses, #practice]
+
+- If I heat ice cream, it melts. | Якщо я грію морозиво, воно тане.
+  [tags: #hypotheses, #practice]
+
+- If I have time, I will watch a movie tonight. | Якщо у мене буде час, я подивлюся фільм сьогодні ввечері.
+  [tags: #hypotheses, #practice]
+
+- If I won the lottery, I would travel the world. | Якби я виграв у лотерею, я б подорожував світом.
+  [tags: #hypotheses, #practice]
+
+## Discussion
+- If you found a bag of cash on the street, what would you do? | Якби ви знайшли сумку з грошима на вулиці, що б ви зробили?
+  [tags: #hypotheses, #discussion]
+
+- If you won the lottery, how would your life change? | Якби ви виграли в лотерею, як би змінилося ваше життя?
+  [tags: #hypotheses, #discussion]
+
+- If you could be invisible for one day, where would you go? | Якби ви могли бути невидимим протягом одного дня, куди б ви пішли?
+  [tags: #hypotheses, #discussion]
+
+---
+
+# Title: 12 Our Amazing Bodies & Body Language
+# Lang: [en-US / uk-UA]
+
+## Vocabulary
+- Neck | Шия
+  [map: neck : шия]
+  [tags: #body_language, #vocabulary]
+
+- Shoulder | Плече
+  [map: shoulder : плече]
+  [tags: #body_language, #vocabulary]
+
+- Knee | Коліно
+  [map: knee : коліно]
+  [tags: #body_language, #vocabulary]
+
+- Tongue | Язик
+  [map: tongue : язик]
+  [tags: #body_language, #vocabulary]
+
+- Toe / Finger | Палець ноги / руки
+  [map: toe : палець ноги, finger : палець руки]
+  [tags: #body_language, #vocabulary]
+
+- Back | Спина
+  [map: back : спина]
+  [tags: #body_language, #vocabulary]
+
+- Foot (pl. feet) | Стопа
+  [map: foot : стопа, feet : стопи]
+  [tags: #body_language, #vocabulary]
+
+- Arm / Hand | Рука (вся) / Кисть
+  [map: arm : рука, hand : кисть]
+  [tags: #body_language, #vocabulary]
+
+- To roll one's eyes | Закочувати очі
+  [map: roll eyes : закочувати очі]
+  [tags: #body_language, #vocabulary]
+
+- To tap fingers | Стукати пальцями
+  [map: tap fingers : стукати пальцями]
+  [tags: #body_language, #vocabulary]
+
+- To bite lips | Кусати губи
+  [map: bite lips : кусати губи]
+  [tags: #body_language, #vocabulary]
+
+- To cross arms/legs | Схрещувати руки/ноги
+  [map: cross arms : схрещувати руки, cross legs : схрещувати ноги]
+  [tags: #body_language, #vocabulary]
+
+- To touch the nose | Торкатися носа
+  [map: touch nose : торкатися носа]
+  [tags: #body_language, #vocabulary]
+
+## Vocabulary Hooks
+- I tap my fingers when I’m waiting. | Я стукаю пальцями, коли чекаю.
+  [tags: #body_language, #Vocab_Hooks]
+
+- She bites her lips when she’s nervous. | Вона кусає губи, коли нервує.
+  [tags: #body_language, #Vocab_Hooks]
+
+- The neck is between your head and your shoulders. | Шия знаходиться між головою та плечима.
+  [tags: #body_language, #Vocab_Hooks]
+
+- Shaking hands is a common greeting. | Рукостискання — це звичне вітання.
+  [tags: #body_language, #Vocab_Hooks]
+
+- If a person rolls their eyes, it can show they are annoyed. | Якщо людина закочує очі, це може свідчити про те, що вона роздратована.
+  [tags: #body_language, #Vocab_Hooks]
+
+## Practice
+- Your knee is located on your arm. — False (It is on your leg). | Ваше коліно розташоване на руці. — Неправда (Воно на нозі).
+  [tags: #body_language, #practice]
+
+- Touching your nose might show that you are lying. — True. | Дотик до носа може свідчити про те, що ви брешете. — Правда.
+  [tags: #body_language, #practice]
+
+- If a person taps their fingers, they might be feeling impatient or bored. | Якщо людина стукає пальцями, вона може відчувати нетерпіння або нудьгу.
+  [tags: #body_language, #practice]
+
+- Actually, I've been waiting for quite a while. | Взагалі-то, я чекаю вже досить довго.
+  [tags: #body_language, #practice]
+
+## Discussion
+- How do you feel when someone crosses their arms while talking to you? | Що ви відчуваєте, коли хтось схрещує руки під час розмови з вами?
+  [tags: #body_language, #discussion]
+
+- What gesture do you use to greet friends? | Який жест ви використовуєте, щоб привітатися з друзями?
+  [tags: #body_language, #discussion]
+
+- How do you express happiness with your body? | Як ви виражаєте щастя за допомогою тіла?
+  [tags: #body_language, #discussion]
+
+---
+
+# Title: 13 Shop Smart
+# Lang: [en-US / uk-UA]
+
+## Vocabulary
+- To shop online | Купувати онлайн
+  [map: to shop online : купувати онлайн]
+  [tags: #shopping, #vocabulary]
+
+- To spend | Витрачати
+  [map: to spend : витрачати]
+  [tags: #shopping, #vocabulary]
+
+- To go shopping | Ходити за покупками
+  [map: to go shopping : ходити за покупками]
+  [tags: #shopping, #vocabulary]
+
+- A price | Ціна
+  [map: a price : ціна]
+  [tags: #shopping, #vocabulary]
+
+- A discount | Знижка
+  [map: a discount : знижка]
+  [tags: #shopping, #vocabulary]
+
+- To pay | Платити
+  [map: to pay : платити]
+  [tags: #shopping, #vocabulary]
+
+- Expensive | Дорогий
+  [map: expensive : дорогий]
+  [tags: #shopping, #vocabulary]
+
+- Cheap | Дешевий
+  [map: cheap : дешевий]
+  [tags: #shopping, #vocabulary]
+
+- A shopping list | Список покупок
+  [map: a shopping list : список покупок]
+  [tags: #shopping, #vocabulary]
+
+- A shop window | Вітрина магазину
+  [map: a shop window : вітрина магазину]
+  [tags: #shopping, #vocabulary]
+
+## Practice
+- I usually shop online because it saves time. | Я зазвичай купую онлайн, тому що це економить час.
+  [tags: #shopping, #practice]
+
+- She goes shopping on Saturdays. | Вона ходить за покупками щосуботи.
+  [tags: #shopping, #practice]
+
+- You must pay before leaving the store. | Ви повинні заплатити перед тим, як вийти з магазину.
+  [tags: #shopping, #practice]
+
+- This dress is too expensive for me. I don't have enough money to buy it. | Ця сукня занадто дорога для мене. У мене недостатньо грошей, щоб її купити.
+  [tags: #shopping, #practice]
+
+- The shop window is full of Christmas decorations. | Вітрина магазину заповнена різдвяними декораціями.
+  [tags: #shopping, #practice]
+
+- I always make a shopping list before going to the supermarket. | Я завжди складаю список покупок перед походом у супермаркет.
+  [tags: #shopping, #practice]
+
+- She checked the price of the shoes before buying them. | Вона перевірила ціну взуття перед тим, як купити його.
+  [tags: #shopping, #practice]
+
+- The store is offering a big discount on all summer clothes. | Магазин пропонує велику знижку на весь літній одяг.
+  [tags: #shopping, #practice]
+
+## Discussion
+- How often do you go shopping, and what do you usually buy? | Як часто ви ходите за покупками і що зазвичай купуєте?
+  [tags: #shopping, #discussion]
+
+- Do you prefer to shop online or in stores? Why? | Ви надаєте перевагу покупкам онлайн чи в магазинах? Чому?
+  [tags: #shopping, #discussion]
+
+- What’s the most expensive item you’ve ever bought? Was it worth the price? | Яка найдорожча річ, яку ви коли-небудь купували? Чи вартувала вона своєї ціни?
+  [tags: #shopping, #discussion]
+
+- Do you usually compare prices before making a purchase? How do you do it? | Чи зазвичай ви порівнюєте ціни перед покупкою? Як ви це робите?
+  [tags: #shopping, #discussion]
+
+---
+
+# Title: 14 Present Simple Passive
+
+# Lang: en-US / uk-UA
+
+## Vocabulary
+
+* Passive Voice | Пасивний стан
+[map: passive voice : пасивний стан]
+[tags: #present_simple_passive, #vocabulary]
+* Active Voice | Активний стан
+[map: active voice : активний стан]
+[tags: #present_simple_passive, #vocabulary]
+* To be driven | Бути підвезеним (кимось)
+[map: to be driven : бути підвезеним]
+[tags: #present_simple_passive, #vocabulary]
+* Regularly | Регулярно
+[map: regularly : регулярно]
+[tags: #present_simple_passive, #vocabulary]
+* To be woken up | Бути розбудженим
+[map: to be woken up : бути розбудженим]
+[tags: #present_simple_passive, #vocabulary]
+* To be asked | Бути запитаним / Отримати прохання
+[map: to be asked : бути запитаним]
+[tags: #present_simple_passive, #vocabulary]
+
+## Vocabulary Hooks
+
+* Coffee is made. | Кава готується.
+[tags: #present_simple_passive, #Vocab_Hooks]
+* She is woken up by her mother. | Її будить мама.
+[tags: #present_simple_passive, #Vocab_Hooks]
+* Actually... | Взагалі-то... / Насправді...
+[tags: #present_simple_passive, #Vocab_Hooks]
+* I’m afraid... | Боюсь, що...
+[tags: #present_simple_passive, #Vocab_Hooks]
+* To be honest / To be fair... | Чесно кажучи / Якщо бути справедливим...
+[tags: #present_simple_passive, #Vocab_Hooks]
+* I was wondering if... | Мені було цікаво, чи...
+[tags: #present_simple_passive, #Vocab_Hooks]
+
+## Practice
+
+* She is driven to school by her mother every day. | Її кожного дня відвозить до школи мама.
+[tags: #present_simple_passive, #practice]
+* She is woken up by her mother at 7 am. | Її будить мама о 7 ранку.
+[tags: #present_simple_passive, #practice]
+* The waiter is asked by Sue to bring some water. | Сью просить офіціанта принести води.
+[tags: #present_simple_passive, #practice]
+* The boxes are moved out of the way by Michael. | Майкл прибирає коробки з дороги.
+[tags: #present_simple_passive, #practice]
+* The dog is walked by the boys every day. | Хлопці вигулюють собаку щодня.
+[tags: #present_simple_passive, #practice]
+
+## Discussion
+
+* What kind of weather do you prefer? | Якій погоді ви віддаєте перевагу?
+[tags: #present_simple_passive, #discussion]
+* Actually, I’m quite fond of sunny weather... | Насправді, я дуже люблю сонячну погоду...
+[tags: #present_simple_passive, #discussion]
+* How are tasks usually distributed in your household/office? | Як зазвичай розподіляються завдання у вашому домі чи офісі?
+[tags: #present_simple_passive, #discussion]
+* In our office, tasks are usually distributed very fairly. | У нашому офісі завдання зазвичай розподіляються дуже справедливо.
+[tags: #present_simple_passive, #discussion]
+* Could I possibly have some more water? | Чи міг би я отримати ще трохи води?
+[tags: #present_simple_passive, #discussion]
+
+---
+
+# Title: 15 At the Store
+
+# Lang: en-US / uk-UA
+
+## Vocabulary
+
+* Shop assistant | Продавець-консультант
+[map: shop assistant : продавець-консультант]
+[tags: #at_the_store, #vocabulary]
+* Customer | Покупець
+[map: customer : покупець]
+[tags: #at_the_store, #vocabulary]
+* Fitting room | Примірочна
+[map: fitting room : примірочна]
+[tags: #at_the_store, #vocabulary]
+* Receipt | Чек (після оплати)
+[map: receipt : чек]
+[tags: #at_the_store, #vocabulary]
+* Bill | Рахунок (до оплати)
+[map: bill : рахунок]
+[tags: #at_the_store, #vocabulary]
+* To fit | Підходити за розміром
+[map: to fit : підходити за розміром]
+[tags: #at_the_store, #vocabulary]
+* To suit | Пасувати за стилем / Личити
+[map: to suit : пасувати]
+[tags: #at_the_store, #vocabulary]
+
+## Vocabulary Hooks
+
+* This suit fits you. | Цей костюм підходить вам за розміром.
+[tags: #at_the_store, #Vocab_Hooks]
+* This sweater suits you. | Цей светр вам личить.
+[tags: #at_the_store, #Vocab_Hooks]
+* Actually, I'm looking for a different color. | Насправді, я шукаю інший колір.
+[tags: #at_the_store, #Vocab_Hooks]
+* I'm afraid this size is too small for me. | Боюсь, цей розмір замалий для мене.
+[tags: #at_the_store, #Vocab_Hooks]
+* To be honest, I think the blue one suits me better. | Чесно кажучи, я думаю, що синій мені пасує більше.
+[tags: #at_the_store, #Vocab_Hooks]
+
+## Practice
+
+* I will take it. | Я це візьму.
+[tags: #at_the_store, #practice]
+* How can I help you? | Чим я можу вам допомогти?
+[tags: #at_the_store, #practice]
+* Excuse me, I am looking for a red T-shirt. | Вибачте, я шукаю червону футболку.
+[tags: #at_the_store, #practice]
+* How much is this? | Скільки це коштує?
+[tags: #at_the_store, #practice]
+* Can I try it on? | Чи можу я це приміряти?
+[tags: #at_the_store, #practice]
+* Have you got it in a different color? | Чи є у вас це в іншому кольорі?
+[tags: #at_the_store, #practice]
+* Could you possibly check if you have this in large? | Чи могли б ви, можливо, перевірити, чи є у вас це у великому розмірі?
+[tags: #at_the_store, #practice]
+* Would you mind showing me the fitting rooms? | Ви не заперечуєте проти того, щоб показати мені примірочні?
+[tags: #at_the_store, #practice]
+
+## Discussion
+
+* Excuse me, I'm looking for a pair of black pants, please. | Вибачте, я шукаю пару чорних штанів, будь ласка.
+[tags: #at_the_store, #discussion]
+* Actually, I really like this jacket. Might I try it on to see how it fits? | Насправді, мені дуже подобається ця куртка. Можна мені її приміряти, щоб побачити, як вона сидить?
+[tags: #at_the_store, #discussion]
+* I'm afraid I can't see the price tag on this T-shirt. Could you tell me how much it is? | Боюсь, я не бачу цінника на цій футболці. Не могли б ви сказати мені, скільки вона коштує?
+[tags: #at_the_store, #discussion]
+* Actually, I'm looking for a summer dress in a small size. | Насправді, я шукаю літню сукню невеликого розміру.
+[tags: #at_the_store, #discussion]
+
+---
+
+# Title: 16 Tech talk
+
+# Lang: en-US / uk-UA
+
+## Vocabulary
+
+* Gadget | Гаджет / пристрій
+[map: gadget : гаджет]
+[tags: #tech_talk, #vocabulary]
+* Artificial Intelligence (AI) | Штучний інтелект (ШІ)
+[map: artificial intelligence : штучний інтелект]
+[tags: #tech_talk, #vocabulary]
+* Laptop | Ноутбук
+[map: laptop : ноутбук]
+[tags: #tech_talk, #vocabulary]
+* Tablet | Планшет
+[map: tablet : планшет]
+[tags: #tech_talk, #vocabulary]
+* Screen | Екран
+[map: screen : екран]
+[tags: #tech_talk, #vocabulary]
+* Headphones | Навушники
+[map: headphones : навушники]
+[tags: #tech_talk, #vocabulary]
+* Charger | Зарядний пристрій
+[map: charger : зарядний пристрій]
+[tags: #tech_talk, #vocabulary]
+* To browse (the Internet) | Переглядати (інтернет)
+[map: to browse : переглядати]
+[tags: #tech_talk, #vocabulary]
+* To download | Завантажувати
+[map: to download : завантажувати]
+[tags: #tech_talk, #vocabulary]
+* To log in | Увійти в систему
+[map: to log in : увійти в систему]
+[tags: #tech_talk, #vocabulary]
+
+## Vocabulary Hooks
+
+* Type a password / an email address. | Введіть пароль / адресу електронної пошти.
+[tags: #tech_talk, #Vocab_Hooks]
+* Click on an icon / a link. | Натисніть на значок / посилання.
+[tags: #tech_talk, #Vocab_Hooks]
+* Actually... | Взагалі-то... / Насправді...
+[tags: #tech_talk, #Vocab_Hooks]
+* I’m afraid... | Боюсь, що...
+[tags: #tech_talk, #Vocab_Hooks]
+* To be honest... | Чесно кажучи...
+[tags: #tech_talk, #Vocab_Hooks]
+* I might suggest... | Я міг би запропонувати...
+[tags: #tech_talk, #Vocab_Hooks]
+
+## Practice
+
+* I’m charging my phone because I forgot my charger at home. | Я заряджаю свій телефон, бо забув свій зарядний пристрій вдома.
+[tags: #tech_talk, #practice]
+* My sister likes to listen to music with headphones while she works. | Моя сестра любить слухати музику через навушники, коли працює.
+[tags: #tech_talk, #practice]
+* I always check my email when I go to the university website. | Я завжди перевіряю свою електронну пошту, коли заходжу на сайт університету.
+[tags: #tech_talk, #practice]
+* My new tablet has a large screen, and it’s convenient for watching movies. | Мій новий планшет має великий екран, і це зручно для перегляду фільмів.
+[tags: #tech_talk, #practice]
+* He didn’t know his password, so he couldn’t log in. | Він не знав свій пароль, тому не зміг увійти до системи.
+[tags: #tech_talk, #practice]
+* Would you mind if I borrowed your charger for a moment? | Ви не заперечуєте, якщо я позичу ваш зарядний пристрій на хвилинку?
+[tags: #tech_talk, #practice]
+
+## Discussion
+
+* What gadget do you use the most, and why? | Яким гаджетом ви користуєтеся найбільше і чому?
+[tags: #tech_talk, #discussion]
+* Actually, I use my laptop and phone almost equally. | Насправді, я користуюся ноутбуком і телефоном майже однаково.
+[tags: #tech_talk, #discussion]
+* How often do you need to charge your phone? | Як часто вам потрібно заряджати телефон?
+[tags: #tech_talk, #discussion]
+* Could I possibly borrow yours to charge my phone for an hour? | Чи міг би я, можливо, позичити ваш, щоб зарядити телефон протягом години?
+[tags: #tech_talk, #discussion]
 
 ---
 
