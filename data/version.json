@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-03-19T16:05:00Z",
+  "lastGlobalUpdate": "2026-03-28T18:02:31.775Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -7,7 +7,7 @@
       "order": 1,
       "version": "1.2.2",
       "path": "/StudyLess_Pre.dsl",
-      "size": "91.6kb"
+      "size": "88.4kb"
     },
     "my_speaking": {
       "id": "my_speaking",
@@ -15,10 +15,9 @@
       "order": 2,
       "version": "1.0.8",
       "path": "/My_speaking.dsl",
-      "size": "30.3kb"
+      "size": "29.6kb"
     },
-
-    "Vocabulary_hooks": {
+    "vocabulary_hooks": {
       "id": "vocabulary_hooks",
       "name": "Vocabulary hooks",
       "order": 3,
@@ -26,5 +25,9 @@
       "path": "/Vocabulary_hooks.dsl",
       "size": "3.2kb"
     }
-  }
+  },
+  "user_configs": {
+    "7985841767496051e7823d3724558616": "/configs/7985841767496051e7823d3724558616.json"
+  },
+  "admin_vault": "U2FsdGVkX1+PRCLP+E2ZB/FOid+sRWv/h0Y3/NCWYDQCudSbnZwbs8ofqvU+2HbTZFmvGQK2uzhCxq/p0C35uWll/NLT6W8u95eJ9Wxb42bVfmiPfsVEYUK/VmNUe7te4I7XukO4iE3ZSRb5F0KsSDhWIgAyBrjheCA0xQmhRhE="
 }
