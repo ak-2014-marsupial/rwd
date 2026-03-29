@@ -1,11 +1,12 @@
 {
-  "lastGlobalUpdate": "2026-03-29T06:24:16.459Z",
+  "lastGlobalUpdate": "2026-03-29T06:52:24.926Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
       "name": "Pre-Intermediate",
       "order": 1,
-      "version": "1.2.2",
+      "version": "1.0.0",
+      "hash": "faea30228cc9d1df",
       "path": "/StudyLess_Pre.dsl",
       "size": "88.4kb"
     },
@@ -13,7 +14,8 @@
       "id": "my_speaking",
       "name": "My Speaking Practice",
       "order": 2,
-      "version": "1.0.8",
+      "version": "1.0.0",
+      "hash": "70fa8f511ebb8f85",
       "path": "/My_speaking.dsl",
       "size": "29.6kb"
     },
@@ -21,7 +23,8 @@
       "id": "vocabulary_hooks",
       "name": "Vocabulary hooks",
       "order": 3,
-      "version": "1.0.0",
+      "version": "1.0.1",
+      "hash": "34c28996c0d12eba",
       "path": "/Vocabulary_hooks.dsl",
       "size": "3.2kb"
     }
@@ -29,5 +32,5 @@
   "user_configs": {
     "7985841767496051e7823d3724558616": "/configs/7985841767496051e7823d3724558616.json"
   },
-  "admin_vault": "U2FsdGVkX19KJ98HUeI530uHfItYoZ2AU2LrpGHfz/jOM72Zhc6m1tUUAj2PEspWKWn2WgrFwCAkHkukgThChzIPauJ7iaPQhlaSXTfWuuV48iRqz5VfzMI1xWrZ9sIUV6lg2MfBpzQlyYqEq7cz/SSXAMIZhnpXaiauToSDau0="
+  "admin_vault": "U2FsdGVkX1+CW91wfgbnKGlQpK0Ax83d79dWbNSuY8hTyUxIKb7FfFWSxdAnRxtYRfX4WZP2eY8K4Vdpadw64KJxF2QnqjugIDMPhC9nsnMX9drnWVQxo0fgu0AYK/ax45EfQMDr5I+BdJWizCaE/egiibp0/Si/xJRQxAxX8VA="
 }
