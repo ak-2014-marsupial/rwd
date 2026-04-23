@@ -1,9 +1,10 @@
 {
-  "lastGlobalUpdate": "2026-04-08T13:49:00.998Z",
+  "lastGlobalUpdate": "2026-04-23T15:31:38.568Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
       "name": "Pre-Intermediate",
+      "format": "vocabulary",
       "order": 1,
       "version": "1.2.2",
       "hash": "faea30228cc9d1df",
@@ -13,16 +14,35 @@
     "vocabulary_hooks": {
       "id": "vocabulary_hooks",
       "name": "Vocabulary hooks",
+      "format": "vocabulary",
       "order": 2,
       "version": "1.0.0",
       "hash": "34c28996c0d12eba",
       "path": "/Vocabulary_hooks.dsl",
       "size": "3.2kb"
+    },
+    "trusty_rules": {
+      "id": "trusty_rules",
+      "name": "Trusty Rules",
+      "format": "rules",
+      "order": 3,
+      "version": "1.0.0",
+      "hash": "7ea51544405d58dd",
+      "path": "/trusty_rules.dsl",
+      "size": "1.2kb"
+    }
+  },
+  "libraries": {
+    "rules_meta": {
+      "id": "rules_meta",
+      "hash": "1bc3c2798e309b63",
+      "path": "/rules_meta.dsl",
+      "size": "2.9kb"
     }
   },
   "user_configs": {
     "a74d4fe4eeb2080e167916359f7ba135": "/configs/a74d4fe4eeb2080e167916359f7ba135.json",
     "5e76c465818d8c67e939863421c9961d": "/configs/5e76c465818d8c67e939863421c9961d.json"
   },
-  "admin_vault": "U2FsdGVkX18KVd+PWP0kz1RXZwOBygulwuwhfyjE6wzvGk4wxJyAMIfmVtds9aGRb9Ewwz2wk248+5tC3abitqhMDj5XavJ/DXf8Wmdob8fFpPTLkPpdYwfd4oM00KZr2+DY+5CNl/gz14REIx6x4c3fyFZ6ux+0E26RiLHQoZHZJg7THkircXG604LvLIko1y5N1a+PLTXac3GovIqX40hnu2P1Jc3Hjg+Ky9TK5oFxEq+o5V6yqAjN4dex/wZV0/dBrE4QMw6x1uVFqug8LD+/6UCpSD7+HXOldyzlrag="
+  "admin_vault": "U2FsdGVkX1/fW5Zn+rOdPu3HgGdCs8+optY+D6pmcf6muPcSnU8r4MOSsKpiYijbHWI2Q4J6rMkEvLw3jFjwCjMPeCqVaHC9ZEFPONd2/nY/2IzTa9BM+W10GHlSy4yf1wi6Wco+kHUToX2dGY+U+BdNfWd7rr3JdvQid1y3+tbe/kOIJITci2oRjmph66bZJeXJZt6tu1QaD1X548Qacz59iwIBoRDubD3+F5r50VEQ7oN9W9Dxyc1Uy/wKtc3hiYChRzA3p0NfrTyeQ1uu4uLRjsPHIzNPin/CV7qrSFw="
 }
