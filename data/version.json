@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-04-24T16:36:35.288Z",
+  "lastGlobalUpdate": "2026-04-24T18:05:02.274Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -27,9 +27,9 @@
       "format": "rules",
       "order": 3,
       "version": "1.0.0",
-      "hash": "7ea51544405d58dd",
+      "hash": "34d66fde94953e49",
       "path": "/trusty_rules.dsl",
-      "size": "1.2kb"
+      "size": "8.4kb"
     }
   },
   "libraries": {
@@ -44,5 +44,5 @@
     "a74d4fe4eeb2080e167916359f7ba135": "/configs/a74d4fe4eeb2080e167916359f7ba135.json",
     "5e76c465818d8c67e939863421c9961d": "/configs/5e76c465818d8c67e939863421c9961d.json"
   },
-  "admin_vault": "U2FsdGVkX1+pLPP/dZcrye5a9EUcy60vK6Oj7OCsdPU6h9ovWHAcVCRxXO0Kz1QEtlJOjaK5k7Xs7/KELn5GYSxd+U4l2esaBNtHuZ+wT6jaxDJ7hbh/7hHDiI5430CIyXR4osVz+wibxgIzRoZzzoyFct38WnTwYrM+AexDgGMQ6fQnhVRftD3RB2+q+f+75IcmZHClco+yDLMQB+hMvwlcd5vDz6X2dHPN8BvWlVQjMCL5E7Oah4pfxAAxDLSee+5Opin1Iok7Y67nv7zyEzANHCbAZxHKdBRm5+mF5Dk="
+  "admin_vault": "U2FsdGVkX19kAsgeY/ac5pJR+unJS35arrj9jA0R5HPXMViBC2vtP5EtzmkgaGFtbK8F5Be5GGQO3avGyxET1n/L+Vel3k+f9Gv4HDqFpee88bxkPHsqDUsDtOa5QQz2FW88/vGrpCq5qKnVthRn8llHrKF1VJStOHcaowyLNWmdlJaG8jagJm4OJDrzDsDb/GkBI5UapghfoYwnhSUPg5cHRbxYw9hiFO7YjpXaw/spGZts8L17rm7Q5AidLow1zxDl1tGenVPzqY6Y8krS67gpFjn7QyaycHRDuY2vXrE="
 }
