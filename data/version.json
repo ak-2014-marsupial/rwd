@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-04-28T13:37:57.611Z",
+  "lastGlobalUpdate": "2026-04-28T13:54:17.401Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -37,9 +37,9 @@
       "format": "vocabulary",
       "order": 4,
       "version": "1.0.0",
-      "hash": "14a24d9c9b01f076",
+      "hash": "59a1efa382d4841e",
       "path": "/Trump_Style_English.dsl",
-      "size": "11.6kb"
+      "size": "11.8kb"
     }
   },
   "libraries": {
@@ -54,5 +54,5 @@
     "a74d4fe4eeb2080e167916359f7ba135": "/configs/a74d4fe4eeb2080e167916359f7ba135.json",
     "5e76c465818d8c67e939863421c9961d": "/configs/5e76c465818d8c67e939863421c9961d.json"
   },
-  "admin_vault": "U2FsdGVkX1/Q8bXduETN70ojRqNkCFkIQi9DbMFlxCIDB30lnG79U4sy2xEDSuKWDwt5tvS//17xmfSSPuPNkVaJOaAeiAOjVgWPgIU4Pngk0bY7sS0gXHh2Cshok1D1c73CwByRUM3iCtqOZrThowMDEgmCB2OV6he6axoJ6IV8nsVVbM4Ej8FwNAQnTWNvjysKKul8oftTYat8xmp+pC/5xOfXZgkDoewsU4VFFhQo0GYJKhoQSWFG2t78/gspTGqNsPBrQA6FLlxzFdmolGPIeWp1KS5+d1tHvwSZvXA="
+  "admin_vault": "U2FsdGVkX19IM9JWhkwG3Xna69s3LlB1RilvhybU/bhwFklSjrKyejcf2oHnrbW9qXAW1a0fGQJJ+S4UXPpI0dUNs7nRsPo9RomxTGIuSHQ9dNPitpM9W1YytZ4JKCNNJJt9svhSjOA9r9I81K01Ve8W1Ovpzz5BtP/BI8PexueqS8KTSAG15qKhHChEbmkj8XxkUWbqZYJYOK53yGCombZL9uRludhMQrnDFOiml25gD5//UzFNtgjY58R/sRpFx80eZVqObgVDwXcscf4mGJ5K5fzc/C2ofAHSTBu4iRw="
 }

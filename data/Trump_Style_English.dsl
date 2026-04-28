@@ -1,7 +1,7 @@
-# Title: Trump-Style English
+# Title: The 24-Hour Peace Deal
 # Lang: en-US / uk-UA / ru-RU
 
-## The 24-Hour Peace Deal
+## Writing
 - I looked at the map, and I said, 'This is a disaster, but I can fix it.' | Я подивився на карту і сказав: «Це катастрофа, але я можу це виправити». | Я посмотрел на карту и сказал: «Это катастрофа, но я могу это исправить».
   [tags: #the_24-hour_peace_deal]
 
@@ -23,7 +23,11 @@
 - And I’ll say, 'It’s just a good day for the world.' | А я скажу: «Це просто хороший день для світу». | А я скажу: «Это просто хороший день для мира».
   [tags: #the_24-hour_peace_deal]
 
-## The Iran Situation
+# The Iran Situation
+# Lang: en-US / uk-UA / ru-RU
+
+## Writing
+
 - The Iran deal was a terrible deal, maybe the worst deal in history. | Іранська угода була жахливою угодою, можливо, найгіршою угодою в історії. | Иранская сделка была ужасной сделкой, возможно, худшей сделкой в истории.
   [tags: #the_iran_situation]
 
@@ -45,7 +49,11 @@
 - It’s going to be a great day when they call me and say, 'Sir, let’s talk.' | Це буде чудовий день, коли вони зателефонують мені і скажуть: «Сер, давайте поговоримо». | Это будет отличный день, когда они позвонят мне и скажут: «Сэр, давайте поговорим».
   [tags: #the_iran_situation]
 
-## The "Beautiful" Hardware
+# The "Beautiful" Hardware
+# Lang: en-US / uk-UA / ru-RU
+
+## Writing
+
 - We have the best equipment in the world, nobody has what we have. | У нас найкраще обладнання у світі, ніхто не має того, що маємо ми. | У нас лучшее оборудование в мире, ни у кого нет того, что есть у нас.
   [tags: #the_"beautiful"_hardware]
 
@@ -67,7 +75,11 @@
 - It’s a very, very great day for America. | Це дуже, дуже визначний день для Америки. | Это очень, очень великий день для Америки.
   [tags: #the_"beautiful"_hardware]
 
-## The World's Best Wall
+# The World's Best Wall
+# Lang: en-US / uk-UA / ru-RU
+
+## Writing
+
 - I know how to build, and I build the best things, everyone knows it. | Я знаю, як будувати, і я будую найкращі речі, всі це знають. | Я знаю, как строить, и я строю лучшие вещи, все это знают.
   [tags: #the_world's_best_wall]
 
@@ -89,7 +101,11 @@
 - It will be the most beautiful thing in the history of our country. | Це буде найкрасивіша річ в історії нашої країни. | Это будет самая красивая вещь в истории нашей страны.
   [tags: #the_world's_best_wall]
 
-## The "Perfect" Phone Call
+# The "Perfect" Phone Call
+# Lang: en-US / uk-UA / ru-RU
+
+## Writing
+
 - I had a phone call, and it was a perfect call, a very beautiful and perfect call. | У мене була телефонна розмова, і це був ідеальний дзвінок, дуже красивий та ідеальний дзвінок. | У меня был телефонный звонок, и это был идеальный звонок, очень красивый и идеальный звонок.
   [tags: #the_"perfect"_phone_call]
 
