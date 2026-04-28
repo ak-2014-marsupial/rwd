@@ -1,19 +1,22 @@
-**Spelling_Silent_E**
-###  Алгоритм «Німа -E» 
-Це правило регулює, що відбувається з літерою **e** в кінці дієслова при додаванні закінчення `-ing`.
+# Німа -E (Silent -E)
 
-**Умови:**
-1.  Дієслово закінчується на **-e** (яку ми не вимовляємо).
-2.  Додається суфікс, що починається з голосної (наприклад, `-ing`).
+Це правило регулює, що відбувається з літерою **e** в кінці слова при додаванні закінчень, що починаються з голосної (наприклад, `-ing`).
+This rule governs what happens to the letter **e** at the end of a word when adding suffixes starting with a vowel (e.g., `-ing`).
 
-**Дія:**
-* **Видаляємо** літеру **e** перед додаванням закінчення.
+### Правило (The Rule):
+Якщо слово закінчується на **-e**, яку ми не вимовляємо (німу), ми **видаляємо** її перед додаванням закінчення.
+If a word ends in a silent **-e**, we **drop** it before adding the suffix.
 
-**Приклади:**
-* `make + ing` → **making** (e випадає).
-* `dance + ing` → **dancing**.
+**Приклади (Examples):**
+* `make + ing` → **making** (e disappears)
+* `dance + ing` → **dancing**
+* `write + ing` → **writing**
 
-**Винятки:**
-* Якщо дієслово закінчується на подвійну **-ee**, **-oe** або **-ye**, нічого не видаляємо: *see → seeing*, *canoe → canoeing*, *dye → dyeing*.
+### Винятки (Exceptions):
+Якщо слово закінчується на подвійну **-ee**, **-oe** або **-ye**, нічого не видаляємо:
+If the word ends in **-ee**, **-oe**, or **-ye**, do NOT drop the **e**:
+* `see → seeing`
+* `canoe → canoeing`
+* `dye → dyeing`
 
 

@@ -1,17 +1,20 @@
-**Article_A_An**
-###  Алгоритм «Вибір артикля A/An» 
-Золоте правило вибору між двома формами невизначеного артикля.
+# Вибір артикля A/An (Choosing A vs. An)
 
-**Головний принцип:** Ми слухаємо **перший звук** слова, а не дивимося на першу літеру.
+Цей алгоритм допоможе вам завжди обирати правильну форму невизначеного артикля.
+This algorithm will help you always choose the correct indefinite article.
 
-**Логіка вибору:**
-* Якщо слово починається з **Приголосного звуку** → ставимо **A**.
-    * *Приклад:* `a car`, `a ball`.
-* Якщо слово починається з **Голосного звуку** → ставимо **An**.
-    * *Приклад:* `an apple`, `an hour` (h не вимовляється, перший звук [a]).
+### Золоте правило (The Golden Rule)
+Ми слухаємо **перший звук** слова, а не дивимося на першу літеру.
+We listen to the **first sound** of the word, not look at the first letter.
 
-**Пастка літери U:**
-* `an umbrella` (звук [ʌ] — голосний).
-* `a university` (звук [j] — приголосний, як "й").
+### Логіка вибору (The Logic):
+* **Приголосний звук (Consonant sound)** → ставимо **A**.
+    * *Examples:* `a car`, `a ball`.
+* **Голосний звук (Vowel sound)** → ставимо **An**.
+    * *Examples:* `an apple`, `an hour` (h is silent, the first sound is [a]).
+
+### Пастка літери U (The "U" Trap):
+* `an umbrella` (звук [ʌ] — голосний / vowel).
+* `a university` (звук [j] — приголосний / consonant, like "y").
 
 
