@@ -154,6 +154,8 @@
   [rule: Prep_Time]
 - У 2024 році | in 2024, at 2024
   [rule: Prep_Time]
+- до 11 вечора (не пізніше ніж) | by 11 pm, until 11 pm
+  [rule: Prep_Time]
 
 ## Section: Prepositions of Place
 - На стіні | on the wall, in the wall
@@ -220,6 +222,12 @@
   [rule: Collocation_Fixed]
 - пити каву | have coffee, do coffee
   [rule: Collocation_Fixed]
+- залежати від | depend on, depend from
+  [rule: Collocation_Fixed]
+- платити карткою | pay by card, pay with card
+  [rule: Collocation_Fixed]
+- платити готівкою | pay in cash, pay by cash
+  [rule: Collocation_Fixed]
 
 ## Section: Fixed Collocations - Verb "DO"
 - робити зачіску | do hair, make hair
@@ -265,4 +273,10 @@
 - бути сенс | make sense, do sense
   [rule: Collocation_Fixed]
 - ризикувати | take a risk, do a risk
+  [rule: Collocation_Fixed]
+- бронь на прізвище Петренко | reservation under Petrenko, reservation on Petrenko
+  [rule: Collocation_Fixed]
+- злитися на когось | get angry with someone, get angry on someone
+  [rule: Collocation_Fixed]
+- злитися через щось | get angry about something, get angry for something
   [rule: Collocation_Fixed]
