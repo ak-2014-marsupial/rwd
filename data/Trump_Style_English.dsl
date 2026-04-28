@@ -23,7 +23,7 @@
 - And I’ll say, 'It’s just a good day for the world.' | А я скажу: «Це просто хороший день для світу». | А я скажу: «Это просто хороший день для мира».
   [tags: #the_24-hour_peace_deal]
 
-# The Iran Situation
+# Title: The Iran Situation
 # Lang: en-US / uk-UA / ru-RU
 
 ## Writing
@@ -49,7 +49,7 @@
 - It’s going to be a great day when they call me and say, 'Sir, let’s talk.' | Це буде чудовий день, коли вони зателефонують мені і скажуть: «Сер, давайте поговоримо». | Это будет отличный день, когда они позвонят мне и скажут: «Сэр, давайте поговорим».
   [tags: #the_iran_situation]
 
-# The "Beautiful" Hardware
+# Title: The "Beautiful" Hardware
 # Lang: en-US / uk-UA / ru-RU
 
 ## Writing
@@ -75,7 +75,7 @@
 - It’s a very, very great day for America. | Це дуже, дуже визначний день для Америки. | Это очень, очень великий день для Америки.
   [tags: #the_"beautiful"_hardware]
 
-# The World's Best Wall
+# Title: The World's Best Wall
 # Lang: en-US / uk-UA / ru-RU
 
 ## Writing
@@ -101,7 +101,7 @@
 - It will be the most beautiful thing in the history of our country. | Це буде найкрасивіша річ в історії нашої країни. | Это будет самая красивая вещь в истории нашей страны.
   [tags: #the_world's_best_wall]
 
-# The "Perfect" Phone Call
+# Title: The "Perfect" Phone Call
 # Lang: en-US / uk-UA / ru-RU
 
 ## Writing
