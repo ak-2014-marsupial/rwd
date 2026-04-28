@@ -3,7 +3,7 @@
 
 ## [welcome]
  title: Ласкаво просимо
- path: /docs/general/welcome.md
+ path: /general/welcome.md
 
 # [games]
  title: Наші ігри
@@ -13,11 +13,11 @@
 
 ### [trusty_rules]
  title: Правила та бали
- path: /docs/games/trusty_rules.md
+ path: /games/trusty_rules.md
 
 ### [trusty_dictionary]
  title: Словник понять
- path: /docs/games/trusty_dictionary.md
+ path: /games/trusty_dictionary.md
 
 # [rules]
  title: Граматичні алгоритми
@@ -27,27 +27,27 @@
 
 ### [cvc]
  title: Подвоєння приголосних (CVC)
- path: /docs/rules/Spelling_CVC.md
+ path: /rules/Spelling_CVC.md
 
 ### [silent_e]
  title: Німа -E
- path: /docs/rules/Spelling_Silent_E.md
+ path: /rules/Spelling_Silent_E.md
 
 ### [y_to_i]
  title: Зміна Y на I
- path: /docs/rules/Spelling_Y_to_I.md
+ path: /rules/Spelling_Y_to_I.md
 
 ## [grammar_basics]
  title: Базова граматика
 
 ### [a_an]
  title: Артиклі A / An
- path: /docs/rules/Article_A_An.md
+ path: /rules/Article_A_An.md
 
 ### [plural_f_v]
  title: Множина F -> V
- path: /docs/rules/Plural_F_to_V.md
+ path: /rules/Plural_F_to_V.md
 
 ### [prep_time]
  title: Прийменники часу
- path: /docs/rules/Prep_Time.md
+ path: /rules/Prep_Time.md
