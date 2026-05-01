@@ -5,17 +5,25 @@
  title: Ласкаво просимо
  path: /general/welcome.md
 
-# [games]
- title: Наші ігри
+# [LEGkO]
+ title: English as LEGO => LEGkO
 
-## [trusty_game]
+ ## [LEGkO_format]
+ title: Посібник зі збірки речень
+ path: /games/The_Chunk_Matrix.md
+
+ ## [LEGkO_example_01]
+  title: Приклад, тема Domestic Tasks
+  path: /games/LEGkO_Domestic_Tasks.md
+
+# [trusty_game]
  title: Гра Trusty
 
-### [trusty_rules]
+## [trusty_rules]
  title: Правила та бали
  path: /games/trusty_rules.md
 
-### [trusty_dictionary]
+## [trusty_dictionary]
  title: Словник понять
  path: /games/trusty_dictionary.md
 
