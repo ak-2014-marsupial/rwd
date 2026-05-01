@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-05-01T08:20:39.547Z",
+  "lastGlobalUpdate": "2026-05-01T17:57:10.495Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -11,21 +11,11 @@
       "path": "/StudyLess_Pre.dsl",
       "size": "88.4kb"
     },
-    "vocabulary_hooks": {
-      "id": "vocabulary_hooks",
-      "name": "Vocabulary hooks",
-      "format": "vocabulary",
-      "order": 2,
-      "version": "1.0.0",
-      "hash": "34c28996c0d12eba",
-      "path": "/Vocabulary_hooks.dsl",
-      "size": "3.2kb"
-    },
     "trusty_rules": {
       "id": "trusty_rules",
       "name": "Trusty Rules",
       "format": "rules",
-      "order": 3,
+      "order": 2,
       "version": "1.0.0",
       "hash": "fcfa805a6c89758a",
       "path": "/trusty_rules.dsl",
@@ -35,7 +25,7 @@
       "id": "trump_style_english",
       "name": "Trump Style English",
       "format": "vocabulary",
-      "order": 4,
+      "order": 3,
       "version": "1.0.0",
       "hash": "934eb301152e4e86",
       "path": "/Trump_Style_English.dsl",
@@ -54,5 +44,5 @@
     "a74d4fe4eeb2080e167916359f7ba135": "/configs/a74d4fe4eeb2080e167916359f7ba135.json",
     "5e76c465818d8c67e939863421c9961d": "/configs/5e76c465818d8c67e939863421c9961d.json"
   },
-  "admin_vault": "U2FsdGVkX1+TgfAhxuEN0kAdAY0Svk4iaK9JNFyKZUWjkIfiU0X/YPfiranBk30j6XbKYsxTtSJztv7iX9OcNN5hSCAYEK5QwAp+BVXSOT6QjjxBHDTGtZ/NzhwCQkbXIEkbuKE6memWDZAN3ZDBDaUojgwtXwPpGpWmw3ep4ZRbjNsi8d+aKZHSPsZavIvfpUegSTdLWBwUEY1YPk06wBFKzvIp57dfrUpKmE14JDfiWd2usV8teAvx0vfjxZveuiMNuNYCO2F+Dn2t4nBOjAnEFeDN4mlVA8xsc2Yvc7Y="
+  "admin_vault": "U2FsdGVkX1/F5yVS2+wjR0/9SO0vqkIyWGPJz9yqsNAijOMSAOuaMDRA49vssP8umOjEfTkdDZNtm6B2Iu+sBHcYYrvWRME+U/8oScPqqXJCUDbc4KGDcTWVCipJKI4RnW4AyOKiSDQ2fTOv7g60CG91cy5pYK3sU8cWfnpF0VqtjJDH5+dmTl8yi79SdyFERI8BpKDYOhkcr46EWZz3qdHQ0vS4KoKcnYKwf2xJkNNSTxTINu5sBwMr5lN1+iK8FiarHhzJLP8hxADP48/aZHIJMCEgBqXvacj63VZ0VSc="
 }
