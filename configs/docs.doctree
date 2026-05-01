@@ -10,11 +10,11 @@
 
  ## [LEGkO_format]
  title: Посібник зі збірки речень
- path: /games/The_Chunk_Matrix.md
+ path: /general/The_Chunk_Matrix.md
 
  ## [LEGkO_example_01]
   title: Приклад, тема Domestic Tasks
-  path: /games/LEGkO_Domestic_Tasks.md
+  path: /general/LEGkO_Domestic_Tasks.md
 
 # [trusty_game]
  title: Гра Trusty
