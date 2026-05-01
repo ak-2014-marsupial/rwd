@@ -1,21 +1,19 @@
 # [general]
  title: Про застосунок
-
-## [welcome]
- title: Ласкаво просимо
  path: /general/welcome.md
 
+# [general]
+ title: Про English LEGkO
+ path: /general/The_Chunk_Matrix.md
+
 # [games]
- title: Наші ігри
+ title: гра Trusty
 
-## [trusty_game]
- title: Гра Trusty
-
-### [trusty_rules]
+## [trusty_rules]
  title: Правила та бали
  path: /games/trusty_rules.md
 
-### [trusty_dictionary]
+## [trusty_dictionary]
  title: Словник понять
  path: /games/trusty_dictionary.md
 
