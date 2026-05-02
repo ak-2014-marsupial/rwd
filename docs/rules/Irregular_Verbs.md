@@ -2,7 +2,7 @@
 type: smart-table
 config:
   sortCol: 0
-  filterCol: 3
+  tagsCol: 4
   hideOnStudy: [1, 2]
   modes: ["full", "study"]
   tagGroups: {
