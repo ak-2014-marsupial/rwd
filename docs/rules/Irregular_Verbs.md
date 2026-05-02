@@ -1,11 +1,11 @@
----
+===
 type: smart-table
 config:
   sortCol: 0
   filterCol: 4
   hideOnStudy: [1, 2]
   modes: ["full", "study"]
----
+===
 | V1 | V2 | V3 | Translation | Tags |
 |---|---|---|---|---|
 | abide | abode / abided | abode / abided | дотримуватися | mixed, v2=v3, rare |
