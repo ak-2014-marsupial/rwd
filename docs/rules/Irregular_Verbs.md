@@ -2,9 +2,14 @@
 type: smart-table
 config:
   sortCol: 0
-  filterCol: 4
+  filterCol: 3
   hideOnStudy: [1, 2]
   modes: ["full", "study"]
+  tagGroups: {
+    "grammar": { "label": "Граматика", "tags": {"all-same": "Усі однакові", "v1=v3": "V1=V3", "v2=v3": "V2=V3", "all-diff": "Всі різні", "mixed": "Змішані"} },
+    "priority": { "label": "Пріоритет", "tags": {"top50": "Топ 50", "top100": "Топ 100", "top200": "Топ 200", "oxford3000": "Oxford 3000"} },
+    "functional": { "label": "Специфіка", "tags": {"rare": "Рідкісні", "confusing": "Плутанина", "modal": "Модальні", "phrasal": "Фразові"} }
+  }
 ===
 | V1 | V2 | V3 | Translation | Tags |
 |---|---|---|---|---|
