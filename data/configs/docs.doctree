@@ -1,0 +1,58 @@
+# [general]
+ title: Про застосунок
+
+## [welcome]
+ title: Ласкаво просимо
+ path: /general/welcome.md
+
+# [LEGkO]
+ title: English as LEGO => LEGkO
+
+ ## [LEGkO_format]
+ title: Посібник зі збірки речень
+ path: /general/The_Chunk_Matrix.md
+
+ ## [LEGkO_example_01]
+  title: Приклад, тема Domestic Tasks
+  path: /general/LEGkO_Domestic_Tasks.md
+
+# [trusty_game]
+ title: Гра Trusty
+
+## [trusty_rules]
+ title: Правила та бали
+ path: /games/trusty_rules.md
+
+## [trusty_dictionary]
+ title: Словник понять
+ path: /games/trusty_dictionary.md
+
+# [rules]
+ title: Граматичні алгоритми
+
+## [spelling]
+ title: Правопис (Spelling)
+
+### [Spelling_CVC]
+ title: Подвоєння приголосних (CVC)
+
+### [Spelling_Silent_E]
+ title: Німа -E
+
+### [Spelling_Y_to_I]
+ title: Зміна Y на I
+
+## [grammar_basics]
+ title: Базова граматика
+
+### [Article_A_An]
+ title: Артиклі A / An
+
+### [Plural_F_to_V]
+ title: Множина F -> V
+
+### [Prep_Time]
+ title: Прийменники часу
+
+### [Verb_Irregular_All]
+ title: Неправильні дієслова
