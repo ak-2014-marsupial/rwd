@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-05-04T14:07:44.752Z",
+  "lastGlobalUpdate": "2026-05-01T18:15:54.851Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -38,18 +38,11 @@
       "hash": "b1ff88683da67fdd",
       "path": "/rules_meta.dsl",
       "size": "3.1kb"
-    },
-    "docs_doctree": {
-      "id": "docs_doctree",
-      "format": "doctree",
-      "hash": "7164e42c0e47d99d",
-      "path": "/configs/docs.doctree",
-      "size": "1.2kb"
     }
   },
   "user_configs": {
     "a74d4fe4eeb2080e167916359f7ba135": "/configs/a74d4fe4eeb2080e167916359f7ba135.json",
     "5e76c465818d8c67e939863421c9961d": "/configs/5e76c465818d8c67e939863421c9961d.json"
   },
-  "admin_vault": "U2FsdGVkX18FDBIeFFHGvnuoKmH3SQznuAstncs6WzFJiLdDunE+7PHfsp1WfyuH8wlekhd5QAAEAOGhq1tn+jQ3SmKvud2GgjXKE7AJ0j387x2x4hg//CyILFUqgewdVmje95UOTzIcMZPWcc4qKAIf/N6/z3q71Ho67CsD8i55XJkTsnQLo5LuuVaUFndEXniEJwE1kzO8k8MNJUntCzhvDAmgPreqAWCYGpylCkGuQwOm5qObq5TTHEd9dx7SlTtD+aI9O2FrzKniopxAZrnYP83ssLoxB1qMkOg7qEA="
+  "admin_vault": "U2FsdGVkX19F+6DhgGUBN7tZ95NCOrUNDyakfy/BG0DkncXqxy9qib5F3k/nlD37l8u//NUtxK8/HugaBMb7BBwa7zqYjTKl1OiMVrnfwmXQRtHeTy4gGfGf5vr8iqt7swWFZ3QxWNy7EG70qZEtUI0UUIq+xTvTjo0IB93p2+ip66spGcx/FSX5s1F3SL+lWPH/eSxlTFUTDvE+KFFQmSKW/InNSxHVGkGMrVt88OqawAqM7ZfwUF229NQeYEtq3HFAAVW2UvLZ3LPke05Ozq5DcPBpw8BIZx9oUO8XJ9M="
 }
