@@ -90,115 +90,26 @@
   [rule: Plural_Irregular]
 
 ## Section: Irregular Verbs (3 forms)
-- be (3 forms) | be-was/were-been, be-been-was/were, be-bed-bed
+- drink (3 forms) | drink-drank-drunk, drink-drunk-drank
   [rule: Verb_Irregular_All]
-- become (3 forms) | become-became-become, become-become-became, become-becomed-becomed
+- go (3 forms) | go-went-gone, go-gone-went
   [rule: Verb_Irregular_All]
-- begin (3 forms) | begin-began-begun, begin-begun-began, begin-begined-begined
+- see (3 forms) | see-saw-seen, see-saw-saw
   [rule: Verb_Irregular_All]
-- bring (3 forms) | bring-brought-brought, bring-bringed-bringed
+- take (3 forms) | take-took-taken, take-taken-took
   [rule: Verb_Irregular_All]
-- build (3 forms) | build-built-built, build-builded-builded
+- write (3 forms) | write-wrote-written, write-written-wrote
   [rule: Verb_Irregular_All]
-- buy (3 forms) | buy-bought-bought, buy-buyed-buyed
+- sing (3 forms) | sing-sang-sung, sing-sung-sang
   [rule: Verb_Irregular_All]
-- can (3 forms) | can-could-—, can-—-could, can-caned-caned
+- eat (3 forms) | eat-ate-eaten, eat-eaten-ate
   [rule: Verb_Irregular_All]
-- come (3 forms) | come-came-come, come-come-came, come-comed-comed
+- speak (3 forms) | speak-spoke-spoken, speak-spoken-spoke
   [rule: Verb_Irregular_All]
-- cut (3 forms) | cut-cut-cut, cut-cuted-cuted
+- do (3 forms) | do-did-done, do-done-did
   [rule: Verb_Irregular_All]
-- do (3 forms) | do-did-done, do-done-did, do-doed-doed
+- begin (3 forms) | begin-began-begun, begin-begun-began
   [rule: Verb_Irregular_All]
-- fall (3 forms) | fall-fell-fallen, fall-fallen-fell, fall-falled-falled
-  [rule: Verb_Irregular_All]
-- feel (3 forms) | feel-felt-felt, feel-feeled-feeled
-  [rule: Verb_Irregular_All]
-- find (3 forms) | find-found-found, find-finded-finded
-  [rule: Verb_Irregular_All]
-- get (3 forms) | get-got-got/gotten, get-got/gotten-got, get-geted-geted
-  [rule: Verb_Irregular_All]
-- give (3 forms) | give-gave-given, give-given-gave, give-gived-gived
-  [rule: Verb_Irregular_All]
-- go (3 forms) | go-went-gone, go-gone-went, go-goed-goed
-  [rule: Verb_Irregular_All]
-- grow (3 forms) | grow-grew-grown, grow-grown-grew, grow-growed-growed
-  [rule: Verb_Irregular_All]
-- have (3 forms) | have-had-had, have-haved-haved
-  [rule: Verb_Irregular_All]
-- hear (3 forms) | hear-heard-heard, hear-heared-heared
-  [rule: Verb_Irregular_All]
-- hold (3 forms) | hold-held-held, hold-holded-holded
-  [rule: Verb_Irregular_All]
-- keep (3 forms) | keep-kept-kept, keep-keeped-keeped
-  [rule: Verb_Irregular_All]
-- know (3 forms) | know-knew-known, know-known-knew, know-knowed-knowed
-  [rule: Verb_Irregular_All]
-- lead (3 forms) | lead-led-led, lead-leaded-leaded
-  [rule: Verb_Irregular_All]
-- learn (3 forms) | learn-learnt/learned-learnt/learned, learn-learned-learned
-  [rule: Verb_Irregular_All]
-- leave (3 forms) | leave-left-left, leave-leaved-leaved
-  [rule: Verb_Irregular_All]
-- let (3 forms) | let-let-let, let-leted-leted
-  [rule: Verb_Irregular_All]
-- lose (3 forms) | lose-lost-lost, lose-losed-losed
-  [rule: Verb_Irregular_All]
-- make (3 forms) | make-made-made, make-maked-maked
-  [rule: Verb_Irregular_All]
-- may (3 forms) | may-might-—, may-—-might, may-mayed-mayed
-  [rule: Verb_Irregular_All]
-- mean (3 forms) | mean-meant-meant, mean-meaned-meaned
-  [rule: Verb_Irregular_All]
-- meet (3 forms) | meet-met-met, meet-meeted-meeted
-  [rule: Verb_Irregular_All]
-- must (3 forms) | must-(had to)-—, must-—-(had to), must-musted-musted
-  [rule: Verb_Irregular_All]
-- pay (3 forms) | pay-paid-paid, pay-payed-payed
-  [rule: Verb_Irregular_All]
-- put (3 forms) | put-put-put, put-puted-puted
-  [rule: Verb_Irregular_All]
-- read (3 forms) | read-read-read, read-readed-readed
-  [rule: Verb_Irregular_All]
-- run (3 forms) | run-ran-run, run-run-ran, run-runed-runed
-  [rule: Verb_Irregular_All]
-- say (3 forms) | say-said-said, say-sayed-sayed
-  [rule: Verb_Irregular_All]
-- see (3 forms) | see-saw-seen, see-seen-saw, see-seed-seed
-  [rule: Verb_Irregular_All]
-- sell (3 forms) | sell-sold-sold, sell-selled-selled
-  [rule: Verb_Irregular_All]
-- send (3 forms) | send-sent-sent, send-sended-sended
-  [rule: Verb_Irregular_All]
-- set (3 forms) | set-set-set, set-seted-seted
-  [rule: Verb_Irregular_All]
-- shall (3 forms) | shall-should-—, shall-—-should, shall-shalled-shalled
-  [rule: Verb_Irregular_All]
-- show (3 forms) | show-showed-shown/showed, show-shown/showed-showed
-  [rule: Verb_Irregular_All]
-- sit (3 forms) | sit-sat-sat, sit-sited-sited
-  [rule: Verb_Irregular_All]
-- speak (3 forms) | speak-spoke-spoken, speak-spoken-spoke, speak-speaked-speaked
-  [rule: Verb_Irregular_All]
-- spend (3 forms) | spend-spent-spent, spend-spended-spended
-  [rule: Verb_Irregular_All]
-- stand (3 forms) | stand-stood-stood, stand-standed-standed
-  [rule: Verb_Irregular_All]
-- take (3 forms) | take-took-taken, take-taken-took, take-taked-taked
-  [rule: Verb_Irregular_All]
-- tell (3 forms) | tell-told-told, tell-telled-telled
-  [rule: Verb_Irregular_All]
-- think (3 forms) | think-thought-thought, think-thinked-thinked
-  [rule: Verb_Irregular_All]
-- understand (3 forms) | understand-understood-understood, understand-understanded-understanded
-  [rule: Verb_Irregular_All]
-- will (3 forms) | will-would-—, will-—-would, will-willed-willed
-  [rule: Verb_Irregular_All]
-- win (3 forms) | win-won-won, win-wined-wined
-  [rule: Verb_Irregular_All]
-- write (3 forms) | write-wrote-written, write-written-wrote, write-writed-writed
-  [rule: Verb_Irregular_All]
-
 
 ## Section: Verb - 3rd Person Singular
 - he + catch | catches, catchs
