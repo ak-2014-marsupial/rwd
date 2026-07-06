@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-05-28T06:31:23.602Z",
+  "lastGlobalUpdate": "2026-07-06T09:35:02.941Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -11,11 +11,21 @@
       "path": "/StudyLess_Pre.dsl",
       "size": "88.4kb"
     },
+    "studyless_inter": {
+      "id": "studyless_inter",
+      "name": "Intermediate",
+      "format": "vocabulary",
+      "order": 2,
+      "version": "1.1.0",
+      "hash": "a263d11b1e4587c9",
+      "path": "/StudyLess_Inter.dsl",
+      "size": "38.6kb"
+    },
     "trusty_rules": {
       "id": "trusty_rules",
       "name": "Trusty Rules",
       "format": "rules",
-      "order": 2,
+      "order": 3,
       "version": "1.0.0",
       "hash": "fcfa805a6c89758a",
       "path": "/trusty_rules.dsl",
@@ -25,7 +35,7 @@
       "id": "trump_style_english",
       "name": "Trump Style English",
       "format": "vocabulary",
-      "order": 3,
+      "order": 4,
       "version": "1.0.0",
       "hash": "934eb301152e4e86",
       "path": "/Trump_Style_English.dsl",
@@ -38,11 +48,18 @@
       "hash": "b1ff88683da67fdd",
       "path": "/rules_meta.dsl",
       "size": "3.1kb"
+    },
+    "docs_doctree": {
+      "id": "docs_doctree",
+      "format": "doctree",
+      "hash": "7164e42c0e47d99d",
+      "path": "/configs/docs.doctree",
+      "size": "1.2kb"
     }
   },
   "user_configs": {
     "a74d4fe4eeb2080e167916359f7ba135": "/configs/a74d4fe4eeb2080e167916359f7ba135.json",
     "5e76c465818d8c67e939863421c9961d": "/configs/5e76c465818d8c67e939863421c9961d.json"
   },
-  "admin_vault": "U2FsdGVkX18SYJ7jxnW7q4QnOy6cYQunpoxTsps7teV42kc0NzBi01jYO8WqVa4cOeeZ3ajLFUMBdxaWy9dZM/6+wSVETqDhwYkL50Yfmz47/9nlTTCkJ84GgOsBFNlX0zbm6wN7q2JtG/4/HQfNHEwm8kIvu+4bXUutkyJW8QyhKYjp+fMqp5NGc9EFvm5BYbJFboxFeRfnX93crrqqnB37x5RjqTI0xA68W6QSE9eY6X3BJRENCf+zh85mLltGAG/qyijjyQ/e8BMklIizDF6+m91zTH1SMJu+cVfVeWk="
+  "admin_vault": "U2FsdGVkX18hxIq+cz+ZrD53seGDUDLDMpdXDeuLMxb0ciWPUer/oLZcJA+qdj2aselfZU4oq+mG9hAm5o/ZzV3cM9mJzQIf0vq1djxysKJNjxP57VRIQ78XK80c2pS23LCc+38XGDWK+dsqQBoN3aRm3XFp0NGBbehP17K2jHYYPUQ63JtfPO/dRJCUnr0CF6zGbBVRl61gjbHyyhMuS7XdIz4udUlCVX9yLlaptS2CG0psN5skekY0umYoi9k2NDS5FXNefPWRNyQcU1UBmChpuUmIjHEwhgbp52Ytezk="
 }
