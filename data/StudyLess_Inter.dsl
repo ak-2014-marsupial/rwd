@@ -203,7 +203,7 @@
 - No, I spend time only for myself when I have me-time. | Ні, я проводжу час лише наодинці з собою, коли маю час для себе. | Нет, я провожу время только наедине с собой, когда у меня есть время для себя.
   [tags: #dialogue]
 
-# Title: 02 Present Perfect Continuous in Use
+# Title: 02 Present Perfect Continuous
 # Lang: en-US / uk-UA / ru-RU
 
 ## vocabulary
@@ -527,6 +527,496 @@
 
 - I will see you later at the rehearsal. | Побачимося пізніше на репетиції. | Увидимся позже на репетиции.
   [tags: #dialogue]
+
+# Title: 03 Your life checklist
+# Lang: en-US / uk-UA / ru-RU
+
+## vocabulary
+- bucket list | список бажань (список того, що треба встигнути зробити в житті) | список желаний (список того, что нужно успеть сделать в жизни)
+  [tags: #vocabulary]
+
+- must-have | обов'язкова річ (маст-хев) | обязательная вещь (маст-хэв)
+  [tags: #vocabulary]
+
+- must-read | обов'язкове для читання | обязательное для чтения
+  [tags: #vocabulary]
+
+- must-see | обов'язкове до перегляду (відвідування) | обязательное к просмотру (посещению)
+  [tags: #vocabulary]
+
+- must-try | обов'язково треба спробувати | обязательно нужно попробовать
+  [tags: #vocabulary]
+
+- experience a hot air balloon ride | політати на повітряній кулі | полетать на воздушном шаре
+  [tags: #vocabulary]
+
+- hike a famous trail | пройти відомим туристичним маршрутом (стежкою) | пройти по известному туристическому маршруту (тропе)
+  [tags: #vocabulary]
+
+- see the Northern Lights | побачити північне сяйво | увидеть северное сияние
+  [tags: #vocabulary]
+
+- go bungee jumping | стрибнути з банджі (тарзанки) | прыгнуть с банджи (тарзанки)
+  [tags: #vocabulary]
+
+- attend a major sports event | відвідати велику спортивну подію | посетить крупное спортивное событие
+  [tags: #vocabulary]
+
+- stay in an overwater bungalow | зупинитися у бунгало над водою | остановиться в бунгало над водой
+  [tags: #vocabulary]
+
+- go on a wildlife safari | вирушити на сафарі до дикої природи | отправиться на сафари в дикую природу
+  [tags: #vocabulary]
+
+- visit all the wonders of the world | відвідати всі чуда світу | посетить все чудеса света
+  [tags: #vocabulary]
+
+- take a solo travel trip | вирушити в самостійну подорож (одинцем) | отправиться в самостоятельное путешествие (одному)
+  [tags: #vocabulary]
+
+## exercises
+- I want to write a bucket list for this year. | Я хочу написати список бажань на цей рік. | Я хочу написать список желаний на этот год.
+  [tags: #exercises]
+
+- A good map is a must-have for a road trip. | Гарна мапа — це обов'язкова річ для автомобільної подорожі. | Хорошая карта — это обязательная вещь для автомобильного путешествия.
+  [tags: #exercises]
+
+- This new book is a must-read for everyone. | Цю нову книгу обов'язково має прочитати кожен. | Эту новую книгу обязательно должен прочитать каждый.
+  [tags: #exercises]
+
+- The Eiffel Tower is a must-see in Paris. | Ейфелева вежа — це те, що обов'язково треба побачити в Парижі. | Эйфелева башня — это то, что обязательно нужно увидеть в Париже.
+  [tags: #exercises]
+
+- This pizza is a must-try in Italy. | Цю піцу обов'язково треба спробувати в Італії. | Эту пиццу обязательно нужно попробовать в Италии.
+  [tags: #exercises]
+
+- I want to experience a hot air balloon ride at sunrise. | Я хочу політати на повітряній кулі на сході сонця. | Я хочу полетать на воздушном шаре на рассвете.
+  [tags: #exercises]
+
+- We plan to hike a famous trail in the mountains. | Ми плануємо пройти відомим маршрутом у горах. | Мы планируем пройти по известному маршруту в горах.
+  [tags: #exercises]
+
+- I hope to see the Northern Lights in Norway someday. | Сподіваюся колись побачити північне сяйво в Норвегії. | Надеюсь когда-нибудь увидеть северное сияние в Норвегии.
+  [tags: #exercises]
+
+- He wants to go bungee jumping in New Zealand. | Він хоче стрибнути з банджі в Новій Зеландії. | Он хочет прыгнуть с банджи в Новой Зеландии.
+  [tags: #exercises]
+
+- I would love to attend a major sports event like the Olympics. | Я б із задоволенням відвідав велику спортивну подію, таку як Олімпійські ігри. | Я бы с удовольствием посетил крупное спортивное событие, такое как Олимпийские игры.
+  [tags: #exercises]
+
+- It is my dream to stay in an overwater bungalow in the Maldives. | Моя мрія — зупинитися в бунгало над водою на Мальдівах. | Моя мечта — остановиться в бунгало над водой на Мальдивах.
+  [tags: #exercises]
+
+- They want to go on a wildlife safari in Africa. | Вони хочуть вирушити на сафарі до дикої природи в Африці. | Они хотят отправиться на сафари в дикую природу в Африке.
+  [tags: #exercises]
+
+- He wants to visit all the wonders of the world. | Він хоче відвідати всі чуда світу. | Он хочет посетить все чудеса света.
+  [tags: #exercises]
+
+- She decided to take a solo travel trip to Asia. | Вона вирішила вирушити в самостійну подорож до Азії. | Она решила отправиться в самостоятельное путешествие в Азию.
+  [tags: #exercises]
+
+- Visiting the Eiffel Tower is on my bucket list when I travel to Paris. | Відвідування Ейфелевої вежі є у моєму списку бажань, коли я поїду до Парижа. | Посещение Эйфелевой башни есть в моем списке желаний, когда я поеду в Париж.
+  [tags: #exercises]
+
+- This new novel by J. K. Rowling is a must-read for all Harry Potter fans. | Цей новий роман Дж. К. Роулінг обов'язковий до читання для всіх шанувальників Гаррі Поттера. | Этот новый роман Дж. К. Роулинг обязателен к прочтению для всех поклонников Гарри Поттера.
+  [tags: #exercises]
+
+- If you go to Italy, pizza and pasta are a must-try! | Якщо ви поїдете до Італії, піца та паста — це те, що обов'язково треба спробувати! | Если вы поедете в Италию, пицца и паста — это то, что обязательно нужно попробовать!
+  [tags: #exercises]
+
+- A good dictionary is a must-have for every English student. | Гарний словник — це обов'язкова річ для кожного, хто вивчає англійську. | Хороший словарь — это обязательная вещь для каждого, кто изучает английский.
+  [tags: #exercises]
+
+- The Grand Canyon is a must-see destination in the USA. | Гранд-Каньон — це місце в США, яке обов'язково треба побачити. | Гранд-Каньон — это место в США, которое обязательно нужно увидеть.
+  [tags: #exercises]
+
+- On my trip to Peru, I want to hike a famous trail and take amazing photos of Machu Picchu. | Під час подорожі до Перу я хочу пройти відомою стежкою і зробити неймовірні фото Мачу-Пікчу. | Во время поездки в Перу я хочу пройти по известной тропе и сделать потрясающие фото Мачу-Пикчу.
+  [tags: #exercises]
+
+- Anna’s biggest dream is to see the Northern Lights in Norway — she says it looks magical. | Найбільша мрія Анни — побачити північне сяйво в Норвегії, вона каже, що це виглядає магічно. | Самая большая мечта Анны — увидеть северное сияние в Норвегии, она говорит, что это выглядит волшебно.
+  [tags: #exercises]
+
+- If you go to Cappadocia, you must experience a hot air balloon ride at sunrise — it’s unforgettable. | Якщо ви поїдете до Каппадокії, ви обов'язково повинні політати на повітряній кулі на сході сонця — це незабутньо. | Если вы поедете в Каппадокию, вы обязательно должны полетать на воздушном шаре на рассвете — это незабываемо.
+  [tags: #exercises]
+
+- Mark saved money for two years to attend a major sports event — he bought tickets to the Champions League final. | Марк збирав гроші два роки, щоб відвідати велику спортивну подію — він купив квитки на фінал Ліги чемпіонів. | Марк копил деньги два года, чтобы посетить крупное спортивное событие — он купил битки на финал Лиги чемпионов.
+  [tags: #exercises]
+
+- Some people are too scared to go bungee jumping, but my best friend did it in New Zealand. | Деякі люди занадто бояться стрибати з банджі, але мій найкращий друг зробив це в Новій Зеландії. | Некоторые люди слишком боятся прыгать с банджи, но мой лучший друг сделал это в Новой Зеландии.
+  [tags: #exercises]
+
+- Imagine waking up and seeing fish swimming under your floor — that’s why I want to stay in an overwater bungalow in Bora Bora. | Уявіть, що ви прокидаєтеся і бачите риб, які плавають під вашою підлогою — ось чому я хочу зупинитися в бунгало над водою на Бора-Бора. | Представьте, что вы просыпаетесь и видите рыб, плавающих под вашим полом — вот почему я хочу остановиться в бунгало над водой на Бора-Бора.
+  [tags: #exercises]
+
+- My brother is crazy about animals, so his dream is to go on a wildlife safari in Kenya and take hundreds of photos. | Мій брат без тями від тварин, тому його мрія — вирушити на сафарі до дикої природи в Кенії та зробити сотні фотографій. | Мой брат без ума от животных, поэтому его мечта — отправиться на сафари в дикую природу в Кении и сделать сотни фотографий.
+  [tags: #exercises]
+
+- Some travelers make it their life goal to visit all the wonders of the world — from Machu Picchu to the Taj Mahal. | Деякі мандрівники ставлять собі за мету життя відвідати всі чуда світу — від Мачу-Пікчу до Тадж-Махала. | Некоторые путешественники ставят себе целью жизни посетить все чудеса света — от Мачу-Пикчу до Тадж-Махала.
+  [tags: #exercises]
+
+- Lisa was nervous at first, but when she decided to take a solo travel trip around Asia, she discovered how independent she was. | Ліза спочатку нервувала, але коли вирішила вирушити в самостійну подорож Азією, вона дізналася, наскільки вона незалежна. | Лиза сначала нервничала, но когда решила отправиться в самостоятельное путешествие по Азии, она узнала, насколько она независима.
+  [tags: #exercises]
+
+- If you want to make a list of all the things you want to do in your life, you should create a bucket list. | Якщо ви хочете скласти список усіх речей, які хочете зробити в житті, вам слід створити список бажань. | Если вы хотите составить список всех вещей, которые хотите сделать в жизни, вам следует создать список желаний.
+  [tags: #exercises]
+
+- If a book is so good that everyone recommends reading it, it is a must-read. | Якщо книга настільки хороша, що всі рекомендують її прочитати, вона обов'язкова до читання. | Если книга настолько хороша, что все рекомендуют её прочесть, она обязательна к прочтению.
+  [tags: #exercises]
+
+- If you want to try a special food or activity that everyone says is amazing, it is a must-try. | Якщо ви хочете спробувать якусь особливу страву чи заняття, про яке всі кажуть, що воно неймовірне, це обов'язково треба спробувати. | Если вы хотите попробовать какое-то особенное блюдо или занятие, о котором все говорят, что оно потрясающее, это обязательно нужно попробовать.
+  [tags: #exercises]
+
+- If you travel somewhere and there is a natural phenomenon you cannot miss, like the Northern lights, it is a must-see. | Якщо ви подорожуєте кудись і там є природне явище, яке не можна пропустити, як-от північне сяйво, це обов'язково треба побачити. | Если вы путешествуете куда-то и там есть природное явление, которое нельзя пропустить, например северное сияние, это обязательно нужно увидеть.
+  [tags: #exercises]
+
+- If you want to own something that is essential or very popular, it is a must-have. | Якщо ви хочете володіти чимось, що є життєво необхідним або дуже популярним, це обов'язкова річ. | Если вы хотите владеть чем-то, что жизненно необходимо или очень популярно, это обязательная вещь.
+  [tags: #exercises]
+
+- If you want to see colourful lights in the sky in Iceland or Norway, you should try to see the Northern Lights. | Якщо ви хочете побачити різнокольорові вогні в небі в Ісландії чи Норвегії, вам слід спробувати побачити північне сяйво. | Если вы хотите увидеть разноцветные огни в небе в Исландии или Норвегии, вам следует попробовать увидеть северное сияние.
+  [tags: #exercises]
+
+- If you want to walk along a well-known hiking path, you should hike a famous trail. | Якщо ви хочете пройтися відомою пішохідною стежкою, вам слід пройти відомим маршрутом. | Если вы хотите пройтись по известной пешеходной тропе, вам следует пройти по известному маршруту.
+  [tags: #exercises]
+
+- If you want to fly above the ground in a basket with hot air, you should experience a hot air balloon ride. | Якщо ви хочете літати над землею в кошику з гарячим повітрям, вам слід політати на повітряній кулі. | Если вы хотите летать над землей в корзине с горячим воздухом, вам следует полетать на воздушном шаре.
+  [tags: #exercises]
+
+- If you like extreme sports and want to jump from a high place with a rope, you should go bungee jumping. | Якщо ви любите екстремальні види спорту і хочете стрибнути з висоти на мотузці, вам слід зайнятися банджі-джампінгом. | Если вы любите экстремальные виды спорта и хотите прыгнуть с высоты на веревке, вам следует заняться банджи-джампингом.
+  [tags: #exercises]
+
+- If you want to see wild animals in their natural habitat, you should go on a wildlife safari. | Якщо ви хочете побачити диких тварин у їхньому природному середовищі існування, вам слід вирушити на сафарі. | Если вы хотите увидеть диких животных в их естественной среде обитания, вам следует отправиться на сафари.
+  [tags: #exercises]
+
+- If you want to watch an important football or Olympic match in person, you should attend a major sports event. | Якщо ви хочете наживо подивитися важливий футбольний чи олімпійський матч, вам слід відвідати велику спортивну подію. | Если вы хотите вживую посмотреть важный футбольный или олимпийский матч, вам следует посетить крупное спортивное событие.
+  [tags: #exercises]
+
+- If you want to sleep in a special house above water, you should stay in an overwater bungalow. | Якщо ви хочете спати в особливому будиночку над водою, вам слід зупинитися в бунгало над водою. | Если вы хотите спать в особом домике над водой, вам следует остановиться в бунгало над водой.
+  [tags: #exercises]
+
+- If you want to travel alone to explore the world by yourself, you should take a solo travel trip. | Якщо ви хочете подорожувати наодинці, щоб досліджувати світ самостійно, вам слід вирушити в самостійну подорож. | Если вы хотите путешествовать в одиночку, чтобы исследовать мир самостоятельно, вам следует отправиться в самостоятельное путешествие.
+  [tags: #exercises]
+
+- If you want to visit the Colosseum, the Great Wall, and the Pyramids, you want to visit all the wonders of the world. | Якщо ви хочете відвідати Колізей, Велику китайську стіну та піраміди, ви хочете відвідати всі чуда світу. | Если вы хотите посетить Колизей, Великую китайскую стену и пирамиды, вы хотите посетить все чудеса света.
+  [tags: #exercises]
+
+## pronunciation
+- A good backpack is a must-have for any traveler. | Гарний рюкзак — обов'язкова річ для будь-якого мандрівника. | Хороший рюкзак — обязательная вещь для любого путешественника.
+  [tags: #pronunciation]
+
+- I dream of seeing the Northern Lights in Iceland. | Я мрію побачити північне сяйво в Ісландії. | Я мечтаю увидеть северное сияние в Исландии.
+  [tags: #pronunciation]
+
+- We experienced a hot air balloon ride at sunrise. | Ми політали на повітряній кулі на сході сонця. | Мы полетали на воздушном шаре на рассвете.
+  [tags: #pronunciation]
+
+- We stayed in an overwater bungalow in the Maldives. | Ми зупинилися в бунгало над водою на Мальдівах. | Мы остановились в бунгало над водой на Мальдивах.
+  [tags: #pronunciation]
+
+## dialogue
+- What’s something you’ve always wanted to do? | Що б ти завжди хотів зробити? | Что бы ты всегда хотел сделать?
+  [tags: #dialogue]
+
+- I’ve always wanted to see the Northern Lights because it looks magical. | Я завжди хотів побачити північне сяйво, тому що це виглядає магічно. | Я всегда хотел увидеть северное сияние, потому что это выглядит волшебно.
+  [tags: #dialogue]
+
+- What is at the top of your bucket list? | Що стоїть на першому місці у твоєму списку бажань? | Что стоит на первом месте в твоем списке желаний?
+  [tags: #dialogue]
+
+- At the top of my bucket list is taking a solo travel trip to discover my independence. | На першому місці в моєму списку бажань — самостійна подорож, щоб відкрити свою незалежність. | На первом месте в моем списке желаний — самостоятельное путешествие, чтобы открыть свою независимость.
+  [tags: #dialogue]
+
+- Would it be amazing to experience a hot air balloon ride? | Чи було б це неймовірно — політати на повітряній кулі? | Было бы это потрясающе — полетать на воздушном шаре?
+  [tags: #dialogue]
+
+- Yes, it would be amazing to experience a hot air balloon ride at sunrise. | Так, було б неймовірно політати на повітряній кулі на сході сонця. | Да, было бы потрясающе полетать на воздушном шаре на рассвете.
+  [tags: #dialogue]
+
+- What is your must-have when you travel? | Яка річ є для тебе обов'язковою, коли ти подорожуєш? | Какая вещь является для тебя обязательной, когда ты путешествуешь?
+  [tags: #dialogue]
+
+- My must-have when I travel is a good camera. | Моя обов'язкова річ у подорожі — це гарна камера. | Моя обязательная вещь в путешествии — это хорошая камера.
+  [tags: #dialogue]
+
+- What is your must-try activity? | Яке заняття ти обов'язково маєш спробувати? | Какое занятие ты обязательно должен попробовать?
+  [tags: #dialogue]
+
+- My must-try activity is going bungee jumping in New Zealand. | Заняття, яке я обов'язково хочу спробувати, — це стрибок з банджі в Новій Зеландії. | Занятие, которое я обязательно хочу попробовать, — это прыжок с банджи в Новой Зеландии.
+  [tags: #dialogue]
+
+- What is your must-read book? | Яку книгу ти вважаєш обов'язковою для читання? | Какую книгу ты считаешь обязательной для чтения?
+  [tags: #dialogue]
+
+- My must-read book is a good travel guide. | Моя обов'язкова книга для читання — це хороший путівник. | Моя обязательная книга для чтения — это хороший путеводитель.
+  [tags: #dialogue]
+
+- What is your must-see destination? | Яке місце ти обов'язково маєш побачити? | Какое место ты обязательно должен увидеть?
+  [tags: #dialogue]
+
+- My must-see destination is the Grand Canyon in the USA. | Місце, яке я обов'язково маю побачити, — це Гранд-Каньон у США. | Место, которое я обязательно должен увидеть, — это Гранд-Каньон в США.
+  [tags: #dialogue]
+
+
+# Title: 04 Work reality check
+# Lang: en-US / uk-UA / ru-RU
+
+## vocabulary
+- hit snooze | відкладати будильник (натискати кнопку повтору) | откладывать будильник (нажимать кнопку повтора)
+  [tags: #vocabulary]
+
+- rush to | поспішати до, мчати в | спешить в, мчаться в
+  [tags: #vocabulary]
+
+- urgent emails | термінові листи | срочные письма
+  [tags: #vocabulary]
+
+- respond to messages | відповідати на повідомлення | отвечать на сообщения
+  [tags: #vocabulary]
+
+- to the point | по суті, коротко і ясно | по существу, коротко и ясно
+  [tags: #vocabulary]
+
+- schedule | планувати, призначати (час) | планировать, назначать (время)
+  [tags: #vocabulary]
+
+- follow-up meeting | наступна зустріч (для подальшого обговорення) | последующая встреча (для дальнейшего обсуждения)
+  [tags: #vocabulary]
+
+- juggle multiple tasks | поєднувати кілька завдань одночасно (багатозадачність) | совмещать несколько задач одновременно (многозадачность)
+  [tags: #vocabulary]
+
+- meet the deadline | вкластися в дедлайн (термін) | уложиться в дедлайн (срок)
+  [tags: #vocabulary]
+
+- log off | вийти з системи, закінчити роботу за комп'ютером | выйти из системы, закончить работу за компьютером
+  [tags: #vocabulary]
+
+- ended up working late | зрештою засидівся допізна за роботою | в итоге засиделся допоздна за работой
+  [tags: #vocabulary]
+
+- push it to another day | перенести це на інший день | перенести это на другой день
+  [tags: #vocabulary]
+
+- put a call on the calendar | внести дзвінок у календар | внести звонок в календарь
+  [tags: #vocabulary]
+
+## exercises
+- I hit snooze every morning because I love sleep. | Я відкладаю будильник щоранку, тому що люблю спати. | Я откладываю будильник каждое утро, потому что люблю спать.
+  [tags: #exercises]
+
+- I always rush to the office when I am late. | Я завжди біжу в офіс, коли запізнююся. | Я всегда бегу в офис, когда опаздываю.
+  [tags: #exercises]
+
+- My manager sends me urgent emails on Mondays. | Мій менеджер надсилає мені термінові листи щопонеділка. | Мой менеджер присылает мне срочные письма по понедельникам.
+  [tags: #exercises]
+
+- It is important to respond to messages quickly. | Важливо швидко відповідати на повідомлення. | Важно быстро отвечать на сообщения.
+  [tags: #exercises]
+
+- Keep your presentation short and to the point. | Зробіть свою презентацію короткою і по суті. | Сделайте свою презентацию короткой и по существу.
+  [tags: #exercises]
+
+- We need to schedule a meeting for next week. | Нам потрібно запланувати зустріч на наступний тиждень. | Нам нужно запланировать встречу на следующую неделю.
+  [tags: #exercises]
+
+- Let's have a follow-up meeting to discuss the project. | Давайте проведемо наступну зустріч, щоб обговорити проєкт. | Давайте проведем последующую встречу, чтобы обсудить проект.
+  [tags: #exercises]
+
+- I often juggle multiple tasks at the office. | Я часто поєдную кілька завдань в офісі. | Я часто совмещаю несколько задач в офисе.
+  [tags: #exercises]
+
+- We must work hard to meet the deadline. | Ми повинні важко працювати, щоб вкластися в термін. | Мы должны усердно работать, чтобы уложиться в срок.
+  [tags: #exercises]
+
+- I usually log off at 6 p.m. | Зазвичай я закінчую роботу і виходжу з системи о 16:00. | Обычно я заканчиваю работу и выхожу из системы в 18:00.
+  [tags: #exercises]
+
+- I ended up working late to finish the report. | Зрештою я засидівся допізна, щоб закінчити звіт. | В итоге я засиделся допоздна, чтобы закончить отчет.
+  [tags: #exercises]
+
+- We have no time, so let's push it to another day. | У нас немає часу, тому перенесімо це на інший день. | У нас нет времени, так что давайте перенесем это на другой день.
+  [tags: #exercises]
+
+- I will put a call on the calendar for us. | Я внесу наш дзвінок у календар. | Я внесу наш звонок в календарь.
+  [tags: #exercises]
+
+- I hit snooze three times this morning, so I arrived late for work. | Сьогодні вранці я тричі відкладав будильник, тому запізнився на роботу. | Сегодня утром я трижды откладывал будильник, поэтому опоздал на работу.
+  [tags: #exercises]
+
+- Anna rushed to the office because her meeting started in five minutes. | Анна помчала в офіс, бо її зустріч починалася за п'ять хвилин. | Анна помчалась в офис, потому что её встреча начиналась через пять минут.
+  [tags: #exercises]
+
+- I couldn’t relax during lunch because I kept getting urgent emails from my manager. | Я не міг розслабитися під час обіду, бо мені постійно надходили термінові листи від менеджера. | Я не мог расслабиться во время обеда, потому что мне постоянно приходили срочные письма от менеджера.
+  [tags: #exercises]
+
+- Please respond to messages before the end of the day. | Будь ласка, дайте відповідь на повідомлення до кінця дня. | Пожалуйста, ответьте на сообщения до конца дня.
+  [tags: #exercises]
+
+- His presentation was short, clear, and to the point. | Його презентація була короткою, чіткою і по суті. | Его презентация была короткой, четкой и по существу.
+  [tags: #exercises]
+
+- We need to schedule another meeting for next Tuesday. | Нам потрібно запланувати ще одну зустріч на наступний вівторок. | Нам нужно запланировать еще одну встречу на следующий вторник.
+  [tags: #exercises]
+
+- After the interview, we had a follow-up meeting to discuss the next steps. | Після співбесіди ми провели зустріч, щоб обговорити наступні кроки. | После собеседования мы провели встречу, чтобы обсудить следующие шаги.
+  [tags: #exercises]
+
+- My colleague can juggle multiple tasks without getting stressed. | Мій колега може поєднувати кілька завдань одночасно, не відчуваючи стресу. | Мой коллега может совмещать несколько задач одновременно, не испытывая стресса.
+  [tags: #exercises]
+
+- We worked all weekend to meet the deadline. | Ми працювали всі вихідні, щоб вкластися в термін. | Мы работали все выходные, чтобы уложиться в срок.
+  [tags: #exercises]
+
+- At 6 p.m., I logged off and went for a walk. | О 18:00 я вийшов із системи і пішов на прогулянку. | В 18:00 я вышел из системы и пошел на прогулку.
+  [tags: #exercises]
+
+- I only wanted to check one email, but I ended up working late. | Я хотів лише перевірити один лист, але зрештою засидівся допізна. | Я хотел только проверить одно письмо, но в итоге засиделся допоздна.
+  [tags: #exercises]
+
+- We didn’t have enough time, so we pushed the discussion to another day. | У нас не було достатньо часу, тому ми перенесли обговорення на інший день. | У нас не было достаточно времени, поэтому мы перенесли обсуждение на другой день.
+  [tags: #exercises]
+
+- I’ll put a call on the calendar so nobody forgets about it. | Я внесу дзвінок у календар, щоб ніхто про нього не забув. | Я внесу звонок в календарь, чтобы никто о нем не забыл.
+  [tags: #exercises]
+
+- I checked my phone and saw three urgent emails. | Я перевірив телефон і побачив три термінові листи. | Я проверил телефон и увидел три срочных письма.
+  [tags: #exercises]
+
+- Please schedule the meeting for tomorrow morning. | Будь ласка, заплануйте зустріч на завтрашній ранок. | Пожалуйста, запланируйте встречу на завтрашнее утро.
+  [tags: #exercises]
+
+- He usually logs off at 7 p.m. and relaxes. | Зазвичай він виходить із системи о 19:00 і відпочиває. | Обычно он выходит из системы в 19:00 и отдыхает.
+  [tags: #exercises]
+
+- We need a follow-up meeting to discuss the results. | Нам потрібна наступна зустріч для обговорення результатів. | Нам нужна последующая встреча для обсуждения результатов.
+  [tags: #exercises]
+
+- She had to juggle multiple tasks at once. | Їй довелося поєднувати кілька завдань одночасно. | Ей пришлось совмещать несколько задач одновременно.
+  [tags: #exercises]
+
+- Sorry, I can't talk now. I'm rushing to work. | Вибач, не можу зараз говорити. Я поспішаю на роботу. | Извини, не могу сейчас говорить. Я спешу на работу.
+  [tags: #exercises]
+
+- Let's push it to another day because we are out of time. | Перенесімо це на інший день, тому що у нас закінчився час. | Давайте перенесем это на другой день, потому что у нас закончилось время.
+  [tags: #exercises]
+
+- I always try to keep my emails short and to the point. | Я завжди намагаюся писати свої листи короткими і по суті. | Я всегда стараюсь писать свои письма короткими и по существу.
+  [tags: #exercises]
+
+- Did your team meet the deadline? | Чи вклалася ваша команда в терміни? | Уложилась ли ваша команда в сроки?
+  [tags: #exercises]
+
+- I hit snooze and ended up working late because I was behind schedule. | Я відклав будильник і зрештою працював допізна, бо відставав від графіка. | Я отложил будильник и в итоге работал допоздна, потому что отставал от графика.
+  [tags: #exercises]
+
+## pronunciation
+- I hit snooze three times before work today. | Сьогодні перед роботою я тричі відкладав будильник. | Сегодня перед работой я трижды откладывал будильник.
+  [tags: #pronunciation]
+
+- We need a follow-up meeting next Thursday. | Наступного четверга нам потрібна зустріч для подальшого обговорення. | В следующий четверг нам нужна встреча для последующего обсуждения.
+  [tags: #pronunciation]
+
+- She is juggling multiple tasks this week. | Цього тижня вона поєднує багато завдань одночасно. | На этой неделе она совмещает множество задач одновременно.
+  [tags: #pronunciation]
+
+- Please respond to urgent messages today. | Будь ласка, дайте відповідь на термінові повідомлення сьогодні. | Пожалуйста, ответьте на срочные сообщения сегодня.
+  [tags: #pronunciation]
+
+- I ended up working late again yesterday. | Учора я знову засидівся допізна за роботою. | Вчера я снова засиделся допоздна за работой.
+  [tags: #pronunciation]
+
+## dialogue
+- Do you usually start work early or late? | Ти зазвичай починаєш роботу рано чи пізно? | Ты обычно начинаешь работу рано или поздно?
+  [tags: #dialogue]
+
+- I usually start work early to finish my tasks. | Я зазвичай починаю роботу рано, щоб закінчити свої завдання. | Я обычно начинаю работу рано, чтобы закончить свои задачи.
+  [tags: #dialogue]
+
+- I hit snooze this morning. | Сьогодні вранці я відклав будильник. | Сегодня утром я отложил будильник.
+  [tags: #dialogue]
+
+- She rushed to work. | Вона помчала на роботу. | Она помчалась на работу.
+  [tags: #dialogue]
+
+- Please respond to messages today. | Будь ласка, дайте відповідь на повідомлення сьогодні. | Пожалуйста, ответьте на сообщения сегодня.
+  [tags: #dialogue]
+
+- His presentation was to the point. | Його презентація була по суті. | Его презентация была по существу.
+  [tags: #dialogue]
+
+- We scheduled a meeting for Monday. | Ми запланували зустріч на понеділок. | Мы запланировали встречу на понедельник.
+  [tags: #dialogue]
+
+- I am juggling multiple tasks today. | Сьогодні я поєдную кілька завдань одночасно. | Сегодня я совмещаю несколько задач одновременно.
+  [tags: #dialogue]
+
+- Our team met the deadline yesterday. | Учора наша команда вклалася в дедлайн. | Вчера наша команда уложилась в дедлайн.
+  [tags: #dialogue]
+
+- I logged off at 6 p.m. | Я вийшов із системи о 18:00. | Я вышел из системы в 18:00.
+  [tags: #dialogue]
+
+- Let’s push it to another day. | Перенесімо це на інший день. | Давайте перенесем это на другой день.
+  [tags: #dialogue]
+
+- I ended up working late last night. | Минулої ночі я зрештою засидівся допізна. | Прошлой ночью я в итоге засиделся допоздна.
+  [tags: #dialogue]
+
+- Do you often hit snooze in the morning? | Ти часто відкладаєш будильник уранці? | Ты часто откладываешь будильник утром?
+  [tags: #dialogue]
+
+- I often hit snooze because I am very tired. | Я часто відкладаю будильник, тому що дуже втомився. | Я часто откладываю будильник, потому что очень устал.
+  [tags: #dialogue]
+
+- How do you get urgent emails or messages during a busy day? | Як ти отримуєш термінові листи чи повідомлення у насичений день? | Как ты получаешь срочные письма или сообщения в насыщенный день?
+  [tags: #dialogue]
+
+- I get urgent emails from my manager on my phone. | Я отримую термінові листи від свого менеджера на телефон. | Я получаю срочные письма от своего менеджера на телефон.
+  [tags: #dialogue]
+
+- Do you prefer communication that is long or to the point? | Ти віддаєш перевагу довгому спілкуванню чи по суті? | Ты предпочитаешь долгое общение или по существу?
+  [tags: #dialogue]
+
+- I prefer communication to the point because it is clearer. | Я віддаю перевагу спілкуванню по суті, бо так зрозуміліше. | Я предпочитаю общение по существу, потому что так понятнее.
+  [tags: #dialogue]
+
+- What kind of things do you usually schedule during your week? | Які речі ти зазвичай плануєш протягом тижня? | Какие вещи ты обычно планируешь в течение недели?
+  [tags: #dialogue]
+
+- I usually schedule meetings and gym classes. | Зазвичай я планую зустрічі та заняття у спортзалі. | Обычно я планирую встречи и занятия в спортзале.
+  [tags: #dialogue]
+
+- Do you often need to juggle multiple tasks at the same time? | Тобі часто доводиться поєднувати кілька завдань одночасно? | Тебе часто приходится совмещать несколько задач одновременно?
+  [tags: #dialogue]
+
+- Yes, I juggle multiple tasks when I have many projects. | Так, я поєдную кілька завдань, коли маю багато проєктів. | Да, я совмещаю несколько задач, когда у меня много проектов.
+  [tags: #dialogue]
+
+- What time do you usually log off from work or study? | О котрій годині ти зазвичай виходиш із системи після роботи чи навчання? | В каком часу ты обычно выходишь из системы после работы или учебы?
+  [tags: #dialogue]
+
+- I usually log off at 6 p.m. to go for a walk. | Зазвичай я виходжу з системи о 18:00, щоб піти на прогулянку. | Обычно я выхожу из системы в 18:00, чтобы пойти на прогулку.
+  [tags: #dialogue]
+
+- Do you sometimes end up working late? | Чи трапляється тобі іноді засиджуватися допізна за роботою? | Случается ли тебе иногда засиживаться допоздна за работой?
+  [tags: #dialogue]
+
+- I end up working late when I am behind schedule. | Я засиджуюся допізна, коли відстаю від графіка. | Я засиживаюсь допоздна, когда отстаю от графика.
+  [tags: #dialogue]
+
+- What kinds of tasks do you usually push to another day? | Які завдання ти зазвичай переносиш на інший день? | Какие задачи ты обычно переносишь на другой день?
+  [tags: #dialogue]
+
+- I push long discussions to another day when we have no time. | Я переношу довгі обговорення на інший день, коли у нас немає часу. | Я переношу долгие обсуждения на другой день, когда у нас нет времени.
+  [tags: #dialogue]
+
+- Do you prefer to put calls on the calendar or decide things spontaneously? | Ти віддаєш перевагу внесенню дзвінків у календар чи спонтанному вирішенню питань? | Ты предпочитаешь вносить звонки в календарь или спонтанному решению вопросов?
+  [tags: #dialogue]
+
+- I prefer to put calls on the calendar so I don't forget. | Я віддаю перевагу внесенню дзвінків у календар, щоб нічого не забути. | Я предпочитаю вносить звонки в календарь, чтобы ничего не забыть.
+  [tags: #dialogue]
+
 
 # Title: 05 Present Perfect Continuous
 # Lang: en-US / uk-UA / ru-RU
