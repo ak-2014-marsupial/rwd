@@ -207,70 +207,17 @@
 # Lang: en-US / uk-UA / ru-RU
 
 ## vocabulary
-- study English | вивчати англійську | учить английский
-  [tags: #vocabulary]
-
-- do sports | займатися спортом | заниматься спортом
-  [tags: #vocabulary]
-
-- work at the company | працювати в компанії | работать в компании
-  [tags: #vocabulary]
-
-- work on the project | працювати над проєктом | работать над проектом
-  [tags: #vocabulary]
-
-- exercise | тренуватися, робити вправи | тренироваться, делать упражнения
-  [tags: #vocabulary]
 
 - study for exams | готуватися до іспитів | готовиться к экзаменам
-  [tags: #vocabulary]
-
-- play soccer | грати у футбол | играть в футбол
   [tags: #vocabulary]
 
 - wait for someone | чекати на когось | ждать кого-то
   [tags: #vocabulary]
 
-- paint the house | фарбувати будинок | красить дом
-  [tags: #vocabulary]
-
-- learn English | вчити англійську | учить английский
-  [tags: #vocabulary]
-
-- watch TV | дивитися телевізор | смотреть телевизор
-  [tags: #vocabulary]
-
-- rain all day | дощити весь день | лить весь день (о дожде)
-  [tags: #vocabulary]
-
-- cook dinner | готувати вечерю | готовить ужин
-  [tags: #vocabulary]
-
 - drive for hours | їхати за кермом годинами | ехать за рулем часами
   [tags: #vocabulary]
 
-- clean the bathroom | прибирати у ванній | убирать в ванной
-  [tags: #vocabulary]
-
-- garden | займатися садівництвом | заниматься садоводством
-  [tags: #vocabulary]
-
-- read books | читати книги | читать книги
-  [tags: #vocabulary]
-
 - live in the neighborhood | жити по сусідству (в цьому районі) | жить по соседству (в этом районе)
-  [tags: #vocabulary]
-
-- finish homework | закінчити домашнє завдання | закончить домашнее задание
-  [tags: #vocabulary]
-
-- run | бігати | бегать
-  [tags: #vocabulary]
-
-- make dinner | готувати вечерю | готовить ужин
-  [tags: #vocabulary]
-
-- travel to France | подорожувати до Франції | путешествовать во Францию
   [tags: #vocabulary]
 
 - play outside | грати на вулиці | играть на улице
@@ -279,31 +226,16 @@
 - score a goal | забити гол | забить гол
   [tags: #vocabulary]
 
-- make a cake | пекти торт | печь торт
-  [tags: #vocabulary]
-
-- write emails | писати електронні листи | писать электронные письма
-  [tags: #vocabulary]
-
 - fish all day | рибалити весь день | рыбачить весь день
   [tags: #vocabulary]
 
 - catch a fish | зловити рибу | поймать рыбу
   [tags: #vocabulary]
 
-- take exams | складати іспити | сдавать экзамены
-  [tags: #vocabulary]
-
-- pass exams | скласти (успішно) іспити | сдать (успешно) экзамены
-  [tags: #vocabulary]
-
 - festival preparations | підготовка до фестивалю | подготовка к фестивалю
   [tags: #vocabulary]
 
 - hectic | гарячковий, насичений, бурхливий | лихорадочный, суматошный, насыщенный
-  [tags: #vocabulary]
-
-- decorations | декорації, прикраси | декорации, украшения
   [tags: #vocabulary]
 
 - practice dance routine | репетирувати танцювальний номер | репетировать танцевальный номер

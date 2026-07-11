@@ -1,5 +1,5 @@
 {
-  "lastGlobalUpdate": "2026-07-06T12:48:28.564Z",
+  "lastGlobalUpdate": "2026-07-11T07:29:42.925Z",
   "files": {
     "studyless_pre": {
       "id": "studyless_pre",
@@ -17,9 +17,9 @@
       "format": "vocabulary",
       "order": 2,
       "version": "1.1.0",
-      "hash": "1c7dd4e74f89a140",
+      "hash": "2108c61f9c41e3c3",
       "path": "/StudyLess_Inter.dsl",
-      "size": "259.4kb"
+      "size": "256.8kb"
     },
     "trusty_rules": {
       "id": "trusty_rules",
@@ -71,5 +71,5 @@
     "a74d4fe4eeb2080e167916359f7ba135": "/configs/a74d4fe4eeb2080e167916359f7ba135.json",
     "5e76c465818d8c67e939863421c9961d": "/configs/5e76c465818d8c67e939863421c9961d.json"
   },
-  "admin_vault": "U2FsdGVkX18iiCPnMT3ovTBLVohyslF/iZll2foKJuuKbNQSGksPMoFFIW7kQ13tiqGLBergFMwADbupdW94trgwG4sJXQt1TxTmFdvWKJc1S2CUWxKJgSuiATsm7sU/v0zKCjbhRcgDuSlIxO1gUN7jblCvDRwkOlPN67RD1bR0J9J3jBATFCsvDEMjiiwKgvPYtsh6kUIjJkQ/8XfJHbAVD+k2/R4Rp2FOnT48FFNhFXUdPHUjGc6jp4+paC/9db5pAfjRIts4qiG+fd3VF6bZVUsGx48xG+NVWgqHYUI="
+  "admin_vault": "U2FsdGVkX18WXKwjFwniLKg8QugFT08syG9saEF1Fapzp145osZq07ug5KyZj0tu4ql8Z/UwidKX5P8ofuNr0f1wLCTCE+SjP+MfQZ2Jyti3oWfoCfGmnLcxVKhkbE+nD3FI/MSR1HBQwvsxZtZxvOSIv/Np02BgEZWDYawGLHpNSjHMQ3WOnJyoAEFv7VpG1xgVdzoiSyMuP4zxN1ufYwFe8tfqO5VcxwTYYW/t7O698aUHERinqqmk4JCrP4hp30VWoTxL77uYIEQ6gbeAD+bkPf/gLI549NRqdvfZBi4="
 }
