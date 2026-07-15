@@ -5,13 +5,14 @@ config:
   tagsCol: 4
   hideOnStudy: [2, 3]
   modes: ["full", "study"]
-  tagGroups:
-    "verb": 
-      "label": "Дієслово"
-      "tags": {"look": "Look", "get": "Get", "take": "Take", "put": "Put", "give": "Give", "go": "Go", "come": "Come"}
-    "particle": 
-      "label": "Прийменник"
-      "tags": {"after": "after", "around": "around", "back": "back", "forward": "forward", "up": "up", "across": "across", "in": "in", "for": "for", "at": "at"}
+  tagGroups: {
+    "verb": {
+      "label": "Дієслово",
+      "tags": {"look": "Look", "get": "Get", "take": "Take", "put": "Put", "give": "Give", "go": "Go", "come": "Come"} },
+    "particle": {
+      "label": "Прийменник",
+      "tags": {"after": "after", "around": "around", "back": "back", "forward": "forward", "up": "up", "across": "across", "in": "in", "for": "for", "at": "at"} }
+}
 ===
 | Фразове дієслово | Простий синонім | Переклад українською | Контекстний приклад | tags |
 | :--- | :--- | :--- | :--- | :--- |
