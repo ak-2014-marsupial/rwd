@@ -1,13 +1,13 @@
- ===
+===
 type: smart-table
 config:
   sortCol: 0
   tagsCol: 4
-  hideOnStudy:
+  hideOnStudy: [2, 3]
   modes: ["full", "study"]
   tagGroups:
     "verb": 
-      "label": "Дієслово-основа"
+      "label": "Дієслово"
       "tags": {"look": "Look", "get": "Get", "take": "Take", "put": "Put", "give": "Give", "go": "Go", "come": "Come"}
     "particle": 
       "label": "Прийменник"
@@ -15,9 +15,9 @@ config:
 ===
 | Фразове дієслово | Простий синонім | Переклад українською | Контекстний приклад | tags |
 | :--- | :--- | :--- | :--- | :--- |
-| **look at** | **watch** / **view** | дивитися (на щось/когось) | *Look at this picture* $\rightarrow$ *Watch this picture* | look, at |
-| **look for** | **seek** / **search** | шукати | *I am looking for my keys* $\rightarrow$ *I am searching for my keys* | look, for |
-| **look up** | **find** | шукати (інформацію) | *Look up the word* $\rightarrow$ *Find the word* | look, up |
+| **look at** | **watch** / **view** | дивитися (на щось/когось) | *Look at this picture* => *Watch this picture* | look, at |
+| **look for** | **seek** / **search** | шукати | *I am looking for my keys* => *I am searching for my keys* | look, for |
+| **look up** | **find** | шукати (інформацію) | *Look up the word* => *Find the word* | look, up |
 | **look back** | **remember** / **recall** | згадувати | *Looking back, it was fun* $\rightarrow$ *Remembering it, it was fun* | look, back |
 | **look after** | **protect** / **mind** | доглядати, піклуватися | *Look after the dog* $\rightarrow$ *Mind the dog* | look, after |
 | **look around** | **explore** / **visit** | оглядатися, досліджувати місце | *Let's look around the city* $\rightarrow$ *Let's explore the city* | look, around |
