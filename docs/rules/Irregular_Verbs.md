@@ -11,7 +11,7 @@ config:
     "functional": { "label": "Специфіка", "tags": {"rare": "Рідкісні", "confusing": "Плутанина", "modal": "Модальні", "phrasal": "Фразові"} }
   }
 ===
-| V1 | V2 | V3 | Translation | Tags |
+| V1 | V2 | V3 | Translation |
 |---|---|---|---|---|
 | abide | abode / abided | abode / abided | дотримуватися | mixed, v2=v3, rare |
 | arise | arose | arisen | виникати | all-diff, rare |
